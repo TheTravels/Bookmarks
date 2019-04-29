@@ -9,7 +9,7 @@ tools
 github
 ==
 
-		该目录用于记录 `git`, `github`相关书签
+		该目录用于记录 git, github, Markdown 相关书签
 
 
 
