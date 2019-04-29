@@ -20,6 +20,11 @@ Shell
 
 [Source insight(https://www.sourceinsight.com/):https://www.sourceinsight.com/]
 
+## Qt
+[Qt Downloads](http://download.qt.io/):http://download.qt.io/
+
+[Qt Creator的下载和安装](https://blog.csdn.net/weixin_38090427/article/details/83827678):https://blog.csdn.net/weixin_38090427/article/details/83827678
+
 
 ## 思维导图
 [XMind](https://www.xmind.net/):https://www.xmind.net/
