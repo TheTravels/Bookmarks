@@ -13,6 +13,30 @@ Shell
 
 ## Editor
 [Notepad++](https://notepad-plus-plus.org/):https://notepad-plus-plus.org/
+
 [Visual Studio Code](https://code.visualstudio.com/):https://code.visualstudio.com/
+
 [Atom](https://atom.io/):https://atom.io/
+
 [Source insight(https://www.sourceinsight.com/):https://www.sourceinsight.com/]
+
+
+## 思维导图
+[XMind](https://www.xmind.net/):https://www.xmind.net/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
