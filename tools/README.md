@@ -11,3 +11,8 @@ Shell
 [ARM 编译工具keil 和 IAR 命令行编译和下载](https://www.cnblogs.com/memorypro/p/9562919.html):https://www.cnblogs.com/memorypro/p/9562919.html
 
 
+## Editor
+[Notepad++](https://notepad-plus-plus.org/):https://notepad-plus-plus.org/
+[Visual Studio Code](https://code.visualstudio.com/):https://code.visualstudio.com/
+[Atom](https://atom.io/):https://atom.io/
+[Source insight(https://www.sourceinsight.com/):https://www.sourceinsight.com/]
