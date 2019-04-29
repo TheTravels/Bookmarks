@@ -11,7 +11,10 @@ github
 
 		该目录用于记录 git, github, Markdown 相关书签
 
+debain
+==
 
+		该目录用于记录操作系统相关书签
 
 
 

@@ -1,5 +1,5 @@
 # github
-该目录用于存放 git相关书签
+该目录用于记录 git相关书签
 
 ## markdown
 [markdown ](https://baike.baidu.com/item/markdown/3245829?fr=aladdin):https://baike.baidu.com/item/markdown/3245829?fr=aladdin
