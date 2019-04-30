@@ -29,6 +29,8 @@ Shell
 ## 思维导图
 [XMind](https://www.xmind.net/):https://www.xmind.net/
 
+[FreeMind](https://freemind.softonic.cn/):https://freemind.softonic.cn/
+
 
 
 
