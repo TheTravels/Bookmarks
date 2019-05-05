@@ -36,6 +36,10 @@ Shell
 
 [FreeMind](https://freemind.softonic.cn/):https://freemind.softonic.cn/
 
+[edrawsoft](https://mm.edrawsoft.cn):https://mm.edrawsoft.cn
+
+[mindline](http://www.mindline.cn):http://www.mindline.cn
+
 
 
 
