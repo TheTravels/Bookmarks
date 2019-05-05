@@ -25,6 +25,11 @@ Shell
 
 [Qt Creator的下载和安装](https://blog.csdn.net/weixin_38090427/article/details/83827678):https://blog.csdn.net/weixin_38090427/article/details/83827678
 
+# IDEA 
+[IDEA](http://www.jetbrains.com/idea/):http://www.jetbrains.com/idea/
+
+[IDEA](http://www.jetbrains.com/):http://www.jetbrains.com/
+
 
 ## 思维导图
 [XMind](https://www.xmind.net/):https://www.xmind.net/
