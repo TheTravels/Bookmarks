@@ -14,6 +14,10 @@
 
 [Markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed):https://www.jianshu.com/p/191d1e21f7ed
 
+[windows删除或修改本地Git保存的账号密码](https://blog.csdn.net/qq_33101675/article/details/80674686):https://blog.csdn.net/qq_33101675/article/details/80674686
+
+[git submodule 使用小结](https://www.jianshu.com/p/f8a55b972972/):https://www.jianshu.com/p/f8a55b972972/
+
 
 
 
