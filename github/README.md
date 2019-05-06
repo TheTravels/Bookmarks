@@ -9,6 +9,8 @@
 
 [git: windows git ssh keys生成](https://www.cnblogs.com/achengmu/p/6095046.html):https://www.cnblogs.com/achengmu/p/6095046.html
 
+[github 添加密钥实现无密码操作](https://blog.csdn.net/wanglei_storage/article/details/53258804):https://blog.csdn.net/wanglei_storage/article/details/53258804
+
 ## markdown
 [markdown ](https://baike.baidu.com/item/markdown/3245829?fr=aladdin):https://baike.baidu.com/item/markdown/3245829?fr=aladdin
 
