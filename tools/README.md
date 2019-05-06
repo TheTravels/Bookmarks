@@ -25,6 +25,13 @@ Shell
 
 [Qt Creator的下载和安装](https://blog.csdn.net/weixin_38090427/article/details/83827678):https://blog.csdn.net/weixin_38090427/article/details/83827678
 
+
+#文件比较工具
+[Meld](http://meldmerge.org/) : 文件比较工具,自由软件
+
+[Beyond Compare](https://www.scootersoftware.com/download.php) : 文件比较工具，收费软件
+
+
 # IDEA 
 [IDEA](http://www.jetbrains.com/idea/):http://www.jetbrains.com/idea/
 
