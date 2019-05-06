@@ -32,6 +32,22 @@ Shell
 [Beyond Compare](https://www.scootersoftware.com/download.php) : 文件比较工具，收费软件
 
 
+#仿真
+[TINA-TI](http://www.ti.com.cn/tool/cn/tina-ti) : 基于 SPICE 的模拟仿真程序
+
+[Proteusv8.7 sp3](http://www.zdfans.com/html/16957.html) : Proteus是英国Lab Center Electronics公司出版的EDA工具软件
+
+[手把手教你学51单片机与Proteus](http://www.dianyuan.com/class/album_362.html) : 本教程内容以应用试验的方式，内容涵盖单片机内部资源学习应用介绍，C语言基础知识开发，硬件数字电路的设计方式，全部从应用的角度进行课程讲解，为电子初学者打下良好的基础。
+
+[基于proteus虚拟环境的51单片机教程](http://www.dianyuan.com/class/album_126.html) : 此专辑主要介绍在Proteus环境下的51单片机。Proteus 是目前世界上唯一将电路仿真软件、PCB设计软件和虚拟模型仿真软件三合一的设计平台。Proteus 不仅具有其它EDA工具软件的仿真功能，还能仿真单片机及外围器件，它是目前最好的仿真单片机及外围器件的工具。从原理图布图、代码调试到单片机与外围电路协同仿真，一键切换到PCB设计，真正实现了从概念到产品的完整设计。
+
+
+
+
+#PCB 
+[PCB基础：Altium Designer教程](http://www.dianyuan.com/class/album_47.html) : 以"非稳态多谐振荡器"为例，介绍如何创建一个PCB工程。具体详细，简单易懂。
+
+
 # IDEA 
 [IDEA](http://www.jetbrains.com/idea/):http://www.jetbrains.com/idea/
 
