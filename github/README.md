@@ -18,7 +18,8 @@
 
 [git submodule 使用小结](https://www.jianshu.com/p/f8a55b972972/):https://www.jianshu.com/p/f8a55b972972/
 
-
+#Bitbucket
+[Bitbucket版本控制入门](https://www.jianshu.com/p/15d8f9c1fdf8):https://www.jianshu.com/p/15d8f9c1fdf8
 
 
 
