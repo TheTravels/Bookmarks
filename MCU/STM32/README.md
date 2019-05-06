@@ -6,6 +6,11 @@ STM32CubeMX
 [STM32CubeMX](https://www.stmcu.org.cn/document/detail/index/id-214984) : STM32CubeMX是基于eclipse 的一个插件，用来对STM32产品的配置及初始化代码的生成。(UM1718)
 
 
+Tools
+==
+[CoIDE](https://www.st.com/content/st_com/zh/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-ides/coide.html) : CooCox CoIDE，一个面向ARM Cortex MCU的免费且高度集成的软件开发环境
+
+
 F1
 ==
 
