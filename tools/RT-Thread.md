@@ -16,3 +16,10 @@
 
 [新手推荐开发板列表及其 BSP](https://www.rt-thread.org/document/site/tutorial/quick-start/more/):https://www.rt-thread.org/document/site/tutorial/quick-start/more/
 
+[RT-Thread编程指南](https://www.rt-thread.org/document/site/programming-manual/basic/basic/) : 介绍 RT-Thread 内核基础，包括：内核简介、系统的启动流程及内核配置的部分内容，为后面的章节奠定基础。
+
+[内核移植](https://www.rt-thread.org/document/site/programming-manual/porting/porting/) : 将 RT-Thread 内核移植到不同的硬件平台上
+
+
+
+
