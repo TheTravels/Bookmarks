@@ -26,14 +26,16 @@ Shell
 [Qt Creator的下载和安装](https://blog.csdn.net/weixin_38090427/article/details/83827678):https://blog.csdn.net/weixin_38090427/article/details/83827678
 
 
-#文件比较工具
+##文件比较工具
 [Meld](http://meldmerge.org/) : 文件比较工具,自由软件
 
 [Beyond Compare](https://www.scootersoftware.com/download.php) : 文件比较工具，收费软件
 
 
-#仿真
+##仿真
 [TINA-TI](http://www.ti.com.cn/tool/cn/tina-ti) : 基于 SPICE 的模拟仿真程序
+
+[TINA-TI 使用入门：快速入门指南 (Rev. A)](https://www.ti.com/seclit/ug/zhcu008/zhcu008.pdf) : 快速入门指南
 
 [Proteusv8.7 sp3](http://www.zdfans.com/html/16957.html) : Proteus是英国Lab Center Electronics公司出版的EDA工具软件
 
@@ -44,7 +46,7 @@ Shell
 
 
 
-#PCB 
+##PCB 
 [PCB基础：Altium Designer教程](http://www.dianyuan.com/class/album_47.html) : 以"非稳态多谐振荡器"为例，介绍如何创建一个PCB工程。具体详细，简单易懂。
 
 
