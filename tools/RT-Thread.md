@@ -10,6 +10,8 @@
 
 [SCons 构建工具](https://www.rt-thread.org/document/site/programming-manual/scons/scons/):https://www.rt-thread.org/document/site/programming-manual/scons/scons/
 
+[SCons 3.0.5](https://www.scons.org/doc/production/HTML/scons-user/index.html) : SCons 用户手册
+
 [Keil 模拟器 STM32F103 上手指南](https://www.rt-thread.org/document/site/tutorial/quick-start/stm32f103-simulator/stm32f103-simulator/):https://www.rt-thread.org/document/site/tutorial/quick-start/stm32f103-simulator/stm32f103-simulator/
 
 [STM32 BSP 说明](https://github.com/RT-Thread/rt-thread/blob/master/bsp/stm32/README.md):https://github.com/RT-Thread/rt-thread/blob/master/bsp/stm32/README.md

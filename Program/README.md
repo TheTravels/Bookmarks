@@ -2,6 +2,15 @@
 该项目用于存放Program书签
 
 
+C/C++
+==
+[2017版 C Primer Plus 第6版 中文版.pdf](https://www.douban.com/note/630704598/) :  C Primer Plus 第6版 中文版.pdf 北京：人民邮电出版社 
+
+[C Primer Plus第六版 中文版 扫描版与非扫描版百度云](https://blog.csdn.net/u010658816/article/details/82619827) : C Primer Plus第六版 中文版 扫描版与非扫描版百度云
+
+[C++ Primer Plus（第6版）_中文版](https://pan.baidu.com/s/17YKyScfBB9ZUCj0XKNKa7A#list/path=%2F) : C++ Primer Plus（第6版）_中文版
+
+
 Matlab
 ==
 [Matlab入门教程](http://www.dianyuan.com/class/album_142.html) : Matlab的入门教程，初学者的必经之路！

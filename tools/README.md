@@ -20,6 +20,8 @@ Shell
 
 [Source insight(https://www.sourceinsight.com/):https://www.sourceinsight.com/]
 
+[PDF-XChange](https://baike.baidu.com/item/PDF-XChange/5885564?fr=aladdin) : PDF-XChange [1]  是一款功能强大的PDF转换工具 
+
 ## Qt
 [Qt Downloads](http://download.qt.io/):http://download.qt.io/
 

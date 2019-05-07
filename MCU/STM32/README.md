@@ -10,6 +10,26 @@ Tools
 ==
 [CoIDE](https://www.st.com/content/st_com/zh/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-ides/coide.html) : CooCox CoIDE，一个面向ARM Cortex MCU的免费且高度集成的软件开发环境
 
+[Linux下STM32开发环境的搭建](https://www.cnblogs.com/amanlikethis/p/3803736.html) : Linux下STM32开发环境的搭建 
+
+[deepin安装stm32开发环境](https://www.bilibili.com/video/av35014671/) : deepin安装stm32开发环境 
+
+[Ubuntu下使用Makefile开发STM32（合集）](http://www.stmcu.org.cn/module/forum/thread-603753-1-1.html) : Ubuntu下使用Makefile开发STM32（合集） 
+
+[STM32CubeMX GCC Makefile project](https://www.ba0sh1.com/blog/2015/02/23/stm32cubemx-gcc-makefile/) : STM32CubeMX GCC Makefile project 
+
+[Build STM32 applications with Eclipse, GCC and STM32Cube](http://www.carminenoviello.com/2015/06/04/stm32-applications-eclipse-gcc-stcube/) : Build STM32 applications with Eclipse, GCC and STM32Cube 
+
+[Setting up a GCC/Eclipse toolchain for STM32Nucleo - Part I](www.carminenoviello.com/2014/12/28/setting-gcceclipse-toolchain-stm32nucleo-part-1/) : Setting up a GCC/Eclipse toolchain for STM32Nucleo - Part I 
+
+[How to quickly import a STM32CubeMX project inside an Eclipse project](http://www.carminenoviello.com/2015/11/02/quickly-import-stm32cubemx-project-eclipse-project/) : How to quickly import a STM32CubeMX project inside an Eclipse project 
+
+[blackmagic](https://github.com/blacksphere/blackmagic) : blackmagic 
+
+[Debug Probes](http://wiki.paparazziuav.org/wiki/Debug_Probes) : Debug Probes
+
+
+
 
 F1
 ==
