@@ -49,6 +49,12 @@ F4
 
 [RM0090|参考手册](https://www.stmcu.org.cn/document/detail/index/id-200614) : 先进的基于ARM 32位内核的微控制器STM32F405xx/07xx, STM32F415xx/17xx, STM32F42xxx 和 STM32F43xxx参考手册
 
+[STM32 之 Core Coupled Memory（CCM）内存](https://blog.csdn.net/ZCShouCSDN/article/details/79176306) : STM32F4特殊内存——CCM 
+
+[CCM - 极致发挥STM32F4性能的利器](https://blog.csdn.net/q7727765/article/details/48207259) : CCM(Core Coupled Memory)是给F4内核专用的全速64KB RAM, 它们没有经过总线矩阵, F4内核与之直接相连 
+
+[一个关于使用STM32F4芯片CCM RAM时的异常分析](https://www.eefocus.com/digiic/blog/17-01/402973_e00e8.html) : 一个关于使用STM32F4芯片CCM RAM时的异常分析  
+
 
 
 doc

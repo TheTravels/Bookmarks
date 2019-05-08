@@ -3,6 +3,8 @@ Shell
 ==
 
 ## Windows
+[Windows Terminal](https://github.com/microsoft/Terminal) : The new Windows Terminal, and the original Windows console host -- all in the same place!
+
 [Babun](http://babun.github.io ): [github](https://github.com/babun/babun) [Download](http://projects.reficio.org/babun/download)
 
 [Babun，一个开箱即用的 Windows Shell](https://blog.csdn.net/ly0303521/article/details/77960463):https://blog.csdn.net/ly0303521/article/details/77960463
