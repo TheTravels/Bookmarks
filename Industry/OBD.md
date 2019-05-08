@@ -13,5 +13,5 @@
 
 [什么是CAN-BUS？](https://car.autohome.com.cn/shuyu/detail_40_41_797.html):https://car.autohome.com.cn/shuyu/detail_40_41_797.html
 
-
+[EC20 R2.1](https://www.quectel.com/cn/product/ec20r21.htm) : EC20 R2.1是移远通信最近推出的LTE Cat 4无线通信模块 
 
