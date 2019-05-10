@@ -11,6 +11,12 @@
 
 [github 添加密钥实现无密码操作](https://blog.csdn.net/wanglei_storage/article/details/53258804):https://blog.csdn.net/wanglei_storage/article/details/53258804
 
+[git archive](https://cloud.tencent.com/developer/section/1138638) : git-archive - 从命名树创建文件的存档 
+
+[GitHub —— fork的仓库与原仓库保持同步](https://blog.csdn.net/starter_____/article/details/79321962) : 要让fork的仓库与原仓库保持同步，主要有两种方法 
+
+[.2 Git 分支 - 分支的新建与合并](https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E6%96%B0%E5%BB%BA%E4%B8%8E%E5%90%88%E5%B9%B6) : Git 分支 - 分支的新建与合并
+
 ## markdown
 [markdown ](https://baike.baidu.com/item/markdown/3245829?fr=aladdin):https://baike.baidu.com/item/markdown/3245829?fr=aladdin
 

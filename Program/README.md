@@ -10,6 +10,10 @@ C/C++
 
 [C++ Primer Plus（第6版）_中文版](https://pan.baidu.com/s/17YKyScfBB9ZUCj0XKNKa7A#list/path=%2F) : C++ Primer Plus（第6版）_中文版
 
+[void指针及其应用，C语言void指针及使用注意事项详解](http://c.biancheng.net/view/365.html) : void 指针是一种特殊的指针，表示为“无类型指针”
+
+[你必须知道的指针基础-7.void指针与函数指针](https://www.cnblogs.com/edisonchou/p/4666097.html) : 你必须知道的指针基础-7.void指针与函数指针
+
 
 Matlab
 ==
