@@ -17,6 +17,8 @@
 
 [.2 Git 分支 - 分支的新建与合并](https://git-scm.com/book/zh/v1/Git-%E5%88%86%E6%94%AF-%E5%88%86%E6%94%AF%E7%9A%84%E6%96%B0%E5%BB%BA%E4%B8%8E%E5%90%88%E5%B9%B6) : Git 分支 - 分支的新建与合并
 
+[.1 Git 与其他系统 - Git 与 Subversion](https://git-scm.com/book/zh/v1/Git-%E4%B8%8E%E5%85%B6%E4%BB%96%E7%B3%BB%E7%BB%9F-Git-%E4%B8%8E-Subversion) : .1 Git 与其他系统 - Git 与 Subversion 
+
 [git源码编译安装](https://www.jianshu.com/p/be7ee68a68a6) : Git是一款免费、开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目 
 
 [Downloads](https://git-scm.com/downloads/) : git Downloads 
