@@ -44,7 +44,20 @@ C++
 
 [__cxa_pure_virtual的目的是什么？(What is the purpose of __cxa_pure_virtual?)](http://www.it1352.com/474296.html) : __cxa_pure_virtual
 
+[值得推荐的C/C++框架和库,包含很多开源项目 (真的很强大)](https://blog.csdn.net/weixin_41413441/article/details/80873871) : 值得学习的C语言开源项目 
 
+[开源免费的C/C++网络库(c/c++ sockets library)](https://www.cnblogs.com/lidabo/p/3767794.html) : 开源免费的C/C++网络库(c/c++ sockets library) 
 
+[libcurl ](https://curl.haxx.se/libcurl/) : libcurl - the multiprotocol file transfer library 
+
+[libcurl编译](http://www.cnblogs.com/findumars/p/5087218.html) : libcurl编译 
+
+[POCO C++](https://pocoproject.org/about.html#features) : POCO C++ LIBRARIES INFORMATION 
+
+[Tinyhttpd](https://github.com/nengm/Tinyhttpd) : Tinyhttpd 
+
+[Tinyhttpd](https://github.com/EZLippi/Tinyhttpd) : Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net 
+
+[tinyhttpd源码详解](https://blog.csdn.net/zx714311728/article/details/52946152) : tinyhttpd源码详解 
 
 
