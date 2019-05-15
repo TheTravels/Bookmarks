@@ -9,7 +9,15 @@ pthread
 [论fork()函数与Linux中的多线程编程](https://www.cnblogs.com/hrhguanli/p/3779283.html) : 每天进步一点点——论fork()函数与Linux中的多线程编程  
 
 
+Socket
+==
+[send函数和recv函数](https://www.cnblogs.com/tianlangshu/p/6795681.html) : send函数和recv函数 
 
+[recv函数返回值总结](https://blog.csdn.net/hq354974212/article/details/76077635): recv函数返回值总结 
+
+[fcntl](https://baike.baidu.com/item/fcntl/6860021?fr=aladdin) : fcntl是计算机中的一种函数，通过fcntl可以改变已打开的文件性质。 
+
+[linux下recv 、send阻塞、非阻塞区别和用法](https://blog.csdn.net/gufeijunchi/article/details/41519205): linux下recv 、send阻塞、非阻塞区别和用法 
 
 
 
