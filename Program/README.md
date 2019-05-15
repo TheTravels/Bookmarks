@@ -28,7 +28,9 @@ python
 
 [0基础入门学习Python](http://www.dianyuan.com/class/album_169.html) : 《零基础入门学习Python》作者是小甲鱼。课程共16章，由浅入深，环环相扣
 
-
+Qt
+==
+[QT源码编译](https://blog.csdn.net/xiaoxiaoyusheng2012/article/details/45196879) : QT源码编译 
 
 Other
 ==
