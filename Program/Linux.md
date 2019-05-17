@@ -4,7 +4,9 @@
 
 Kernel
 ==
-[通过结构体成员的地址获取结构体变量的地址](https://blog.csdn.net/nawuyao/article/details/52693135): #define container_of(ptr, type, member) 
+[通过结构体成员的地址获取结构体变量的地址](https://blog.csdn.net/nawuyao/article/details/52693135): #define container_of(ptr, type, member)  
+
+[container of()函数简介](https://blog.csdn.net/s2603898260/article/details/79371024) : 在linux 内核编程中，会经常见到一个宏函数container_of(ptr,type,member)
 
 pthread 
 ==
