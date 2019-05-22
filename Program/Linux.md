@@ -44,6 +44,15 @@ C/C++
 
 [Linux（C/C++）下的文件操作open、fopen与freopen](https://www.cnblogs.com/fnlingnzb-learner/p/7040726.html) : Linux（C/C++）下的文件操作open、fopen与freopen 
 
+[如何通过ftell和fseek来获取文件大小](https://www.cnblogs.com/sj-lv/p/3444994.html) : 如何通过ftell和fseek来获取文件大小 
+
+[fopen中mode参数 r, w, a, r+, w+, a+ 具体区别](https://blog.csdn.net/u011985712/article/details/79852261) : fopen中mode参数 r, w, a, r+, w+, a+ 具体区别 
+
+[fgets](https://baike.baidu.com/item/fgets/10942211?fr=aladdin) : 从文件结构体指针stream中读取数据，每次读取一行。 
+
+[fopen中w w+ wb区别：](https://blog.csdn.net/guyue6670/article/details/6681037) : fopen中w w+ wb区别： 
+
+[Linux C open打开文件，然后清空文件内容](https://blog.csdn.net/u010889616/article/details/47670555) : Linux C open打开文件，然后清空文件内容 
 
 
 
