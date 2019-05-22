@@ -8,7 +8,9 @@
 
 [Putty自动断开](https://blog.csdn.net/Lh19931122/article/details/77949719) : 使用Putty连接连接服务器时，若是一段时间内没有操作就会断开，比如去上个厕所啥的，这个就比较蛋疼，但其实只要设置下，就好了。 
 
+[sftpDrive:windows上映射远程ssh目录为本地硬盘](http://www.path8.net/tn/archives/5501) : sftpDrive:windows上映射远程ssh目录为本地硬盘 
 
+[Downloading ExpanDrive](https://www.expandrive.com/download-expandrive/) : Downloading ExpanDrive 
 
 
 

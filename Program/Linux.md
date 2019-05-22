@@ -26,7 +26,30 @@ Socket
 [linux下recv 、send阻塞、非阻塞区别和用法](https://blog.csdn.net/gufeijunchi/article/details/41519205): linux下recv 、send阻塞、非阻塞区别和用法 
 
 
+C/C++
+==
+[Linux C 刷新终端屏幕的方法](https://blog.csdn.net/xiaowall/article/details/8299985) : Linux C 刷新终端屏幕的方法 
 
+[linux C判断文件是否存在](https://blog.csdn.net/kingjo002/article/details/8442146) : linux C判断文件是否存在 
+
+[man-pages](http://www.man7.org/linux/man-pages/man2/open.2.html) : Linux Programmer's Manual 
+
+[Linux C中的open函数](https://blog.csdn.net/weixin_39296438/article/details/79422068) : Linux C中的open函数 
+
+[O_APPEND的含义](https://blog.csdn.net/tianwailaibin/article/details/6771667) : O_APPEND的含义 
+
+[lseek详解](https://blog.csdn.net/wr_iskye/article/details/83418135) : lseek详解 
+
+[lseek](https://baike.baidu.com/item/lseek/6385407?fr=aladdin) : lseek函数（随机访问文件） 
+
+[Linux（C/C++）下的文件操作open、fopen与freopen](https://www.cnblogs.com/fnlingnzb-learner/p/7040726.html) : Linux（C/C++）下的文件操作open、fopen与freopen 
+
+
+
+
+MakeFile
+==
+[Linux学习笔记——例说makefile 头文件查找路径](https://blog.csdn.net/xukai871105/article/details/36476793) : Linux学习笔记——例说makefile 头文件查找路径 
 
 
 

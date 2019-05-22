@@ -36,6 +36,7 @@ Qt
 
 [QTcpSocket的使用步骤](https://blog.csdn.net/sehanlingfeng/article/details/79255293) : QTcpSocket的使用步骤 
 
+[QT 网络编程三（TCP版）](https://www.cnblogs.com/zhanggaofeng/p/6015467.html) : QT 网络编程三（TCP版） 
 
 Other
 ==

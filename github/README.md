@@ -23,6 +23,7 @@
 
 [Downloads](https://git-scm.com/downloads/) : git Downloads 
 
+[git中submodule子模块的添加、使用和删除](https://blog.csdn.net/guotianqing/article/details/82391665) : git中submodule子模块的添加、使用和删除 
 
 ## markdown
 [markdown ](https://baike.baidu.com/item/markdown/3245829?fr=aladdin):https://baike.baidu.com/item/markdown/3245829?fr=aladdin
