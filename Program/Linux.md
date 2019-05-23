@@ -54,6 +54,8 @@ C/C++
 
 [Linux C open打开文件，然后清空文件内容](https://blog.csdn.net/u010889616/article/details/47670555) : Linux C open打开文件，然后清空文件内容 
 
+[rename](https://baike.baidu.com/item/rename/4748209?fr=aladdin) : rename是一个计算函数，功能是给一个文件重命名 
+
 
 
 MakeFile
