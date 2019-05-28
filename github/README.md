@@ -42,4 +42,40 @@
 [Bitbucket版本控制入门](https://www.jianshu.com/p/15d8f9c1fdf8):https://www.jianshu.com/p/15d8f9c1fdf8
 
 
+##GitLab
+[GitLab Installation](https://about.gitlab.com/install/) : GitLab Installation 
+
+[GitLab搭建-使用清华大学开源软件镜像站](https://blog.csdn.net/qq_25116591/article/details/61916634) : GitLab搭建-使用清华大学开源软件镜像站 
+
+[Installation from source](https://docs.gitlab.com/ee/install/installation.html) : Installation from source
+
+[GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit) : GitLab Development Kit 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
