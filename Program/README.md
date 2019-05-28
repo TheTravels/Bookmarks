@@ -38,6 +38,10 @@ Qt
 
 [QT 网络编程三（TCP版）](https://www.cnblogs.com/zhanggaofeng/p/6015467.html) : QT 网络编程三（TCP版） 
 
+[QT5的程序打包发布（将QT5的工程项目打包成一个exe程序）](https://blog.csdn.net/windsnow1/article/details/78004265) : QT5的程序打包发布（将QT5的工程项目打包成一个exe程序） 
+
+[Enigma Virtual Box](https://enigmaprotector.com/en/downloads.html) : Enigma Virtual Box 
+
 Other
 ==
 [Ti实验室](http://www.dianyuan.com/class/album_209.html) : 几个ti实验内容
