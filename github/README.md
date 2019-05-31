@@ -53,7 +53,10 @@
 
 
 
+##Android
+[FastHub](https://github.com/k0shk0sh/FastHub) : FastHub the ultimate GitHub client for Android. 
 
+[Lerist/FastHub](https://github.com/Lerist/FastHub) : FastHub the ultimate GitHub client for Android. 
 
 
 
