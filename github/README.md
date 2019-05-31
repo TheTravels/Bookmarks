@@ -25,6 +25,15 @@
 
 [git中submodule子模块的添加、使用和删除](https://blog.csdn.net/guotianqing/article/details/82391665) : git中submodule子模块的添加、使用和删除 
 
+[merge](https://www.cnblogs.com/xinmengwuheng/p/7115549.html) : git分支开发，分支(feature)同步主干(master)代码，以及最终分支合并到主干的操作流程 
+
+[.gitignore](https://www.liaoxuefeng.com/wiki/896043488029600/900004590234208) : 忽略特殊文件 
+
+[gitignore](https://github.com/github/gitignore) A collection of useful .gitignore templates 
+
+[hub](https://github.com/github/hub) : A command-line tool that makes git easier to use with GitHub.  
+
+
 ## markdown
 [markdown ](https://baike.baidu.com/item/markdown/3245829?fr=aladdin):https://baike.baidu.com/item/markdown/3245829?fr=aladdin
 
