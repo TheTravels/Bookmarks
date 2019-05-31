@@ -56,6 +56,14 @@ C/C++
 
 [rename](https://baike.baidu.com/item/rename/4748209?fr=aladdin) : rename是一个计算函数，功能是给一个文件重命名 
 
+[printf "\033[ 颜色特效控制](https://blog.csdn.net/Primeprime/article/details/79708373) : printf "\033[ 颜色特效控制 
+
+[printf 输出格式设置\033[47\033[5m 与-8.8s](https://www.cnblogs.com/ch122633/p/8148866.html) : printf 输出格式设置\033[47\033[5m 与-8.8s 
+
+[printf("\033[1;33m ***** \033[0m \n");](https://www.cnblogs.com/ThatsMyTiger/p/6929391.html) : printf("\033[1;33m ***** \033[0m \n"); 
+
+
+
 
 
 MakeFile
