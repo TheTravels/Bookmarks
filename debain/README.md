@@ -14,3 +14,8 @@
 
 
 
+## putty
+==
+
+[PuTTY免用户名和密码登录](https://jingyan.baidu.com/article/e3c78d64883e313c4c85f5ea.html) : PuTTY免用户名和密码登录 
+
