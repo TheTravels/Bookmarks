@@ -6,7 +6,10 @@
 
 [手把手教你启用Win10的Linux子系统（超详细）](https://blog.csdn.net/zhangdongren/article/details/82663977) : 手把手教你启用Win10的Linux子系统（超详细） 
 
+## Windows
+==
 
+[win10每个应用窗口（不同软件）设置不同输入法](https://jingyan.baidu.com/article/636f38bb677fc1d6b84610ca.html) : win10每个应用窗口（不同软件）设置不同输入法 
 
 
 ## putty
