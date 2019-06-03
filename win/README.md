@@ -12,6 +12,8 @@
 [win10每个应用窗口（不同软件）设置不同输入法](https://jingyan.baidu.com/article/636f38bb677fc1d6b84610ca.html) : win10每个应用窗口（不同软件）设置不同输入法 
 
 
+[win10系统怎么隐藏桌面所有图标](https://zhidao.baidu.com/question/2270273361092824908.html) : win10系统怎么隐藏桌面所有图标 
+
 ## putty
 ==
 
