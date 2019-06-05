@@ -25,6 +25,8 @@ Socket
 
 [linux下recv 、send阻塞、非阻塞区别和用法](https://blog.csdn.net/gufeijunchi/article/details/41519205): linux下recv 、send阻塞、非阻塞区别和用法 
 
+[linux socket编程中的recv和send的返回值介绍及其含义。](https://blog.csdn.net/qq_26105397/article/details/80988429) : linux socket编程中的recv和send的返回值介绍及其含义。 
+
 
 C/C++
 ==
@@ -62,8 +64,11 @@ C/C++
 
 [printf("\033[1;33m ***** \033[0m \n");](https://www.cnblogs.com/ThatsMyTiger/p/6929391.html) : printf("\033[1;33m ***** \033[0m \n"); 
 
+[remove()](https://www.runoob.com/cprogramming/c-function-remove.html) : C 库函数 - remove() 
 
+[rename()](https://www.runoob.com/cprogramming/c-function-rename.html) : C 库函数 - rename() 
 
+[fread函数详解](https://www.cnblogs.com/melons/p/5791874.html) : fread函数详解 
 
 
 MakeFile

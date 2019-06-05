@@ -42,6 +42,8 @@ Qt
 
 [Enigma Virtual Box](https://enigmaprotector.com/en/downloads.html) : Enigma Virtual Box 
 
+[Qt工程使用第三方库——Qt下使用glut库](https://www.cnblogs.com/foundkey/p/5960851.html) : Qt工程使用第三方库——Qt下使用glut库 
+
 Other
 ==
 [Ti实验室](http://www.dianyuan.com/class/album_209.html) : 几个ti实验内容

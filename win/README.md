@@ -11,8 +11,25 @@
 
 [win10每个应用窗口（不同软件）设置不同输入法](https://jingyan.baidu.com/article/636f38bb677fc1d6b84610ca.html) : win10每个应用窗口（不同软件）设置不同输入法 
 
-
 [win10系统怎么隐藏桌面所有图标](https://zhidao.baidu.com/question/2270273361092824908.html) : win10系统怎么隐藏桌面所有图标 
+
+
+## SQL
+==
+
+[MySQL 安装](https://www.runoob.com/mysql/mysql-install.html) :  MySQL 教程 
+
+[用于 Visual Studio 的 SQL Server Data Tools](https://visualstudio.microsoft.com/zh-hans/vs/features/ssdt/) : 用于 Visual Studio 的 SQL Server Data Tools 
+
+[SQL Server Data Tools](https://docs.microsoft.com/zh-cn/sql/ssdt/sql-server-data-tools?view=sql-server-2017) : SQL Server Data Tools 
+
+[VisualStudio2013内置SQLServer入门](https://www.cnblogs.com/qixi233/p/4766451.html) : VisualStudio2013内置SQLServer入门 
+
+[使用设计器创建 SQL 数据库](https://docs.microsoft.com/zh-cn/visualstudio/data-tools/create-a-sql-database-by-using-a-designer?view=vs-2015) : 使用设计器创建 SQL 数据库 
+
+[MySQL数据库使用——MySQL在C/C++的API接口](https://blog.csdn.net/zxng_work/article/details/78926413) : MySQL数据库使用——MySQL在C/C++的API接口 
+
+
 
 ## putty
 ==

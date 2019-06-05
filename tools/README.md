@@ -70,8 +70,11 @@ Shell
 [mindline](http://www.mindline.cn):http://www.mindline.cn
 
 
+# VMWARE
 
+[VMware Workstation Pro 12.官方下载地址（已经更新到12.5.5）](https://blog.51cto.com/morehd/1907489) : VMware Workstation Pro 12.官方下载地址（已经更新到12.5.5） 
 
+[VMware Workstation 12专业版永久序列号](https://blog.csdn.net/u012955096/article/details/81358311) : VMware Workstation 12专业版永久序列号 
 
 
 
