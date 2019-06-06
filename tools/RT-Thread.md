@@ -52,9 +52,9 @@
 
 [STM32 系列外设驱动添加指南](https://github.com/RT-Thread/rt-thread/blob/master/bsp/stm32/docs/STM32%E7%B3%BB%E5%88%97%E5%A4%96%E8%AE%BE%E9%A9%B1%E5%8A%A8%E6%B7%BB%E5%8A%A0%E6%8C%87%E5%8D%97.md) : 本文档是为需要给现有的 STM32 BSP 添加更多外设驱动的开发者准备的。
 
-
+[Building and Installing SCons on Any System](https://www.scons.org/doc/production/HTML/scons-user/ch01s03.html) : Building and Installing SCons on Any System 
   
-
+[scons](https://github.com/SCons/scons) : SCons - a software construction tool http://scons.org 
 
 
 
