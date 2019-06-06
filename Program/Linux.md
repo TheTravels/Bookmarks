@@ -72,6 +72,22 @@ C/C++
 
 [C语言中的time函数总结](https://blog.csdn.net/hmxz2nn/article/details/77986450) : C语言中的time函数总结 
 
+[C 库函数 - time()](https://www.runoob.com/cprogramming/c-function-time.html) :  C 标准库 – <string.h> 
+
+[linux中open函数使用](https://www.cnblogs.com/songfeixiang/p/3733855.html) : linux中open函数使用 
+
+[linux中select 方法延迟](https://blog.csdn.net/a_tu_/article/details/40509393) : linux中select 方法延迟 
+
+[巧用select延时](https://blog.csdn.net/todo_cct/article/details/47081401) : 巧用select延时 
+
+[使用 select 函数实现更为精确的延时](http://durant35.github.io/2016/09/08/programPearls_precise%20delay%20using%20select/) : 使用 select 函数实现更为精确的延时 
+
+[Linux延时及时间函数总结](https://www.cnblogs.com/tdyizhen1314/p/4376348.html) : Linux延时及时间函数总结 
+
+
+
+
+
 
 MakeFile
 ==
