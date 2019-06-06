@@ -70,6 +70,8 @@ C/C++
 
 [fread函数详解](https://www.cnblogs.com/melons/p/5791874.html) : fread函数详解 
 
+[C语言中的time函数总结](https://blog.csdn.net/hmxz2nn/article/details/77986450) : C语言中的time函数总结 
+
 
 MakeFile
 ==
