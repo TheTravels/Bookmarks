@@ -33,6 +33,7 @@
 
 [hub](https://github.com/github/hub) : A command-line tool that makes git easier to use with GitHub.  
 
+[版本回退](https://www.liaoxuefeng.com/wiki/896043488029600/897013573512192) : 版本回退 
 
 ## markdown
 [markdown ](https://baike.baidu.com/item/markdown/3245829?fr=aladdin):https://baike.baidu.com/item/markdown/3245829?fr=aladdin
