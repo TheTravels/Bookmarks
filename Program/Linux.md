@@ -84,9 +84,13 @@ C/C++
 
 [Linux延时及时间函数总结](https://www.cnblogs.com/tdyizhen1314/p/4376348.html) : Linux延时及时间函数总结 
 
+[atoi()](https://www.runoob.com/cprogramming/c-function-atoi.html) : C 库函数 - atoi() 
 
+[浅谈linux的命令行解析参数之getopt_long函数](https://blog.csdn.net/qq_33850438/article/details/80172275) : 浅谈linux的命令行解析参数之getopt_long函数 
 
+[命令行选项解析函数(C语言)：getopt()和getopt_long()](https://www.cnblogs.com/chenliyang/p/6633739.html) : 命令行选项解析函数(C语言)：getopt()和getopt_long() 
 
+[4 个拥有绝佳命令行界面的Linux终端程序](https://www.linuxidc.com/Linux/2017-05/144066.htm) : 4 个拥有绝佳命令行界面的Linux终端程序 
 
 
 MakeFile
