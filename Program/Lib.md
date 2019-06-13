@@ -1,6 +1,17 @@
 # Lib
 该项目用于存放开源库书签
 
+Linux
+==
+[libcurl](https://baike.baidu.com/item/libcurl/5256898?fr=aladdin) : libcurl 
+
+[libcurl 使用方法简介](https://blog.csdn.net/myvest/article/details/82899788) : libcurl 使用方法简介 
+
+[linux curl用法详解](https://www.cnblogs.com/liqing1009/p/4196228.html) : linux curl用法详解 
+
+[ncurses](https://www.linuxjournal.com/article/1124) : ncurses: Portable Screen-Handling for Linux 
+
+[multitail](https://github.com/flok99/multitail/blob/master/INSTALL) : multitail 
 
 LibOpenCM3
 ==
