@@ -12,6 +12,12 @@ Kernel
 
 [linux内核数据结构之链表](https://www.cnblogs.com/Anker/p/3475643.html) : linux内核数据结构之链表 
 
+[Linux内核中经典链表 list_head 常见使用方法解析](https://blog.csdn.net/wanshilun/article/details/79747710) : Linux内核中经典链表 list_head 常见使用方法解析 
+
+[linux内核list解析](https://blog.csdn.net/sanwenyublog/article/details/50747234) : linux内核list解析 
+
+[Linux内核中经典链表 list_head 常见使用方法解析](https://blog.csdn.net/wanshilun/article/details/79747710) : Linux内核中经典链表 list_head 常见使用方法解析 
+
 pthread 
 ==
 [linux下fork和pthread混用的问题 ](https://blog.csdn.net/dux003/article/details/6001459) : linux下编程处理并行任务时，可以采用多进程模块(fork)或者多线程模型(pthread)。有时候还会采用混合的模式。当混合使用两者的时候，可能存在一些问题。 
@@ -106,7 +112,11 @@ MakeFile
 
 
 
+Shell
+==
+[linux shell 如何获取命令参数](https://blog.csdn.net/onionnmmn/article/details/81222533) : linux shell 如何获取命令参数 
 
+[linux shell中if的各种判断](https://www.jb51.net/article/159021.htm) : linux shell中if的各种判断 
 
 
 
