@@ -105,6 +105,9 @@ C/C++
 
 [4 个拥有绝佳命令行界面的Linux终端程序](https://www.linuxidc.com/Linux/2017-05/144066.htm) : 4 个拥有绝佳命令行界面的Linux终端程序 
 
+[linux C 获取当前的工作目录](https://blog.csdn.net/morixinguan/article/details/51838241) : linux C 获取当前的工作目录 
+
+
 
 MakeFile
 ==
