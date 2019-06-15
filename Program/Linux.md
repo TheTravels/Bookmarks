@@ -18,6 +18,9 @@ pthread
 
 [论fork()函数与Linux中的多线程编程](https://www.cnblogs.com/hrhguanli/p/3779283.html) : 每天进步一点点——论fork()函数与Linux中的多线程编程  
 
+[linux中fork（）函数详解（原创！！实例讲解） （转载）](https://www.cnblogs.com/jycboy/p/l_fork.html) : linux中fork（）函数详解（原创！！实例讲解） （转载） 
+
+[Linux中创建Daemon进程的三种方法](https://www.cnblogs.com/minico/p/7702020.html) : Linux中创建Daemon进程的三种方法 
 
 Socket
 ==
