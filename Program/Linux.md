@@ -8,6 +8,10 @@ Kernel
 
 [container of()函数简介](https://blog.csdn.net/s2603898260/article/details/79371024) : 在linux 内核编程中，会经常见到一个宏函数container_of(ptr,type,member)
 
+[深入分析 Linux 内核链表](https://www.ibm.com/developerworks/cn/linux/kernel/l-chain/) : 深入分析 Linux 内核链表 
+
+[linux内核数据结构之链表](https://www.cnblogs.com/Anker/p/3475643.html) : linux内核数据结构之链表 
+
 pthread 
 ==
 [linux下fork和pthread混用的问题 ](https://blog.csdn.net/dux003/article/details/6001459) : linux下编程处理并行任务时，可以采用多进程模块(fork)或者多线程模型(pthread)。有时候还会采用混合的模式。当混合使用两者的时候，可能存在一些问题。 
