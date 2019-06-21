@@ -119,6 +119,10 @@ C/C++
 
 [C语言之printf() %f 转换说明修饰符](https://blog.csdn.net/qq_32040767/article/details/77978303) : C语言之printf() %f 转换说明修饰符 
 
+[[Linux]Linux printf 输出重定向【转】](https://www.cnblogs.com/sky-heaven/p/7229139.html) : [Linux]Linux printf 输出重定向【转】 
+
+[linux内核va_list、va_start、va_arg、va_end](https://blog.csdn.net/youngstonep/article/details/24966541) : linux内核va_list、va_start、va_arg、va_end 
+
 
 MakeFile
 ==
