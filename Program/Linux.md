@@ -107,6 +107,17 @@ C/C++
 
 [linux C 获取当前的工作目录](https://blog.csdn.net/morixinguan/article/details/51838241) : linux C 获取当前的工作目录 
 
+[printf用法之打印2进制，八进制，十进制，十六进制](https://www.cnblogs.com/Howe-Young/p/4160289.html) : printf用法之打印2进制，八进制，十进制，十六进制 
+
+[Linux查看CPU和内存使用情况](https://www.cnblogs.com/suway/p/7232620.html) : Linux查看CPU和内存使用情况 
+
+[Qt中QString的比较](https://blog.csdn.net/chentianveiko/article/details/51353403) : Qt中QString的比较 
+
+[QString与char*的相互转换](https://blog.csdn.net/qq_33485434/article/details/78790285) : QString与char*的相互转换 
+
+[printf 格式对齐](https://blog.csdn.net/xuemiao1234/article/details/6577186) : printf 格式对齐 
+
+[C语言之printf() %f 转换说明修饰符](https://blog.csdn.net/qq_32040767/article/details/77978303) : C语言之printf() %f 转换说明修饰符 
 
 
 MakeFile
