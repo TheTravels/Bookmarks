@@ -13,6 +13,14 @@ Linux
 
 [multitail](https://github.com/flok99/multitail/blob/master/INSTALL) : multitail 
 
+pthread
+==
+[从pthread 到QThread](https://www.cnblogs.com/lfsblack/p/4614541.html?utm_source=tuicool) : 从pthread 到QThread 
+
+[qt中使用pthread的undefined错误](https://blog.csdn.net/xuleisdjn/article/details/78284714) : qt中使用pthread的undefined错误 
+
+[strncmp()](https://www.runoob.com/cprogramming/c-function-strncmp.html) : C 库函数 - strncmp() 
+
 LibOpenCM3
 ==
 [LibOpenCM3](http://libopencm3.org/) : LibOpenCM3官网
