@@ -28,6 +28,20 @@ pthread
 
 [Linux中创建Daemon进程的三种方法](https://www.cnblogs.com/minico/p/7702020.html) : Linux中创建Daemon进程的三种方法 
 
+[linux关于分离线程的一种用法](https://www.cnblogs.com/freesblog/articles/4589765.html) : linux关于分离线程的一种用法 
+
+[Linux中pthread_detach()线程注意](https://blog.csdn.net/mxgsgtc/article/details/82284967) : Linux中pthread_detach()线程注意 
+
+[Linux线程-互斥锁pthread_mutex_t](https://blog.csdn.net/weibo1230123/article/details/79036007) : Linux线程-互斥锁pthread_mutex_t 
+
+[pthread_mutex_t互斥锁](https://www.jianshu.com/p/af0ec2eded33) : pthread_mutex_t互斥锁 
+
+[linux线程互斥量pthread_mutex_t使用简介](https://blog.csdn.net/guotianqing/article/details/80559865) : linux线程互斥量pthread_mutex_t使用简介 
+
+[Linux进程之间资源保护](https://blog.csdn.net/mmhhj/article/details/61619662) : Linux进程之间资源保护 
+
+[Linux--线程池与进程池及线程池的简单实现](https://blog.csdn.net/sayhello_world/article/details/72829329) : Linux--线程池与进程池及线程池的简单实现 
+
 Socket
 ==
 [send函数和recv函数](https://www.cnblogs.com/tianlangshu/p/6795681.html) : send函数和recv函数 
