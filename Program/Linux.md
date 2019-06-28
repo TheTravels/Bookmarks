@@ -157,6 +157,9 @@ Shell
 
 [linux shell中if的各种判断](https://www.jb51.net/article/159021.htm) : linux shell中if的各种判断 
 
+[Linux diff命令](https://www.runoob.com/linux/linux-comm-diff.html) : Linux diff命令 
+
+[Linux命令之diff](https://www.cnblogs.com/diantong/p/9238348.html) : Linux命令之diff 
 
 
 
