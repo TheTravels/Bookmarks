@@ -123,10 +123,31 @@ C/C++
 
 [linux内核va_list、va_start、va_arg、va_end](https://blog.csdn.net/youngstonep/article/details/24966541) : linux内核va_list、va_start、va_arg、va_end 
 
+[用C语言如何获取当前Linux系统的用户名](https://blog.csdn.net/chenyijun/article/details/72869602) : 用C语言如何获取当前Linux系统的用户名 
+
+[fopen函数mode参数详解](https://blog.csdn.net/to_baidu/article/details/53456126) : fopen函数mode参数详解 
+
+[Linux 标准 输入 输出 重定向. printf 不输出到屏幕的解决办法](https://blog.csdn.net/wangxvfeng101/article/details/11558697) : Linux 标准 输入 输出 重定向. printf 不输出到屏幕的解决办法 
+
+[linux下unlink函数的使用](https://blog.csdn.net/zzzkiti/article/details/8517146) : linux下unlink函数的使用 
+
+[c++ 成员函数作为函数指针参数传入](https://blog.csdn.net/u011526858/article/details/50640520) : c++ 成员函数作为函数指针参数传入 
+
+[C++ 指向类成员函数指针的用法](https://www.cnblogs.com/findumars/p/8628053.html) : C++ 指向类成员函数指针的用法 
+
+[C++中类成员函数作为回调函数](https://blog.csdn.net/coolwriter/article/details/80598134) : C++中类成员函数作为回调函数 
 
 MakeFile
 ==
 [Linux学习笔记——例说makefile 头文件查找路径](https://blog.csdn.net/xukai871105/article/details/36476793) : Linux学习笔记——例说makefile 头文件查找路径 
+
+[如何从命令行传递参数的Makefile](http://www.it1352.com/230115.html) : 如何从命令行传递参数的Makefile 
+
+[make：编译管理工具make与makefile](https://www.lijiaocn.com/%E6%8A%80%E5%B7%A7/2012/10/29/linux-tool-make.html) : make：编译管理工具make与makefile 
+
+[在Makefile中得到自己所在的目录](https://blog.csdn.net/u013216061/article/details/73746661/) : 在Makefile中得到自己所在的目录 
+
+[makefile 中切换工作目录的问题](https://blog.csdn.net/merry3688/article/details/6188635) : makefile 中切换工作目录的问题 
 
 
 
