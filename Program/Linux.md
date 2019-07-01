@@ -42,6 +42,12 @@ pthread
 
 [Linux--线程池与进程池及线程池的简单实现](https://blog.csdn.net/sayhello_world/article/details/72829329) : Linux--线程池与进程池及线程池的简单实现 
 
+[pthread_mutex_t 和 pthread_cond_t 配合使用的简要分析](https://blog.csdn.net/chengonghao/article/details/51779279) : pthread_mutex_t 和 pthread_cond_t 配合使用的简要分析 
+
+[Linux pthread 线程池实现](https://www.cnblogs.com/tla001/p/6862308.html) : Linux pthread 线程池实现 
+
+[Linux 通用线程池的实现](https://www.cnblogs.com/lchb/articles/2762099.html) : Linux 通用线程池的实现 
+
 Socket
 ==
 [send函数和recv函数](https://www.cnblogs.com/tianlangshu/p/6795681.html) : send函数和recv函数 
