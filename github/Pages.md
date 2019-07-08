@@ -5,7 +5,7 @@
 
 [码云Pages](https://gitee.com/help/articles/4136#article-header0) : 码云帮助中心 
 
-
+[Hexo](https://hexo.io/zh-cn/docs/) : 欢迎使用 Hexo，本文档将帮助您快速上手 
 
 
 
