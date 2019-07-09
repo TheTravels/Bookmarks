@@ -11,3 +11,8 @@ mysql
 [Download Connector/C++](https://dev.mysql.com/downloads/connector/cpp/) : Download Connector/C++ 
 
 [QT5.5连接mysql5.6](https://blog.csdn.net/yy64578537/article/details/71006042/) : QT5.5连接mysql5.6 
+
+[Download MySQL Community Server](https://dev.mysql.com/downloads/mysql/8.0.html) : Download MySQL Community Server 
+
+[MySQL Connector/C (Archived Versions)](https://downloads.mysql.com/archives/c-c/) : MySQL Connector/C (Archived Versions) 
+
