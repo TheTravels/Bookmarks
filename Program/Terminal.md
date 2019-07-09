@@ -24,8 +24,11 @@
 
 [xconfig](https://baike.baidu.com/item/xconfig/4537602?fr=aladdin) : xconfig是linux下X Window环境中用于配制的一个工具，和menuconfig相似，但用法更友好方便。 
 
+[ncurses简单的一个多窗口程序](https://blog.csdn.net/liuhuiyan_2014/article/details/47093993) : ncurses简单的一个多窗口程序 
 
+[ncurses窗口机制：wprintw(), wrefresh()](https://blog.csdn.net/Rong_Toa/article/details/80753248) : ncurses窗口机制：wprintw(), wrefresh() 
 
+[C++ 实现俄罗斯方块](https://blog.csdn.net/whatiwhere/article/details/79904551) : C++ 实现俄罗斯方块 
 
-
+[ncurses examples](http://www.paulgriffiths.net/program/c/curses.php) : ncurses examples 
 
