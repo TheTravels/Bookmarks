@@ -12,5 +12,7 @@
 
 [Chapter 2 Installing MySQL for Visual Studio](https://dev.mysql.com/doc/visual-studio/en/visual-studio-install.html) : 第2章为Visual Studio安装MySQL 
 
+[visual studio 2013创建动态c++ dll并调用](https://blog.csdn.net/liuweiyuxiang/article/details/80590628) : visual studio 2013创建动态c++ dll并调用 
 
+[Navicat for MySQ中文破解版(无需激活码）](https://blog.csdn.net/a599174211/article/details/82795658) : Navicat for MySQ中文破解版(无需激活码） 
 
