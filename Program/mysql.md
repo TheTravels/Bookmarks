@@ -16,3 +16,4 @@ mysql
 
 [MySQL Connector/C (Archived Versions)](https://downloads.mysql.com/archives/c-c/) : MySQL Connector/C (Archived Versions) 
 
+[使用mysql的C API从数据库选择数据](https://blog.csdn.net/singleyellow/article/details/76284331) : 使用mysql的C API从数据库选择数据 
