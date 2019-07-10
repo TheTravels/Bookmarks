@@ -157,6 +157,12 @@ C/C++
 
 [C++中类成员函数作为回调函数](https://blog.csdn.net/coolwriter/article/details/80598134) : C++中类成员函数作为回调函数 
 
+[Linux 父进程发送信号杀死子进程](https://www.cnblogs.com/electronic/p/10945532.html) : Linux 父进程发送信号杀死子进程 
+
+[Linux下线程pid和tid](https://www.cnblogs.com/lakeone/p/3789117.html) : Linux下线程pid和tid 
+
+[linux-C子进程退出信号](https://blog.csdn.net/wangyin159/article/details/48323637) : linux-C子进程退出信号 
+
 MakeFile
 ==
 [Linux学习笔记——例说makefile 头文件查找路径](https://blog.csdn.net/xukai871105/article/details/36476793) : Linux学习笔记——例说makefile 头文件查找路径 
@@ -181,8 +187,9 @@ Shell
 
 [Linux命令之diff](https://www.cnblogs.com/diantong/p/9238348.html) : Linux命令之diff 
 
+[linux 程序定时重启脚本](https://blog.csdn.net/cgzhello1/article/details/7944769) : linux 程序定时重启脚本 
 
-
+[Linux 反弹shell（二）反弹shell的本质](https://xz.aliyun.com/t/2549) : Linux 反弹shell（二）反弹shell的本质 
 
 
 
