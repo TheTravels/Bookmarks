@@ -7,13 +7,15 @@
 
 [Hexo](https://hexo.io/zh-cn/docs/) : 欢迎使用 Hexo，本文档将帮助您快速上手 
 
+[从Hugo到Hexo](https://www.jianshu.com/p/3d250d516716) : 从Hugo到Hexo 
 
+[doublemine](https://notes.doublemine.me/tags/) : doublemine 
 
+[hexo-theme-yelee](https://github.com/MOxFIVE/hexo-theme-yelee) : hexo-theme-yelee 
 
+[litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) : litten/hexo-theme-yilia 
 
-
-
-
+[建站](https://hexo.io/zh-cn/docs/setup) : 建站 
 
 
 
