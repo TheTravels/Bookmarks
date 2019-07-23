@@ -1,6 +1,14 @@
 # AutomobileDiagnosis
 记录汽车诊断相关书签
 
+[车辆识别号码](https://baike.baidu.com/item/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/4338309?fromtitle=%E6%B1%BD%E8%BD%A6VIN%E7%A0%81&fromid=10965781&fr=aladdin) : 车辆识别号码 
+
+[车辆识别代号](https://baike.baidu.com/item/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E4%BB%A3%E5%8F%B7/7258270?fr=aladdin) : 车辆识别代号 
+
+[车辆VIN码的校验算法](https://blog.csdn.net/tutb12345/article/details/61415148) : 车辆VIN码的校验算法 
+
+[车辆识别码VIN校验位计算方法及实现　　VIN号检验、车架号检验　java、　Ｃ++](https://blog.csdn.net/shenhonglei1234/article/details/53102853/) : 车辆识别码VIN校验位计算方法及实现　　VIN号检验、车架号检验　java、　Ｃ++ 
+
 [UDS诊断入门](https://blog.csdn.net/u012252959/article/details/83063899):https://blog.csdn.net/u012252959/article/details/83063899
 
 [ISO14229系列之一：简介](https://www.cnblogs.com/autogeek/p/4458591.html):https://www.cnblogs.com/autogeek/p/4458591.html
