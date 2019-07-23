@@ -47,3 +47,5 @@ Qt
 Other
 ==
 [Ti实验室](http://www.dianyuan.com/class/album_209.html) : 几个ti实验内容
+
+[ASCII码对照表](http://ascii.911cha.com/) : ASCII码对照表 
