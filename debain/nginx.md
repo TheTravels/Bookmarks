@@ -11,14 +11,16 @@
 
 [nginx启动流程之work初始化](https://blog.csdn.net/apelife/article/details/53512988) : nginx启动流程之work初始化 
 
+[深入浅出Nginx](https://www.cnblogs.com/workdsz/articles/9546653.html) : 深入浅出Nginx 
 
+[从 mian 函数开始一步一步分析 nginx 执行流程（一）](https://www.cnblogs.com/zhuwbox/p/3983125.html) : 从 mian 函数开始一步一步分析 nginx 执行流程（一） 
 
+[从 mian 函数开始一步一步分析 nginx 执行流程（二）](https://www.cnblogs.com/zhuwbox/p/3983440.html) : 从 mian 函数开始一步一步分析 nginx 执行流程（二） 
 
+[从 mian 函数开始一步一步分析 nginx 执行流程（三）](https://www.cnblogs.com/zhuwbox/p/3985141.html) : 从 mian 函数开始一步一步分析 nginx 执行流程（三） 
 
+[从 mian 函数开始一步一步分析 nginx 执行流程（四）](https://www.cnblogs.com/zhuwbox/p/3986856.html) : 从 mian 函数开始一步一步分析 nginx 执行流程（四） 
 
-
-
-
-
+[Nginx源码研究八：nginx监听socket实现流程](https://www.cnblogs.com/yimuren/p/4485161.html) : Nginx源码研究八：nginx监听socket实现流程 
 
 
