@@ -13,20 +13,31 @@
 
 [doublemine](https://notes.doublemine.me/tags/) : doublemine 
 
+[建站](https://hexo.io/zh-cn/docs/setup) : 建站 
+
+[文档](https://hexo.io/zh-cn/docs/) : 文档 
+
+[指令](https://hexo.io/zh-cn/docs/commands) : 指令 
+
+[迁移](https://hexo.io/zh-cn/docs/migration) : 迁移 
+
+[写作](https://hexo.io/zh-cn/docs/writing) : 写作
+
+##主题
+==
+[NexT ](http://theme-next.iissnan.com/) : NexT 主题
+
+[安装 NexT](http://theme-next.iissnan.com/getting-started.html) : NexT 主题
+
+[iissnan/theme-next-docs](https://github.com/iissnan/theme-next-docs) : iissnan/theme-next-docs 
+
 [hexo-theme-yelee](https://github.com/MOxFIVE/hexo-theme-yelee) : http://moxfive.xyz/ 
 
 [litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia) : litten/hexo-theme-yilia 
 
 [NightFarmer/hugo-theme-yelee](https://github.com/NightFarmer/hugo-theme-yelee) : https://www.nightfarmer.top/ 
 
-[建站](https://hexo.io/zh-cn/docs/setup) : 建站 
-
-[文档](https://hexo.io/zh-cn/docs/) : 文档 
-
-
-
-
-
+[我的个人博客之旅：从jekyll到hexo](https://blog.csdn.net/u011475210/article/details/79023429) : 我的个人博客之旅：从jekyll到hexo 
 
 
 
