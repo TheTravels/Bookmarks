@@ -37,6 +37,20 @@
 
 [Nginx源码分析 - 主流程篇 - 模块的初始化](https://blog.csdn.net/initphp/article/details/51898955) : Nginx源码分析 - 主流程篇 - 模块的初始化 
 
+[nginx_tcp_proxy_module](http://yaoweibin.github.io/nginx_tcp_proxy_module/) : nginx_tcp_proxy_module 
+
+[yaoweibin/nginx_tcp_proxy_module](https://github.com/yaoweibin/nginx_tcp_proxy_module) : yaoweibin/nginx_tcp_proxy_module 
+
+[Nginx扩展（一）：nginx_tcp_proxy_module](https://snowolf.iteye.com/blog/1770251) : Nginx扩展（一）：nginx_tcp_proxy_module 
+
+[初学者指南](https://docshome.gitbooks.io/nginx-docs/content/%E4%BB%8B%E7%BB%8D/%E5%88%9D%E5%AD%A6%E8%80%85%E6%8C%87%E5%8D%97.html) : 初学者指南 
+
+[nginx listen指令浅析之add listen](https://www.jianshu.com/p/2dac438dc375) : nginx listen指令浅析之add listen 
+
+[Nginx深入详解之模块化体系结构](https://blog.csdn.net/zhangge3663/article/details/82913170) : Nginx深入详解之模块化体系结构 
+
+[深入理解Nginx的 模块化 ，全局观](https://blog.csdn.net/coolpale/article/details/80078769) : 深入理解Nginx的 模块化 ，全局观 
+
 [tengine和nginx哪个好](https://www.php.cn/nginx/425709.html) : tengine和nginx哪个好 
 
 ## tengine
