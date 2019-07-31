@@ -13,6 +13,8 @@
 
 [doublemine](https://notes.doublemine.me/tags/) : doublemine 
 
+[为什么用hexo代替jekyll](https://blog.csdn.net/aluomaidi/article/details/52620729) : 为什么用hexo代替jekyll 
+
 [建站](https://hexo.io/zh-cn/docs/setup) : 建站 
 
 [文档](https://hexo.io/zh-cn/docs/) : 文档 
@@ -22,6 +24,8 @@
 [迁移](https://hexo.io/zh-cn/docs/migration) : 迁移 
 
 [写作](https://hexo.io/zh-cn/docs/writing) : 写作
+
+[主题](https://hexo.io/zh-cn/docs/themes) : 主题 
 
 ##主题
 ==
