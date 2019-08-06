@@ -57,6 +57,12 @@
 
 [Welcome to NGINX Wiki!](https://www.nginx.com/resources/wiki/#listen) : Welcome to NGINX Wiki! 
 
+[开发一个Nginx模块(C语言和c++版本)](https://blog.csdn.net/qq_18810607/article/details/79886076) : 开发一个Nginx模块(C语言和c++版本) 
+
+[Nginx模块开发之最简单的Hello模块](https://blog.csdn.net/yasi_xi/article/details/40512137) : Nginx模块开发之最简单的Hello模块 
+
+[nginx 开发第三方模块的时调式日志的方法（终端printf输出日志）](https://blog.csdn.net/chenxun_2010/article/details/79267928) : nginx 开发第三方模块的时调式日志的方法（终端printf输出日志） 
+
 [tengine和nginx哪个好](https://www.php.cn/nginx/425709.html) : tengine和nginx哪个好 
 
 ## tengine
