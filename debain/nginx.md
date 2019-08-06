@@ -51,6 +51,12 @@
 
 [深入理解Nginx的 模块化 ，全局观](https://blog.csdn.net/coolpale/article/details/80078769) : 深入理解Nginx的 模块化 ，全局观 
 
+[nginx-1.4.4 + tcp_proxy_module手动编译安装](https://www.cnblogs.com/littlehb/p/3451228.html) : nginx-1.4.4 + tcp_proxy_module手动编译安装 
+
+[Nginx TCP Proxy模块的编译安装](https://www.cnblogs.com/suncoolcat/p/3283528.html) : Nginx TCP Proxy模块的编译安装 
+
+[Welcome to NGINX Wiki!](https://www.nginx.com/resources/wiki/#listen) : Welcome to NGINX Wiki! 
+
 [tengine和nginx哪个好](https://www.php.cn/nginx/425709.html) : tengine和nginx哪个好 
 
 ## tengine
