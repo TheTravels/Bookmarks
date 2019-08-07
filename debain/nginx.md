@@ -63,6 +63,8 @@
 
 [nginx 开发第三方模块的时调式日志的方法（终端printf输出日志）](https://blog.csdn.net/chenxun_2010/article/details/79267928) : nginx 开发第三方模块的时调式日志的方法（终端printf输出日志） 
 
+[Nginx源码分析 - HTTP模块篇 - ngx_http_optimize_servers函数和TCP连接建立过程](https://blog.csdn.net/initphp/article/details/53728970) : Nginx源码分析 - HTTP模块篇 - ngx_http_optimize_servers函数和TCP连接建立过程 
+
 [tengine和nginx哪个好](https://www.php.cn/nginx/425709.html) : tengine和nginx哪个好 
 
 ## tengine
