@@ -67,6 +67,22 @@
 
 [tengine和nginx哪个好](https://www.php.cn/nginx/425709.html) : tengine和nginx哪个好 
 
+## 负载均衡
+==
+[nginx配置tcp负载均衡](https://blog.csdn.net/xqnode/article/details/83114206) : nginx配置tcp负载均衡 
+
+[nginx upstream（基于TCP转发）的负载均衡搭建](https://blog.51cto.com/11804445/2056706) : nginx upstream（基于TCP转发）的负载均衡搭建 
+
+[nginx TCP 负载均衡配置](https://blog.csdn.net/wumingzcj/article/details/79422299) : nginx TCP 负载均衡配置 
+
+[Netty Tcp 负载均衡（上）----Nginx](https://segmentfault.com/a/1190000014341742?utm_source=tag-newest) : Netty Tcp 负载均衡（上）----Nginx 
+
+[Netty Tcp 负载均衡（上）----Nginx](https://segmentfault.com/a/1190000014341742) : Netty Tcp 负载均衡（上）----Nginx 
+
+[nginx 环境搭建以及HTTP和TCP的负载均衡](https://blog.csdn.net/dandan2zhuzhu/article/details/80887077) : nginx 环境搭建以及HTTP和TCP的负载均衡 
+
+[Nginx+负载均衡](https://www.jianshu.com/p/d479d79f825f) : Nginx+负载均衡 
+
 ## tengine
 ==
 
