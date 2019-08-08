@@ -12,7 +12,7 @@
 
 [Downloading ExpanDrive](https://www.expandrive.com/download-expandrive/) : Downloading ExpanDrive 
 
-
+[使用 Diff 和 Meld 工具比较两个目录的不同处](https://blog.csdn.net/qq_36512792/article/details/80344071) : 使用 Diff 和 Meld 工具比较两个目录的不同处 
 
 ## putty
 ==
