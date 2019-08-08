@@ -65,7 +65,29 @@
 
 [Nginx源码分析 - HTTP模块篇 - ngx_http_optimize_servers函数和TCP连接建立过程](https://blog.csdn.net/initphp/article/details/53728970) : Nginx源码分析 - HTTP模块篇 - ngx_http_optimize_servers函数和TCP连接建立过程 
 
+[Nginx的模块开发指南](https://blog.csdn.net/tab_tab_tab/article/details/51407418) : Nginx的模块开发指南 
+
+[一深入理解Nginx的 模块化 ，全局观](https://blog.csdn.net/youbingchen/article/details/51682228) : 一深入理解Nginx的 模块化 ，全局观 
+
+[Nginx模块开发入门](https://blog.csdn.net/sunvince/article/details/7052797) : Nginx模块开发入门 
+
+[Nginx的模块与工作原理](https://blog.csdn.net/kim_weir/article/details/80036693) : Nginx的模块与工作原理 
+
 [tengine和nginx哪个好](https://www.php.cn/nginx/425709.html) : tengine和nginx哪个好 
+
+## 源码解析
+==
+[ngx_http_wait_request_handler函数解析](https://blog.51cto.com/11490450/1765681) : ngx_http_wait_request_handler函数解析 
+
+[Nginx 模块自主开发六：源码剖析配置文件解析过程](https://blog.csdn.net/youbingchen/article/details/51782491) : Nginx 模块自主开发六：源码剖析配置文件解析过程 
+
+[Nginx 模块自主开发七：源码剖析整个Nginx框架](https://blog.csdn.net/youbingchen/article/details/51789088) : Nginx 模块自主开发七：源码剖析整个Nginx框架 
+
+[Nginx源码分析 - HTTP模块篇 - ngx_http_optimize_servers函数和TCP连接建立过程](https://blog.csdn.net/initphp/article/details/53728970) : Nginx源码分析 - HTTP模块篇 - ngx_http_optimize_servers函数和TCP连接建立过程 
+
+[Nginx模块开发之最简单的Hello模块](https://blog.csdn.net/yasi_xi/article/details/40512137) : Nginx模块开发之最简单的Hello模块 
+
+[Nginx的模块与工作原理](https://blog.csdn.net/kim_weir/article/details/80036693) : Nginx的模块与工作原理 
 
 ## 负载均衡
 ==
