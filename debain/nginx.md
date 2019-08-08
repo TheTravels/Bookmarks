@@ -73,6 +73,8 @@
 
 [Nginx的模块与工作原理](https://blog.csdn.net/kim_weir/article/details/80036693) : Nginx的模块与工作原理 
 
+[ubuntu下安装nginx时PCRE库、zlib库、OpenSSL库的安装](https://blog.csdn.net/somanlee/article/details/69808788) : ubuntu下安装nginx时PCRE库、zlib库、OpenSSL库的安装 
+
 [tengine和nginx哪个好](https://www.php.cn/nginx/425709.html) : tengine和nginx哪个好 
 
 ## 源码解析
