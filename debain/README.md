@@ -14,6 +14,12 @@
 
 [使用 Diff 和 Meld 工具比较两个目录的不同处](https://blog.csdn.net/qq_36512792/article/details/80344071) : 使用 Diff 和 Meld 工具比较两个目录的不同处 
 
+[Tcpdump命令抓包详细分析](https://www.cnblogs.com/ct20150811/p/9431976.html) : Tcpdump命令抓包详细分析 
+
+[使用SSH从服务器下载或上传文件](https://blog.csdn.net/zhaozhichenghpu/article/details/80975023) : 使用SSH从服务器下载或上传文件 
+
+[ubuntu安装mysqlclient](https://www.cnblogs.com/lajiao/p/9176060.html) : ubuntu安装mysqlclient 
+
 ## putty
 ==
 
