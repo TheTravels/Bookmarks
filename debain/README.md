@@ -25,3 +25,17 @@
 
 [PuTTY免用户名和密码登录](https://jingyan.baidu.com/article/e3c78d64883e313c4c85f5ea.html) : PuTTY免用户名和密码登录 
 
+
+## Androif
+==
+[使用UserLAnd在没有root的Android上安装和运行Linux发行版](https://ywnz.com/linuxsj/3854.html) : 使用UserLAnd在没有root的Android上安装和运行Linux发行版 
+
+[CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd/releases) : CypherpunkArmory/UserLAnd 
+
+[The Termux Wiki](https://wiki.termux.com/wiki/Main_Page) : The Termux Wiki 
+
+[YadominJinta/atilo](https://github.com/YadominJinta/atilo) : YadominJinta/atilo 
+
+[在Termux上使用GUI](https://www.jianshu.com/p/e1f8218c955b) : 在Termux上使用GUI 
+
+
