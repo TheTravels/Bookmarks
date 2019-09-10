@@ -68,6 +68,7 @@
 
 [C++ 下使用的 JSON 库 JSON for Modern C++ | 软件推介 ](http://www.sohu.com/a/211566734_827544) : C++ 下使用的 JSON 库 JSON for Modern C++ | 软件推介  
 
+[json for modern c++的使用](https://blog.csdn.net/fengxinlinux/article/details/71037244) : json for modern c++的使用 
 
 ## Obd
 ===
