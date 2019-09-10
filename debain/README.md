@@ -36,6 +36,6 @@
 
 [YadominJinta/atilo](https://github.com/YadominJinta/atilo) : YadominJinta/atilo 
 
-[在Termux上使用GUI](https://www.jianshu.com/p/e1f8218c955b) : 在Termux上使用GUI 
+[在Termux上使用GUI](https://www.jianshu.com/p/e1f8218c955bn) : 在Termux上使用GUI 
 
 
