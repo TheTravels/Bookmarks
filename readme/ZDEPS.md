@@ -58,9 +58,22 @@
 [C语言字符串处理函数之字符串转换、查询函数](https://baijiahao.baidu.com/s?id=1605595448917218974&wfr=spider&for=pc) : C语言字符串处理函数之字符串转换、查询函数 
 
 
+## JSON 
+===
+[JSON](http://www.json.org/) : JSON  
+
+[nlohmann/json](https://github.com/nlohmann/json) : nlohmann/json 
+
+[JSON++](https://bitbucket.org/tunnuz/json/src/default/) : JSON++ 
+
+[C++ 下使用的 JSON 库 JSON for Modern C++ | 软件推介 ](http://www.sohu.com/a/211566734_827544) : C++ 下使用的 JSON 库 JSON for Modern C++ | 软件推介  
 
 
+## Obd
+===
+[Obd](http://factory.zodtool.com/Obd) : Obd
 
+[position](http://factory.zodtool.com/index.php/factory/api/position) : position 
 
 
 
