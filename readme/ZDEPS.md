@@ -24,12 +24,42 @@
 ===
 [vs 打包的安装端,强制必须管理员启动](https://bbs.csdn.net/topics/390627874) : vs 打包的安装端,强制必须管理员启动 
 
+[c#解析json字符串处理（最清晰易懂的方法）](https://blog.csdn.net/sajiazaici/article/details/77647625) : c#解析json字符串处理（最清晰易懂的方法） 
+
+[C#中ListView的简单使用方法](https://www.cnblogs.com/xielong/p/4692456.html) : C#中ListView的简单使用方法 
+
+[C# 读取文件内容](https://www.cnblogs.com/ryanzheng/p/10934083.html) : C# 读取文件内容 
+
+[C# 文本文件的读写](https://www.runoob.com/csharp/csharp-text-files.html) : C# 文本文件的读写 
+
 
 ## 4G 模块
 ===
 [EC25](https://www.quectel.com/product/ec25.htm) : LTE Standard EC25 产品选型 
 
 [EC20 R2.1](https://www.quectel.com/cn/product/ec20r21.htm) : EC20 R2.1 
+
+[使用EC20模组进行GNNS地理定位(AT命令)](https://www.cnblogs.com/coversky/p/8276814.html) : 使用EC20模组进行GNNS地理定位(AT命令) 
+
+## Nginx
+===
+[nginx.org](http://nginx.org/) : nginx news 
+
+[TheTravels/nginx](https://gitee.com/TheTravels/nginx) : TheTravels/nginx 
+
+[Welcome to NGINX Wiki!](https://www.nginx.com/resources/wiki/#listen) : Welcome to NGINX Wiki! 
+
+[Nginx学习之十-超时管理（定时器事件）](https://blog.csdn.net/xiajun07061225/article/details/9284543) : Nginx学习之十-超时管理（定时器事件） 
+
+[Nginx学习之十-超时管理（定时器事件）](https://blog.csdn.net/xiajun07061225/article/details/9284543) : Nginx学习之十-超时管理（定时器事件） 
+
+[Nginx的定时事件的实现（timer）](https://www.cnblogs.com/my_life/articles/5253175.html) : Nginx的定时事件的实现（timer） 
+
+[Nginx源码分析 - Event事件篇 - Nginx的Event事件模块概览](https://blog.csdn.net/initphp/article/details/52279442) : Nginx源码分析 - Event事件篇 - Nginx的Event事件模块概览 
+
+[NGX学习: ngx_event事件机制](https://blog.csdn.net/poppick/article/details/51038763) : NGX学习: ngx_event事件机制 
+
+[nginx子请求并发处理](https://blog.csdn.net/liu0808/article/details/82900823) : nginx子请求并发处理 
 
 ## Qt
 ===
@@ -70,11 +100,18 @@
 
 [json for modern c++的使用](https://blog.csdn.net/fengxinlinux/article/details/71037244) : json for modern c++的使用 
 
+[JSON Checker](http://www.raboof.com/projects/jsonchecker/) : JSON Checker 
+
+[JSON for Modern C++ 使用总结](https://blog.csdn.net/tayuC/article/details/78185609) : JSON for Modern C++ 使用总结 
+
+[JSON for Modern C++](https://www.jianshu.com/p/69e57f2af904?tdsourcetag=s_pctim_aiomsg) : JSON for Modern C++ 
+
 ## Obd
 ===
 [Obd](http://factory.zodtool.com/Obd) : Obd
 
 [position](http://factory.zodtool.com/index.php/factory/api/position) : position 
 
+[SQL](http://39.108.72.130/pma_d069ab98/sql.php?db=xcwy&table=tbl_obd_4g&server=1&target=&token=376f00185f3c9ad1c1dbb256591be883#PMAURL-0:sql.php?db=xcwy&table=tbl_obd_4g&server=1&target=&token=7026c8be149bb882a79fef674f14651e) : SQL 
 
 
