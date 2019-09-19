@@ -87,6 +87,15 @@
 
 [C语言字符串处理函数之字符串转换、查询函数](https://baijiahao.baidu.com/s?id=1605595448917218974&wfr=spider&for=pc) : C语言字符串处理函数之字符串转换、查询函数 
 
+[Linux版本号的意义](https://blog.csdn.net/xf_zhen/article/details/79047559) : Linux版本号的意义 
+
+[linux内核版本的信息简介](https://baijiahao.baidu.com/s?id=1608056053418991460&wfr=spider&for=pc) : linux内核版本的信息简介 
+
+[C语言中mktime函数功能及用法](https://www.cnblogs.com/zendu/p/4987899.html) : C语言中mktime函数功能及用法 
+
+## Git
+===
+[GIT 强制更新](https://blog.csdn.net/m0_37983376/article/details/89489363) : GIT 强制更新 
 
 ## JSON 
 ===
@@ -114,4 +123,23 @@
 
 [SQL](http://39.108.72.130/pma_d069ab98/sql.php?db=xcwy&table=tbl_obd_4g&server=1&target=&token=376f00185f3c9ad1c1dbb256591be883#PMAURL-0:sql.php?db=xcwy&table=tbl_obd_4g&server=1&target=&token=7026c8be149bb882a79fef674f14651e) : SQL 
 
+
+
+## 编码
+===
+[GB2312-80](https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E4%BA%A4%E6%8D%A2%E7%94%A8%E6%B1%89%E5%AD%97%E7%BC%96%E7%A0%81%E5%AD%97%E7%AC%A6%E9%9B%86/8074272?fromtitle=GB2312-80&fromid=4781245) : GB2312-80 
+
+[细说：Unicode, UTF-8, UTF-16, UTF-32, UCS-2, UCS-4](https://www.cnblogs.com/malecrab/p/5300503.html) : 细说：Unicode, UTF-8, UTF-16, UTF-32, UCS-2, UCS-4 
+
+[ANSI, unicode, UTF-8编码详解](https://blog.51cto.com/1038741/1757423) : ANSI, unicode, UTF-8编码详解 
+
+[ANSI和Unicode互相转换](https://blog.csdn.net/sinat_33397705/article/details/79478205) : ANSI和Unicode互相转换 
+
+[Unicode码](https://baike.baidu.com/item/Unicode%E7%A0%81/7704811) : Unicode码 
+
+[UNICODE字符串与多字节字符串的转换](https://www.cnblogs.com/MrYuan/p/5171249.html) : UNICODE字符串与多字节字符串的转换 
+
+[MultiByteToWideChar和WideCharToMultiByte用法详解](https://www.cnblogs.com/ranjiewen/p/5770639.html) : MultiByteToWideChar和WideCharToMultiByte用法详解 
+
+[MFC中字符集](https://blog.csdn.net/luoyouren/article/details/46389411) : MFC中字符集（3）——Unicode字符串的MFC支持及其在Visual Studio中的设置 
 
