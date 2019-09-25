@@ -72,6 +72,20 @@
 [QT QLineEdit背景文字提示](https://blog.csdn.net/wuyu92877/article/details/77879997) : QT QLineEdit背景文字提示 
 
 
+## Linux 
+===
+[linux下杀死进程（kill）的N种方法](https://blog.csdn.net/andy572633/article/details/7211546) : linux下杀死进程（kill）的N种方法 
+
+[Install CMake on Ubuntu 12.04](https://blog.csdn.net/arackethis/article/details/42130761) : Install CMake on Ubuntu 12.04 
+
+[Ubuntu18.04 安装MySQL](https://blog.csdn.net/weixx3/article/details/80782479) :Ubuntu18.04 安装MySQL 
+
+[ubuntu安装mysqlclient](https://www.cnblogs.com/lajiao/p/9176060.html) : ubuntu安装mysqlclient 
+
+[ubuntu gcc 安装 使用](https://blog.csdn.net/qq_35865125/article/details/80519030) : ubuntu gcc 安装 使用 
+
+[Ubuntu Linux Install GNU GCC Compiler and Development Environment](https://www.cyberciti.biz/faq/howto-installing-gnu-c-compiler-development-environment-on-ubuntu/) :Ubuntu Linux Install GNU GCC Compiler and Development Environment 
+
 ## TEA加密算法
 ===
 [TEA加密算法Demo](https://blog.csdn.net/yunjie167/article/details/84553509) : TEA加密算法 
@@ -142,4 +156,16 @@
 [MultiByteToWideChar和WideCharToMultiByte用法详解](https://www.cnblogs.com/ranjiewen/p/5770639.html) : MultiByteToWideChar和WideCharToMultiByte用法详解 
 
 [MFC中字符集](https://blog.csdn.net/luoyouren/article/details/46389411) : MFC中字符集（3）——Unicode字符串的MFC支持及其在Visual Studio中的设置 
+
+
+## Other
+===
+[Edraw破解注册机（亲测可用）](https://blog.csdn.net/qq_32670879/article/details/84142478) : Edraw破解注册机（亲测可用） 
+
+[Microsoft Visio 2016](http://www.zdfans.com/html/18399.html) : Microsoft Visio 2016 
+
+[microsoft visio 2013简体中文破解版](https://blog.csdn.net/xfxf996/article/details/80860792) : microsoft visio 2013简体中文破解版 
+
+
+
 
