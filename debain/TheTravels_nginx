@@ -1,0 +1,186 @@
+
+./configure --add-module=nginx_tcp_proxy_module-master  --with-pcre=pcre-8.32 --with-openssl=openssl-1.0.1e --with-zlib=zlib-1.2.7 --with-poll_module --prefix=/home/lyh/softs/nginx-1.2.7/run  
+./configure --add-module=nginx_tcp_proxy_module  --with-pcre=pcre-8.32 --with-openssl=openssl-1.0.1e --with-zlib=zlib-1.2.7 --with-poll_module --prefix=/home/mrafour/tools  
+./configure --add-module=nginx_tcp_proxy_module  --with-pcre=pcre-8.32 --with-openssl=openssl-1.0.1e --with-poll_module --prefix=/home/mrafour/tools  
+./configure --add-module=nginx_tcp_proxy_module  --with-debug --with-poll_module --prefix=/home/mrafour/tools  
+./configure --add-module=modules/ngx_obd --with-poll_module --prefix=/home/mrafour/tools 
+
+/home/mrafour/tools
+ git@github.com:TheTravels/Tinyhttpd.git
+ https://gitee.com/TheTravels/nginx.git
+ https://gitee.com/TheTravels/Tinyhttpd.git
+
+./configure --prefix=/home/mrafour/tools/nginx --user=nginx --group=nginx --with-http_stub_status_module --with-http_ssl_module
+./configure --prefix=/home/huangshihai/tools/nginx --with-http_stub_status_module --with-http_ssl_module
+./configure --prefix=/home/obd/tools/nginx --with-http_stub_status_module --with-http_ssl_module
+
+./configure --prefix=/home/mrafour/tools/nginx --with-http_stub_status_module  
+./configure --prefix=/home/huangshihai/tools/nginx --with-http_stub_status_module --with-http_realip_module --with-http_ssl_module --with-pcre --with-http_realip_module --with-stream
+
+./configure --prefix=/home/obd/tools/nginx --with-http_stub_status_module --with-http_realip_module --with-http_ssl_module --with-pcre --with-http_realip_module --with-stream
+
+
+./configure --add-module=modules/ngx_obd --with-poll_module --prefix=/home/huangshihai/tools/nginx_obd 
+./configure --add-module=modules/ngx_obd --with-poll_module --prefix=/home/zlh/tools/nginx_obd 
+stream{
+        upstream myServer{
+                server 39.108.72.130:22 weight=1;
+                server 192.168.1.2:8002 weight=1;
+        }
+        server {
+          proxy_connect_timeout 1d;  #设置连接超时1天
+          proxy_timeout 1d;
+          listen 9910 so_keepalive=on;  #代理8099端口
+          proxy_pass  myServer;
+          tcp_nodelay on;
+    }
+}
+
+
+
+stream{
+	upstream myServer{
+		
+		server 192.168.1.1:8001 weight=1;
+		server 192.168.1.2:8002 weight=1;
+
+	}
+
+	server {
+          proxy_connect_timeout 1d;  #设置连接超时1天
+          proxy_timeout 1d;     
+          listen 8099 so_keepalive=on;  #代理8099端口
+          proxy_pass  myServer;
+          tcp_nodelay on;
+    }
+}
+
+./src/event/ngx_event_accept.c:62:            s = accept(lc->fd, &sa.sockaddr, &socklen);
+./src/event/ngx_event_accept.c:65:        s = accept(lc->fd, &sa.sockaddr, &socklen);
+
+ngx_event_accept
+rev->handler = ngx_obd_wait_request_handler;
+
+[ngx_obd_init_connection--221] into
+[ngx_obd_wait_request_handler--406] size:1024
+[ngx_obd_wait_request_handler--432] n:379
+[ngx_obd_wait_request_handler--470] start:GET / OBD/1.1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Accept-Language: en-US,en;q=0.5
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Upgrade-Insecure-Requests: 1
+Accept-Encoding: gzip, deflate
+Host: 192.168.1.186:8080
+Connection: Keep-Alive
+
+
+[ngx_obd_process_request_line--1053] into
+[ngx_obd_process_request_line--1070] n:379
+[ngx_obd_process_request_line--1202]
+[ngx_obd_process_request_line--1204] exit
+[ngx_obd_init_connection--221] into
+[ngx_obd_wait_request_handler--406] size:1024
+[ngx_obd_wait_request_handler--432] n:275
+[ngx_obd_wait_request_handler--470] start:GET /favicon.ico OBD/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+Host: 192.168.1.186:8080
+DNT: 1
+Connection: Keep-Alive
+            r->header_in->pos = r->header_in->start;
+            r->header_in->last = r->header_in->start;
+secure-Requests
+[ngx_obd_process_request_line--1053] into
+[ngx_obd_process_request_line--1070] n:275
+[ngx_obd_process_request_line--1202]
+[ngx_obd_process_request_line--1204] exit
+
+[ngx_obd_init_connection--221] into
+[ngx_obd_wait_request_handler--406] size:1024
+[ngx_obd_wait_request_handler--432] n:53
+[ngx_obd_wait_request_handler--470] start:##VIN0123456789ABCD
+[ngx_obd_process_request_line--1053] into
+[ngx_obd_process_request_line--1070] n:53
+[ngx_obd_process_request_line--1202] ##VIN0123456789ABCD
+[ngx_obd_process_request_line--1204] exit
+
+    printf("[%s--%d] port:%d [%d]\n", __func__, __LINE__, u.port, u.default_port);
+    printf("[%s--%d] cf:%s cmd:%s\n", __func__, __LINE__, cf->name, cmd->name.data);
+
+
+
+
+
+
+
+
+
+
+
+    tcp {
+        upstream cluster {
+            # simple round-robin
+            server 192.168.0.1:80;
+            server 192.168.0.2:80;
+            check interval=3000 rise=2 fall=5 timeout=1000;
+            #check interval=3000 rise=2 fall=5 timeout=1000 type=ssl_hello;
+            #check interval=3000 rise=2 fall=5 timeout=1000 type=obd;
+            #check_obd_send "GET / OBD/1.0\r\n\r\n";
+            #check_obd_expect_alive obd_2xx obd_3xx;
+        }
+        server {
+            listen 8888;
+            proxy_pass cluster;
+        }
+    }
+
+tcp {
+    upstream cluster {
+        # simple round-robin
+        server 192.168.0.1:80;
+        server 192.168.0.2:80;
+        check interval=3000 rise=2 fall=5 timeout=1000;
+        #check interval=3000 rise=2 fall=5 timeout=1000 type=ssl_hello;
+        #check interval=3000 rise=2 fall=5 timeout=1000 type=obd;
+        #check_obd_send "GET / OBD/1.0\r\n\r\n";
+        #check_obd_expect_alive obd_2xx obd_3xx;
+    }
+    server {
+        listen 8888;
+        proxy_pass cluster;
+    }
+}
+
+
+
+daemon off;
+master_process off;
+
+cJSON                            ngx_http_postpone_filter_module.c  ngx_obd_core_module.h   ngx_obd_script.c                ngx_obd_upstream_round_robin.h  v2
+config                           ngx_http_write_filter_module.c     ngx_obd.h               ngx_obd_script.h                ngx_obd_variables.c
+modules                          ngx_obd.c                          ngx_obd_parse.c         ngx_obd_special_response.c      ngx_obd_variables.h
+ngx_http_copy_filter_module.c    ngx_obd_cache.h                    ngx_obd_request_body.c  ngx_obd_upstream.c              RSA
+ngx_http_file_cache.c            ngx_obd_config.h                   ngx_obd_request.c       ngx_obd_upstream.h              sub
+ngx_http_header_filter_module.c  ngx_obd_core_module.c              ngx_obd_request.h       ngx_obd_upstream_round_robin.c  UTC
+
+cJSON                            ngx_http_postpone_filter_module.c  ngx_obd_core_module.h   ngx_obd_script.c                ngx_obd_upstream_round_robin.h  v2
+config                           ngx_http_write_filter_module.c     ngx_obd.h               ngx_obd_script.h                ngx_obd_variables.c
+modules                          ngx_obd.c                          ngx_obd_parse.c         ngx_obd_special_response.c      ngx_obd_variables.h
+ngx_http_copy_filter_module.c    ngx_obd_cache.h                    ngx_obd_request_body.c  ngx_obd_upstream.c              RSA
+ngx_http_file_cache.c            ngx_obd_config.h                   ngx_obd_request.c       ngx_obd_upstream.h              sub
+ngx_http_header_filter_module.c  ngx_obd_core_module.c              ngx_obd_request.h       ngx_obd_upstream_round_robin.c  UTC
+
+
+cmake  -DCMAKE_INSTALL_PREFIX=/usr/local/mysql -DMYSQL_DATADIR=/data/mysql -DSYSCONFDIR=/etc -DMYSQL_UNIX_ADDR=/usr/local/mysql/mysql.sock -DEXTRA_CHARSETS=all -DDEFAULT_CHARSET=utf8  -DDEFAULT_COLLATION=utf8_general_ci  -DWITH_BOOST=boost -DWITH_MYISAM_STORAGE_ENGINE=1 -DWITH_INNOBASE_STORAGE_ENGINE=1 -DMYSQL_TCP_PORT=3306 -DENABLED_LOCAL_INFILE=1 -DWITH_PARTITION_STORAGE_ENGINE=1 -DWITH_EMBEDDED_SERVER=OFF -DWITH_SYSTEMD=1                                    
+
+ps -ef | grep httpd | grep -v grep | awk '{print $2}' | xargs kill -9
+
+ps -ef|grep httpd|grep -v grep|grep -v $0
+
+
+
+
+
+
+
