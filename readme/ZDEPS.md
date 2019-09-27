@@ -86,6 +86,24 @@
 
 [Ubuntu Linux Install GNU GCC Compiler and Development Environment](https://www.cyberciti.biz/faq/howto-installing-gnu-c-compiler-development-environment-on-ubuntu/) :Ubuntu Linux Install GNU GCC Compiler and Development Environment 
 
+[Ubuntu18.04 关闭和开启图形界面](https://www.cnblogs.com/soldierback/p/11104305.html) : Ubuntu18.04 关闭和开启图形界面 
+
+[Ubuntu18.04 关闭和开启图形界面](https://www.cnblogs.com/schips/p/10577464.html) : Ubuntu18.04 关闭和开启图形界面 
+
+[Ubuntu安装MySQL和配置远程连接](https://blog.csdn.net/weixin_43507959/article/details/83383647) : Ubuntu安装MySQL和配置远程连接 
+
+[ubuntu下MySQL忘记密码重置方法](https://blog.csdn.net/xiamoyanyulrq/article/details/83041724) : ubuntu下MySQL忘记密码重置方法 
+
+[ubuntu导入mysql数据库文件](https://www.cnblogs.com/zhaoxiwang/p/8023919.html) : ubuntu导入mysql数据库文件 
+
+[Ubuntu18.04安装MySQL后解决普通用户不能进入MySQL的问题](https://blog.csdn.net/weixin_41660414/article/details/89715683) : Ubuntu18.04安装MySQL后解决普通用户不能进入MySQL的问题 
+
+[在Ubuntu中建立MySQL数据库](https://www.cnblogs.com/qiuzhenyao/p/mysql.html) : 在Ubuntu中建立MySQL数据库 
+
+[ubuntu mysql新增用户并开启远程连接](https://www.cnblogs.com/xbxxf/p/9174028.html) : ubuntu mysql新增用户并开启远程连接 
+
+[ubuntu16.04修改ssh的端口](https://www.cnblogs.com/yuxuan007/p/8064014.html) : ubuntu16.04修改ssh的端口 
+
 ## TEA加密算法
 ===
 [TEA加密算法Demo](https://blog.csdn.net/yunjie167/article/details/84553509) : TEA加密算法 
@@ -137,6 +155,7 @@
 
 [SQL](http://39.108.72.130/pma_d069ab98/sql.php?db=xcwy&table=tbl_obd_4g&server=1&target=&token=376f00185f3c9ad1c1dbb256591be883#PMAURL-0:sql.php?db=xcwy&table=tbl_obd_4g&server=1&target=&token=7026c8be149bb882a79fef674f14651e) : SQL 
 
+[On-board diagnostics connector SAE J1962](https://www.cnblogs.com/shangdawei/p/3570514.html) : On-board diagnostics connector SAE J1962 
 
 
 ## 编码
@@ -157,6 +176,19 @@
 
 [MFC中字符集](https://blog.csdn.net/luoyouren/article/details/46389411) : MFC中字符集（3）——Unicode字符串的MFC支持及其在Visual Studio中的设置 
 
+## MFC
+===
+[MFC多语言实现的两种方法](https://blog.csdn.net/u012102000/article/details/57079328/) : MFC多语言实现的两种方法 
+
+[MFC的多国语言界面的实现](https://www.cnblogs.com/xianyunhe/archive/2011/09/02/2163842.html) : MFC的多国语言界面的实现 
+
+[Microsoft 语言界面包 (LIP) 和 Visual Studio](https://docs.microsoft.com/zh-cn/visualstudio/install/microsoft-language-interface-packs-lips-and-visual-studio?view=vs-2015) : Microsoft 语言界面包 (LIP) 和 Visual Studio 
+
+[安装 Visual Studio](https://docs.microsoft.com/zh-cn/visualstudio/install/install-visual-studio?view=vs-2019#step-6---install-language-packs-optional) : 第 6 步 - 安装语言包（可选） 
+
+[通过添加或删除工作负载和组件修改 Visual Studio](https://docs.microsoft.com/zh-cn/visualstudio/install/modify-visual-studio?view=vs-2019) : 通过添加或删除工作负载和组件修改 Visual Studio 
+
+
 
 ## Other
 ===
@@ -166,6 +198,6 @@
 
 [microsoft visio 2013简体中文破解版](https://blog.csdn.net/xfxf996/article/details/80860792) : microsoft visio 2013简体中文破解版 
 
-
+[C-SKY Linux Arch](https://c-sky.github.io/docs/gx6605s.html) : C-SKY Linux Arch 
 
 
