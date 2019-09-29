@@ -188,7 +188,19 @@
 
 [通过添加或删除工作负载和组件修改 Visual Studio](https://docs.microsoft.com/zh-cn/visualstudio/install/modify-visual-studio?view=vs-2019) : 通过添加或删除工作负载和组件修改 Visual Studio 
 
+[wxWidgets](https://www.wxwidgets.org/) : wxWidgets 
 
+[wxWidgets](https://baike.baidu.com/item/wxWidgets/7097474?fromtitle=wxwidget&fromid=813757&fr=aladdin) : baike.baidu 
+
+[poedit](https://poedit.net/) : Mo翻译文件 
+
+[.Mo翻译文件结构解析](https://blog.csdn.net/weixin_34290352/article/details/93822053) : .Mo翻译文件结构解析 
+
+[软件国际化为什么不能采用ANSI编码](https://zhidao.baidu.com/question/514772155.html) : 软件多国语言 ANSI unicode 
+
+[解决非Unicode编码的软件多语言版本在日语、韩语环境下的乱码问题](https://blog.csdn.net/manikuku/article/details/4504217) : 多国语言 MBCS 
+
+[Unicode 和多字节字符集 (MBCS) 支持](http://www.mamicode.com/info-detail-503479.html) : VS MFC 开发 多语言切换 多字节字符集 
 
 ## Other
 ===
