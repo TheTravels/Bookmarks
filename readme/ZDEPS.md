@@ -104,6 +104,12 @@
 
 [ubuntu16.04修改ssh的端口](https://www.cnblogs.com/yuxuan007/p/8064014.html) : ubuntu16.04修改ssh的端口 
 
+[改时区参考](https://www.cnblogs.com/xwdreamer/archive/2013/11/06/3409947.html) : ubuntu修改时区和时间的方法  
+
+[ubuntu18.04修改时区](https://blog.csdn.net/u011652362/article/details/81434323) : ubuntu 设置UTC 时间 
+
+[GMT、UTC、PDT 时间简介](https://www.cnblogs.com/tianguook/archive/2011/11/16/2250934.html) : GMT、UTC、PDT 时间简介  
+
 ## TEA加密算法
 ===
 [TEA加密算法Demo](https://blog.csdn.net/yunjie167/article/details/84553509) : TEA加密算法 
