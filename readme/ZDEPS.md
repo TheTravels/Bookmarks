@@ -180,6 +180,8 @@
 ===
 [MFC多语言实现的两种方法](https://blog.csdn.net/u012102000/article/details/57079328/) : MFC多语言实现的两种方法 
 
+[MFC 多语言环境的实现](https://blog.csdn.net/weixinhum/article/details/51202263) : MFC 多语言环境的实现 
+
 [MFC的多国语言界面的实现](https://www.cnblogs.com/xianyunhe/archive/2011/09/02/2163842.html) : MFC的多国语言界面的实现 
 
 [Microsoft 语言界面包 (LIP) 和 Visual Studio](https://docs.microsoft.com/zh-cn/visualstudio/install/microsoft-language-interface-packs-lips-and-visual-studio?view=vs-2015) : Microsoft 语言界面包 (LIP) 和 Visual Studio 
