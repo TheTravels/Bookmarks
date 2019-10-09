@@ -216,6 +216,8 @@
 ===
 [非对称加密算法RSA公钥私钥的模数和指数提取方法](https://blog.csdn.net/fengbingchun/article/details/84973431) : 非对称加密算法RSA公钥私钥的模数和指数提取方法 
 
+[windows 下OPENSSL 生成秘钥和公钥的方法](https://www.cnblogs.com/cfas/p/8544087.html) : windows 下OPENSSL 生成秘钥和公钥的方法 
+
 ## Other
 ===
 [Edraw破解注册机（亲测可用）](https://blog.csdn.net/qq_32670879/article/details/84142478) : Edraw破解注册机（亲测可用） 
