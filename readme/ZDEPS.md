@@ -47,6 +47,8 @@
 
 [TheTravels/nginx](https://gitee.com/TheTravels/nginx) : TheTravels/nginx 
 
+[从源码构建 nginx](https://docshome.gitbooks.io/nginx-docs/content/How-To/%E4%BB%8E%E6%BA%90%E7%A0%81%E6%9E%84%E5%BB%BAnginx.html) : 从源码构建 nginx 
+
 [Welcome to NGINX Wiki!](https://www.nginx.com/resources/wiki/#listen) : Welcome to NGINX Wiki! 
 
 [Nginx学习之十-超时管理（定时器事件）](https://blog.csdn.net/xiajun07061225/article/details/9284543) : Nginx学习之十-超时管理（定时器事件） 
