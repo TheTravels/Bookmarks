@@ -44,6 +44,7 @@
 
 [doublestar / RSA实现](https://gitee.com/yunsle/RSAShiXian) : 使用c++实现的RSA加密，使用多线程和分布式计算p、q大素数 
 
+[在Linux下如何使用openssl生成RSA公钥和私钥对](https://www.cnblogs.com/wangjinxiang/p/10618629.html) : 在Linux下如何使用openssl生成RSA公钥和私钥对 
 
 # SM2
 [nano-sm2](https://github.com/Aries-orz/nano-sm2) : 这是一个8位处理器上的SM2实现，未使用openssl等第三方库，目前仅支持256位SM2 
