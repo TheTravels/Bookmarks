@@ -41,6 +41,8 @@
 
 [使用EC20模组进行GNNS地理定位(AT命令)](https://www.cnblogs.com/coversky/p/8276814.html) : 使用EC20模组进行GNNS地理定位(AT命令) 
 
+[PPP 协议详解](https://blog.csdn.net/u011857683/article/details/84703473) : ppp协议 
+
 ## Nginx
 ===
 [nginx.org](http://nginx.org/) : nginx news 
