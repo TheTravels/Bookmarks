@@ -43,6 +43,14 @@
 
 [PPP 协议详解](https://blog.csdn.net/u011857683/article/details/84703473) : ppp协议 
 
+[中国移动-贴片卡-产品规格书MS1](https://wenku.baidu.com/view/38f186ec1b37f111f18583d049649b6648d709a3.html) : 中国移动-贴片卡-产品规格书MS1 
+
+[M2M 消费级贴片卡 产品规格说明书_V1.0](https://wenku.baidu.com/view/8b326ba1690203d8ce2f0066f5335a8102d266af.html?rec_flag=default&sxts=1571013471690) : M2M 消费级贴片卡 产品规格说明书_V1.0 
+
+[M2M技术全解](https://wenku.baidu.com/view/8249b79d8ad63186bceb19e8b8f67c1cfad6eeb4.html?rec_flag=default&sxts=1571013722367) : M2M技术全解 
+
+[M2M卡产品介绍](https://wenku.baidu.com/view/29124477effdc8d376eeaeaad1f34693daef1028.html?rec_flag=default&sxts=1571013726976) : M2M卡产品介绍 
+
 ## Nginx
 ===
 [nginx.org](http://nginx.org/) : nginx news 
