@@ -238,6 +238,12 @@
 
 [汽车国别代码有哪些？](https://zhidao.baidu.com/question/380858100.html) : 生产国别代码 
 
+## PPT
+===
+[述职报告PPT](http://www.1ppt.com/xiazai/shuzhi/) : PPT模板 
+
+[朦胧玻璃质感的述职报告PPT模板](http://www.1ppt.com/article/52896.html) : 商务PPT模板 
+
 ## Other
 ===
 [Edraw破解注册机（亲测可用）](https://blog.csdn.net/qq_32670879/article/details/84142478) : Edraw破解注册机（亲测可用） 
