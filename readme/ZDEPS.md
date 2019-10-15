@@ -228,6 +228,16 @@
 
 [windows 下OPENSSL 生成秘钥和公钥的方法](https://www.cnblogs.com/cfas/p/8544087.html) : windows 下OPENSSL 生成秘钥和公钥的方法 
 
+## VIN
+===
+[中国汽车网-VIN车辆识别代码查询](http://www.chinacar.com.cn/vin_index.html) : 中国汽车网-VIN车辆识别代码查询 
+
+[车架号查询](http://www.17vin.com/vin/LFWSRXRJ8K1E26266) : 车架号查询 
+
+[车辆识别号码](https://baike.baidu.com/item/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/4338309?fr=aladdin) : VIN码 
+
+[汽车国别代码有哪些？](https://zhidao.baidu.com/question/380858100.html) : 生产国别代码 
+
 ## Other
 ===
 [Edraw破解注册机（亲测可用）](https://blog.csdn.net/qq_32670879/article/details/84142478) : Edraw破解注册机（亲测可用） 
