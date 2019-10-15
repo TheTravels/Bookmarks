@@ -18,3 +18,5 @@
 
 [单车大神丹尼在杜塞尔多夫炫技](https://haokan.baidu.com/v?pd=wisenatural&vid=4622657367397040444) : 单车大神丹尼在杜塞尔多夫炫技 
 
+[超清记录山地车速降，体验速度的快感，看着好像体验一把！](https://haokan.baidu.com/v?vid=14889354670439487092&pd=bjh&fr=bjhauthor&type=video) : 超清记录山地车速降，体验速度的快感，看着好像体验一把！ 
+
