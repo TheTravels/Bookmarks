@@ -122,6 +122,22 @@
 
 [GMT、UTC、PDT 时间简介](https://www.cnblogs.com/tianguook/archive/2011/11/16/2250934.html) : GMT、UTC、PDT 时间简介  
 
+## VS
+====
+[VS2017 远程调试linux（centos）.net core](https://www.cnblogs.com/duanweishi/p/9710889.html) : VS2017 远程调试linux（centos）.net core 
+
+[VS2017 编译调试 Linux 程序](https://blog.csdn.net/u013272009/article/details/81023594) : VS2017 编译调试 Linux 程序 
+
+[如何编写CMakeLists](https://blog.csdn.net/helloworld_ptt/article/details/86509138) : 如何编写CMakeLists 
+
+[CMAKE_INSTALL_PREFIX](https://cmake.org/cmake/help/v3.0/variable/CMAKE_INSTALL_PREFIX.html) : CMAKE_INSTALL_PREFIX 
+
+[Cmake知识----编写CMakeLists.txt文件编译C/C++程序](https://www.cnblogs.com/cv-pr/p/6206921.html) : Cmake知识----编写CMakeLists.txt文件编译C/C++程序 
+
+[Cmake入门教程](https://www.linuxidc.com/Linux/2019-03/157760.htm) : Cmake入门教程 
+
+[CMake--变量](https://www.cnblogs.com/narjaja/p/9533174.html) : CMake--变量 
+
 ## TEA加密算法
 ===
 [TEA加密算法Demo](https://blog.csdn.net/yunjie167/article/details/84553509) : TEA加密算法 
@@ -142,6 +158,30 @@
 [linux内核版本的信息简介](https://baijiahao.baidu.com/s?id=1608056053418991460&wfr=spider&for=pc) : linux内核版本的信息简介 
 
 [C语言中mktime函数功能及用法](https://www.cnblogs.com/zendu/p/4987899.html) : C语言中mktime函数功能及用法 
+
+[C 库函数 - localtime()](https://www.runoob.com/cprogramming/c-function-localtime.html) : C 库函数 - localtime() 
+
+[Redis](https://baike.baidu.com/item/Redis/6549233?fr=aladdin) : Redis 
+
+[Redis 简介](https://www.redis.net.cn/tutorial/3502.html) : Redis 简介 
+
+[Redis](https://blog.csdn.net/the_programlife/article/details/80863268) : Redis 
+
+[antirez/redis](https://github.com/antirez/redis) : antirez/redis 
+
+[Redis 教程](https://www.runoob.com/redis/redis-tutorial.html) : Redis 教程 
+
+[C 库函数 - strrchr()](https://www.runoob.com/cprogramming/c-function-strrchr.html) : C 库函数 - strrchr() 
+
+[Linux C 字符串函数 strlen()、strcat()、strncat()、strcmp()、strncmp()、strcpy()、strncpy() 详解](https://www.cnblogs.com/52php/p/5724382.html) : Linux C 字符串函数 strlen()、strcat()、strncat()、strcmp()、strncmp()、strcpy()、strncpy() 详解 
+
+## C++
+===
+[c++ 智能指针、函数指针和指针函数](https://www.bbsmax.com/A/xl56pQVrzr/) : c++ 智能指针、函数指针和指针函数 
+
+[C++共享指针的父类和子类转化](https://blog.csdn.net/anthonystark/article/details/92787734) : C++共享指针的父类和子类转化 
+
+[Linux C++ 网络库 Muduo](https://www.oschina.net/p/muduo/) :  libmuduo  
 
 ## Git
 ===
@@ -222,6 +262,20 @@
 
 [Unicode 和多字节字符集 (MBCS) 支持](http://www.mamicode.com/info-detail-503479.html) : VS MFC 开发 多语言切换 多字节字符集 
 
+[Ansi工程中如何使用Unicode Edit控件？](https://ask.csdn.net/questions/662821?sort=comments_count) : Ansi工程中如何使用Unicode Edit控件？ 
+
+[使用 UNICODE 和 ANSI 的混合编程](https://blog.csdn.net/n567656756765676567/article/details/7334024) : 使用 UNICODE 和 ANSI 的混合编程 
+
+[ANSI和Unicode互相转换](https://blog.csdn.net/sinat_33397705/article/details/79478205) : VS UNICODE转ANSI 
+
+[char wchar_t CString的相互转化](https://blog.csdn.net/hpghy123456/article/details/6285480) : wchar_t Cstring转换 
+
+[CString和wchar_t *的相互转化](https://blog.csdn.net/sqysqy123456/article/details/19478677) : wchar_t Cstring转换 
+
+[Windows7 64位系统下载](https://windows.kanghuan2.cn/win764.html) : Windows7 64位系统下载 
+
+[Windows7 64位系统下载](https://windows.kanghuan2.cn/course.html) : Windows7 64位系统下载 
+
 ## RSA
 ===
 [非对称加密算法RSA公钥私钥的模数和指数提取方法](https://blog.csdn.net/fengbingchun/article/details/84973431) : 非对称加密算法RSA公钥私钥的模数和指数提取方法 
@@ -236,6 +290,8 @@
 
 [车辆识别号码](https://baike.baidu.com/item/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E5%8F%B7%E7%A0%81/4338309?fr=aladdin) : VIN码 
 
+[车辆识别代号](https://baike.baidu.com/item/%E8%BD%A6%E8%BE%86%E8%AF%86%E5%88%AB%E4%BB%A3%E5%8F%B7/7258270?fr=aladdin) : vin码小写字母  
+
 [汽车国别代码有哪些？](https://zhidao.baidu.com/question/380858100.html) : 生产国别代码 
 
 ## PPT
@@ -243,6 +299,16 @@
 [述职报告PPT](http://www.1ppt.com/xiazai/shuzhi/) : PPT模板 
 
 [朦胧玻璃质感的述职报告PPT模板](http://www.1ppt.com/article/52896.html) : 商务PPT模板 
+
+[简约个人工作述职报告PPT模板](http://sc.chinaz.com/ppt/180501584851.htm) : 简约个人工作述职报告PPT模板 
+
+[工作述职报告PPT模板](http://sc.chinaz.com/tag_ppt/shuzhibaogao_2.html) : 工作述职报告PPT模板 
+
+[唯美渐变风述职报告总结PPT模板](http://sc.chinaz.com/ppt/190909122051.htm) : 唯美渐变风述职报告总结PPT模板 
+
+[设计师个人工作述职报告PPT模板](http://sc.chinaz.com/ppt/190822193430.htm) : 设计师个人工作述职报告PPT模板 
+
+[PPT模板](http://sc.chinaz.com/tag_ppt/ShuZhiBaoGao.html) : PPT模板 
 
 ## Other
 ===
