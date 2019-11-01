@@ -122,6 +122,8 @@
 
 [GMT、UTC、PDT 时间简介](https://www.cnblogs.com/tianguook/archive/2011/11/16/2250934.html) : GMT、UTC、PDT 时间简介  
 
+[ubuntu+github配置使用](https://www.cnblogs.com/haoxr/p/7693927.html) : Ubuntu ssh github 
+
 ## VS
 ====
 [VS2017 远程调试linux（centos）.net core](https://www.cnblogs.com/duanweishi/p/9710889.html) : VS2017 远程调试linux（centos）.net core 
