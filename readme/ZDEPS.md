@@ -310,6 +310,14 @@
 
 [PPT模板](http://sc.chinaz.com/tag_ppt/ShuZhiBaoGao.html) : PPT模板 
 
+## Tools
+===
+[VMware Workstation Pro v15.5.0 官方版+激活密钥](https://www.nocmd.com/740.html) : VMware Workstation Pro v15.5.0 官方版+激活密钥 
+
+[VMware Workstation 15永久激活密匙](https://blog.csdn.net/make__It/article/details/84440251) : VMware Workstation 15永久激活密匙 
+
+[流程图](https://app.liuchengtu.com/#) : 流程图 
+
 ## Other
 ===
 [Edraw破解注册机（亲测可用）](https://blog.csdn.net/qq_32670879/article/details/84142478) : Edraw破解注册机（亲测可用） 
@@ -319,5 +327,38 @@
 [microsoft visio 2013简体中文破解版](https://blog.csdn.net/xfxf996/article/details/80860792) : microsoft visio 2013简体中文破解版 
 
 [C-SKY Linux Arch](https://c-sky.github.io/docs/gx6605s.html) : C-SKY Linux Arch 
+
+## 书签
+===
+[我的个人博客之旅：从jekyll到hexo](https://blog.csdn.net/u011475210/article/details/79023429) : Hexo Hugo Jekyll 
+
+[快速、简洁且高效的博客框架](https://hexo.io/zh-cn/) : Hexo Hugo Jekyll 
+
+[标签插件（Tag Plugins）](https://hexo.io/zh-cn/docs/tag-plugins) : Hexo Hugo Jekyll  
+
+[mysql](http://39.108.72.130/pma_d069ab98/sql.php?db=xcwy&table=tbl_obd_4g&server=1&target=&token=66cab5e0b5907ac2d103fcd620e7a6b7#PMAURL-0:sql.php?db=xcwy&table=tbl_obd_4g&server=1&target=&token=d11b334d8cb1d5928b032f3e53ea7873) : mysql OBD 
+
+[ANSI和Unicode互相转换](https://blog.csdn.net/sinat_33397705/article/details/79478205) : ANSI和Unicode互相转换 
+
+[MusicPlay](https://github.com/Merafour/MusicPlay) : MusicPlay 
+
+[ardupilot](https://github.com/ArduPilot/ardupilot/) : ardupilot 
+
+[Setting up the Build Environment (Linux/Ubuntu)](http://ardupilot.org/dev/docs/building-setup-linux.html#building-setup-linux) : Setting up the Build Environment (Linux/Ubuntu) 
+
+[Tinyhttpd](https://github.com/TheTravels/Tinyhttpd) : Tinyhttpd 
+
+[正科环宇车载排放诊断平台](https://admin.zkobd.com/login?redirect=https%3A%2F%2Fadmin.zkobd.com%2Fmanagement%2Fcategory) : 正科环宇车载排放诊断平台 
+
+[TheTravels](http://thetravels.top/) ： TheTravels
+
+[从源码构建 nginx](https://docshome.gitbooks.io/nginx-docs/content/How-To/%E4%BB%8E%E6%BA%90%E7%A0%81%E6%9E%84%E5%BB%BAnginx.html) : Nginx ngx_http_set_keepalive 
+
+[libopencm3](https://github.com/libopencm3/) : libopencm3 
+
+[EC20指令](https://www.cnblogs.com/jieruishu/p/10952854.html) : ec20模块发送短信指令 
+
+
+
 
 
