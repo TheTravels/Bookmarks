@@ -124,6 +124,16 @@
 
 [ubuntu+github配置使用](https://www.cnblogs.com/haoxr/p/7693927.html) : Ubuntu ssh github 
 
+[apt-get install 安装boost后如何用](https://forum.ubuntu.org.cn/viewtopic.php?t=487694) : apt-get install 安装boost后如何用 
+
+[在 ubuntu 中设置安装 boost 库](https://blog.csdn.net/xuehuafeiwu123/article/details/78611203) : 在 ubuntu 中设置安装 boost 库 
+
+[ubuntu下安装boost](https://blog.csdn.net/faihung/article/details/88128928) : ubuntu下安装boost 
+
+[How can I install boost-devel in Ubuntu 12.04?](https://askubuntu.com/questions/163976/how-can-i-install-boost-devel-in-ubuntu-12-04) : How can I install boost-devel in Ubuntu 12.04? 
+
+[用GDB调试程序](https://wiki.ubuntu.org.cn/%E7%94%A8GDB%E8%B0%83%E8%AF%95%E7%A8%8B%E5%BA%8F) : Ubuntu gdb调试 
+
 ## VS
 ====
 [VS2017 远程调试linux（centos）.net core](https://www.cnblogs.com/duanweishi/p/9710889.html) : VS2017 远程调试linux（centos）.net core 
@@ -139,6 +149,10 @@
 [Cmake入门教程](https://www.linuxidc.com/Linux/2019-03/157760.htm) : Cmake入门教程 
 
 [CMake--变量](https://www.cnblogs.com/narjaja/p/9533174.html) : CMake--变量 
+
+[UTF-8带签名和无签名的区别](https://blog.csdn.net/crystal_ooo/article/details/8077141) : UTF-8带签名和无签名的区别 
+
+[Visual Studio 2017修改编码UTF-8](https://blog.csdn.net/qq_36848370/article/details/82597157) : Visual Studio 设置 UTF-8编码 
 
 ## TEA加密算法
 ===
@@ -329,6 +343,8 @@
 [microsoft visio 2013简体中文破解版](https://blog.csdn.net/xfxf996/article/details/80860792) : microsoft visio 2013简体中文破解版 
 
 [C-SKY Linux Arch](https://c-sky.github.io/docs/gx6605s.html) : C-SKY Linux Arch 
+
+[ERP系统](https://baike.baidu.com/item/ERP%E7%B3%BB%E7%BB%9F/1569198?fr=aladdin) : ERP系统 
 
 ## 书签
 ===
