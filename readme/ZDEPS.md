@@ -134,6 +134,18 @@
 
 [用GDB调试程序](https://wiki.ubuntu.org.cn/%E7%94%A8GDB%E8%B0%83%E8%AF%95%E7%A8%8B%E5%BA%8F) : Ubuntu gdb调试 
 
+[c++11下 container_of编译不通过](https://blog.csdn.net/linuxsmallping/article/details/83418546) : c++11下 container_of编译不通过 
+
+[Ubuntu GDB调试](https://blog.csdn.net/longshen1990/article/details/47778269) : Ubuntu GDB调试 
+
+[例解 C 语言中的匿名联合体和匿名结构体](https://blog.csdn.net/openblog/article/details/7548363) : 例解 C 语言中的匿名联合体和匿名结构体 
+
+[c++里的 pthread_create 函数小结](https://www.cnblogs.com/herenzhiming/articles/5070657.html) : c++里的 pthread_create 函数小结 
+
+[使用std::function作为函数入参](https://www.jianshu.com/p/c4c84b073413) : 使用std::function作为函数入参 
+
+[单例模式](https://www.runoob.com/design-pattern/singleton-pattern.html) : 单例模式 
+
 ## VS
 ====
 [VS2017 远程调试linux（centos）.net core](https://www.cnblogs.com/duanweishi/p/9710889.html) : VS2017 远程调试linux（centos）.net core 
