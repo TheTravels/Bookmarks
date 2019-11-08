@@ -167,6 +167,13 @@
 
 [详解Makefile 函数的语法与使用](https://www.cnblogs.com/lidabo/p/4928979.html) : Makefile 自定义函数 
 
+
+### CMake
+====
+[CMake 入门/加入编译选项](https://zh.wikibooks.org/wiki/CMake_%E5%85%A5%E9%96%80/%E5%8A%A0%E5%85%A5%E7%B7%A8%E8%AD%AF%E9%81%B8%E9%A0%85) : CMake 入门/加入编译选项 
+
+[02-cmake语法-if、条件表达](https://www.cnblogs.com/alexYuin/p/8874386.html) : 02-cmake语法-if、条件表达 
+
 ### CentOS
 ====
 [CentOS添加用户并加入sudo权限](https://www.cnblogs.com/stream886/p/11123837.html) : CentOS添加用户并加入sudo权限 
@@ -241,6 +248,8 @@
 [Linux C++ 网络库 Muduo](https://www.oschina.net/p/muduo/) :  libmuduo  
 
 [C++ 嵌套类使用（一）](https://www.cnblogs.com/lidabo/p/3772477.html) : C++ 嵌套类使用（一） 
+
+[C++嵌套类及对外围类成员变量的访问](https://www.cnblogs.com/RealOnlyme/archive/2012/06/14/2549156.html) : C++嵌套类及对外围类成员变量的访问 
 
 ## Git
 ===
