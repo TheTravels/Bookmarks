@@ -132,6 +132,8 @@
 
 [How can I install boost-devel in Ubuntu 12.04?](https://askubuntu.com/questions/163976/how-can-i-install-boost-devel-in-ubuntu-12-04) : How can I install boost-devel in Ubuntu 12.04? 
 
+[ubuntu下安装boost库](https://www.xuebuyuan.com/3230140.html) : ubuntu下安装boost库 
+
 [用GDB调试程序](https://wiki.ubuntu.org.cn/%E7%94%A8GDB%E8%B0%83%E8%AF%95%E7%A8%8B%E5%BA%8F) : Ubuntu gdb调试 
 
 [c++11下 container_of编译不通过](https://blog.csdn.net/linuxsmallping/article/details/83418546) : c++11下 container_of编译不通过 
@@ -145,6 +147,33 @@
 [使用std::function作为函数入参](https://www.jianshu.com/p/c4c84b073413) : 使用std::function作为函数入参 
 
 [单例模式](https://www.runoob.com/design-pattern/singleton-pattern.html) : 单例模式 
+
+[Linux下Daemon的实现](https://www.cnblogs.com/lrszs/p/3618490.html) : Linux下Daemon的实现 
+
+[Linux中创建Daemon进程的三种方法](https://www.cnblogs.com/minico/p/7702020.html) : Linux中创建Daemon进程的三种方法 
+
+[Linux之scp命令](https://www.cnblogs.com/jiangwenwen1/p/10425159.html) : Linux之scp命令 
+
+[Linux scp命令](https://www.runoob.com/linux/linux-comm-scp.html) : Linux scp命令 
+
+[linux文件远程传输](https://blog.csdn.net/fighting_s/article/details/83106053) : linux文件远程传输 
+
+
+### Makefile
+====
+[Makefile所有内嵌函数](https://www.cnblogs.com/fengliu-/p/10129649.html) : Makefile 自定义函数 
+
+[makefile--函数定义 函数调用](https://www.jianshu.com/p/e2c78c8fb4a5) : Makefile 自定义函数 
+
+[详解Makefile 函数的语法与使用](https://www.cnblogs.com/lidabo/p/4928979.html) : Makefile 自定义函数 
+
+### CentOS
+====
+[CentOS添加用户并加入sudo权限](https://www.cnblogs.com/stream886/p/11123837.html) : CentOS添加用户并加入sudo权限 
+
+[Centos7 安装mysqlclient小记](https://www.jianshu.com/p/460ad8908453) : Centos7 安装mysqlclient小记 
+
+[linux（centos）下安装boost库及使用](https://blog.csdn.net/qiana_/article/details/79919686) : linux（centos）下安装boost库及使用 
 
 ## VS
 ====
@@ -210,6 +239,8 @@
 [C++共享指针的父类和子类转化](https://blog.csdn.net/anthonystark/article/details/92787734) : C++共享指针的父类和子类转化 
 
 [Linux C++ 网络库 Muduo](https://www.oschina.net/p/muduo/) :  libmuduo  
+
+[C++ 嵌套类使用（一）](https://www.cnblogs.com/lidabo/p/3772477.html) : C++ 嵌套类使用（一） 
 
 ## Git
 ===
