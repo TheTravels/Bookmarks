@@ -39,19 +39,37 @@
 [ubuntu studio](https://baike.baidu.com/item/ubuntu%20studio/7016645?fr=aladdin) ubuntu studio 
 
 
+### Epoll
+====
+[epoll ](https://baike.baidu.com/item/epoll/10738144?fr=aladdin) : epoll 
 
+[Epoll介绍](https://www.jianshu.com/p/ff11564efc80) : Epoll介绍 
 
+[IO多路复用的三种机制Select，Poll，Epoll](https://www.jianshu.com/p/397449cadc9a) : IO多路复用的三种机制Select，Poll，Epoll 
 
+[epoll原理详解及epoll反应堆模型](https://blog.csdn.net/daaikuaichuan/article/details/83862311) : epoll原理详解及epoll反应堆模型 
 
+[我读过的最好的epoll讲解--转自”知乎“](https://blog.csdn.net/u011671986/article/details/79449853) : 我读过的最好的epoll讲解--转自”知乎“ 
 
+[为什么epoll会那么高效](https://www.cnblogs.com/xcywt/p/8146143.html) : 为什么epoll会那么高效 
 
+[epoll的使用实例](https://www.cnblogs.com/xcywt/p/8146094.html) : epoll的使用实例 
 
+[Linux下epoll使用源码样例分析](https://www.linuxidc.com/Linux/2019-02/157109.htm) : Linux下epoll使用源码样例分析 
 
+[游戏编程干货！ 如果这篇文章说不清epoll的本质，那就过来掐死我吧！](https://bbs.gameres.com/thread_842984_1_1.html) : 游戏编程干货！ 如果这篇文章说不清epoll的本质，那就过来掐死我吧！ 
 
+[MultiplyThreadServer](https://github.com/oneApple/MultiplyThreadServer) : MultiplyThreadServer 
 
+[epoll](https://github.com/jwzh222/epoll) : epoll 
 
+[handy](https://github.com/yedf/handy) : 简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework 
 
+[xop](https://github.com/PHZ76/xop) : 轻量级网络库, 基于C++11  
 
+[ZLToolKit](https://github.com/xiongziliang/ZLToolKit) : ZLToolKit 
+
+[tcp-server-client](https://github.com/yuanrw/tcp-server-client) : select/poll/epoll  
 
 
 
