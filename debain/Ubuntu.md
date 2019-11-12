@@ -71,6 +71,9 @@
 
 [tcp-server-client](https://github.com/yuanrw/tcp-server-client) : select/poll/epoll  
 
+[epoll_utils](https://github.com/TheTravels/epoll_utils) : 一个简易的高并发数据库服务器模型，实现机制基于epoll+pthread线程池+mysql连接池 
 
+[Multithreading-epoll](https://github.com/TheTravels/Multithreading-epoll) : 基于多线程与epoll的高并发TCP服务器  
 
+[cs_threadpool_epoll_mq](https://github.com/TheTravels/cs_threadpool_epoll_mq) : 基于线程池、消息队列和epoll模型实现并发服务器架构  
 
