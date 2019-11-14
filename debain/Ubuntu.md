@@ -27,7 +27,11 @@
 [GET LUBUNTU](https://lubuntu.net/downloads/) : GET LUBUNTU 
 
 
+### Linux 
+====
+[Linux nohup和&的功效](https://www.cnblogs.com/laoyeye/p/9346330.html) : Linux nohup和&的功效 
 
+[详解Linux的nohup和&用法和区别](https://www.jianshu.com/p/93a45927f013) : 详解Linux的nohup和&用法和区别 
 
 
 
