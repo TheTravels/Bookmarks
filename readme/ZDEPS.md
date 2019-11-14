@@ -251,6 +251,8 @@
 
 [C++嵌套类及对外围类成员变量的访问](https://www.cnblogs.com/RealOnlyme/archive/2012/06/14/2549156.html) : C++嵌套类及对外围类成员变量的访问 
 
+[C++： warning "will be initialized after [-Wreorder]](https://blog.csdn.net/u012348774/article/details/82354436) : C++： warning "will be initialized after [-Wreorder] 
+
 ## Git
 ===
 [GIT 强制更新](https://blog.csdn.net/m0_37983376/article/details/89489363) : GIT 强制更新 
