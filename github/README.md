@@ -35,6 +35,8 @@
 
 [版本回退](https://www.liaoxuefeng.com/wiki/896043488029600/897013573512192) : 版本回退 
 
+[Git - .gitignore怎么忽略已经被版本控制的文件](https://www.cnblogs.com/yulinlewis/p/10236563.html) : Git - .gitignore怎么忽略已经被版本控制的文件 
+
 ## markdown
 [markdown ](https://baike.baidu.com/item/markdown/3245829?fr=aladdin):https://baike.baidu.com/item/markdown/3245829?fr=aladdin
 
