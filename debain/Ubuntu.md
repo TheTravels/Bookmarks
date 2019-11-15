@@ -33,7 +33,7 @@
 
 [详解Linux的nohup和&用法和区别](https://www.jianshu.com/p/93a45927f013) : 详解Linux的nohup和&用法和区别 
 
-
+[Linux 下c获取当前时间（精确到秒和毫秒或者微秒）](https://blog.csdn.net/deyuzhi/article/details/51814934) : Linux 下c获取当前时间（精确到秒和毫秒或者微秒） 
 
 ## information
 ==

@@ -83,6 +83,11 @@
 
 [QT QLineEdit背景文字提示](https://blog.csdn.net/wuyu92877/article/details/77879997) : QT QLineEdit背景文字提示 
 
+[Qt的QTcpSocket的readyRead信号使用体会](https://blog.csdn.net/dengdew/article/details/79065608) : Qt的QTcpSocket的readyRead信号使用体会 
+
+[数据类型转换之 QByteArray 与 char*](https://blog.csdn.net/lmhuanying1012/article/details/76098820) : 数据类型转换之 QByteArray 与 char* 
+
+[Qt Creator管理多个项目，创建子项目](https://blog.csdn.net/aaa123524457/article/details/80607163) : Qt Creator管理多个项目，创建子项目 
 
 ## Linux 
 ===
