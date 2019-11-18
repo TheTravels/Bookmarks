@@ -39,7 +39,7 @@
 
 [Linux系统级/进程级最多打开文件数,FD文件描述符数](http://blog.ykyi.net/2018/11/linux%E7%B3%BB%E7%BB%9F%E7%BA%A7-%E8%BF%9B%E7%A8%8B%E7%BA%A7%E6%9C%80%E5%A4%9A%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E6%95%B0fd%E6%96%87%E4%BB%B6%E6%8F%8F%E8%BF%B0%E7%AC%A6%E6%95%B0/) : Linux socket连接数14360 
 
-[]() : 
+[Makefile中文手册](https://www.cnblogs.com/liangxiaxu/archive/2012/07/31/2617384.html) : Makefile中文手册 
 
 ## information
 ==
