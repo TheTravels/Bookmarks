@@ -29,11 +29,17 @@
 
 ### Linux 
 ====
-[Linux nohup和&的功效](https://www.cnblogs.com/laoyeye/p/9346330.html) : Linux nohup和&的功效 
+[Linux nohup和&的功效](https://www.cnblogs.com/laoyeye/p/9346330.html) : Linux nohup 和 & 的功效 
 
 [详解Linux的nohup和&用法和区别](https://www.jianshu.com/p/93a45927f013) : 详解Linux的nohup和&用法和区别 
 
+[nohup 详解](https://www.cnblogs.com/jinxiao-pu/p/9131057.html) : nohup 详解 
+
 [Linux 下c获取当前时间（精确到秒和毫秒或者微秒）](https://blog.csdn.net/deyuzhi/article/details/51814934) : Linux 下c获取当前时间（精确到秒和毫秒或者微秒） 
+
+[Linux系统级/进程级最多打开文件数,FD文件描述符数](http://blog.ykyi.net/2018/11/linux%E7%B3%BB%E7%BB%9F%E7%BA%A7-%E8%BF%9B%E7%A8%8B%E7%BA%A7%E6%9C%80%E5%A4%9A%E6%89%93%E5%BC%80%E6%96%87%E4%BB%B6%E6%95%B0fd%E6%96%87%E4%BB%B6%E6%8F%8F%E8%BF%B0%E7%AC%A6%E6%95%B0/) : Linux socket连接数14360 
+
+[]() : 
 
 ## information
 ==
@@ -41,6 +47,10 @@
 [Ubuntu，kubuntu与xubuntu的差别 Ubuntu各版本主要差异](https://blog.csdn.net/github_35160620/article/details/52374492) : Ubuntu，kubuntu与xubuntu的差别 Ubuntu各版本主要差异 
 
 [ubuntu studio](https://baike.baidu.com/item/ubuntu%20studio/7016645?fr=aladdin) ubuntu studio 
+
+### C 库函数 
+====
+[C 库函数 - fgets()](https://www.runoob.com/cprogramming/c-function-fgets.html) : C 库函数 - fgets() 
 
 
 ### Epoll
@@ -63,6 +73,10 @@
 
 [游戏编程干货！ 如果这篇文章说不清epoll的本质，那就过来掐死我吧！](https://bbs.gameres.com/thread_842984_1_1.html) : 游戏编程干货！ 如果这篇文章说不清epoll的本质，那就过来掐死我吧！ 
 
+[epoll在多线程下的使用](https://blog.csdn.net/xiaowenmu1/article/details/90108663) : epoll在多线程下的使用 
+
+[epoll机制:epoll_create、epoll_ctl、epoll_wait、close用法详解](https://blog.csdn.net/rock_joker/article/details/76735333) : epoll EPOLL_CTL_MOD 
+
 [MultiplyThreadServer](https://github.com/oneApple/MultiplyThreadServer) : MultiplyThreadServer 
 
 [epoll](https://github.com/jwzh222/epoll) : epoll 
@@ -80,4 +94,17 @@
 [Multithreading-epoll](https://github.com/TheTravels/Multithreading-epoll) : 基于多线程与epoll的高并发TCP服务器  
 
 [cs_threadpool_epoll_mq](https://github.com/TheTravels/cs_threadpool_epoll_mq) : 基于线程池、消息队列和epoll模型实现并发服务器架构  
+
+
+### pthread
+====
+[jonhoo/pthread_pool](https://github.com/jonhoo/pthread_pool) : github serach pthread 
+
+[jschmidlapp/pthreads-emb](https://github.com/jschmidlapp/pthreads-emb) : github serach pthread 
+
+[raiet/pthread_pool](https://github.com/raiet/pthread_pool/blob/master/pthread_pool.c) : github serach pthread 
+
+[tla001/ThreadPool](https://github.com/tla001/ThreadPool) : github serach pthread 
+
+
 
