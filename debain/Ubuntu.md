@@ -75,6 +75,8 @@
 
 [epoll在多线程下的使用](https://blog.csdn.net/xiaowenmu1/article/details/90108663) : epoll在多线程下的使用 
 
+[基于epoll的定时器](https://www.cnblogs.com/my_life/articles/7646824.html) : 基于epoll的定时器 
+
 [epoll机制:epoll_create、epoll_ctl、epoll_wait、close用法详解](https://blog.csdn.net/rock_joker/article/details/76735333) : epoll EPOLL_CTL_MOD 
 
 [MultiplyThreadServer](https://github.com/oneApple/MultiplyThreadServer) : MultiplyThreadServer 
