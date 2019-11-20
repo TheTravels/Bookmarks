@@ -24,6 +24,8 @@
 
 [linux 比较两个文件夹不同 (diff命令, md5列表)](https://www.cnblogs.com/xudong-bupt/p/6493903.html) : linux 比较两个文件夹不同 (diff命令, md5列表) 
 
+[连接Mysql提示Can’t connect to local MySQL server through socket的解决方法 ](http://aiezu.com/article/mysql_php_connect_through_socket.html) : 连接Mysql提示Can’t connect to local MySQL server through socket的解决方法  
+
 
 ## C
 ====
@@ -41,7 +43,7 @@
 
 [MySQL 1065：Query was empty 解决方法](https://blog.csdn.net/HY845638534/article/details/89296500) : MySQL 1065：Query was empty 解决方法 
 
-
+[error: ignoring return value of 编译错误处理](https://blog.csdn.net/weixin_34315485/article/details/85514245) : error: ignoring return value of 编译错误处理 
 
 
 
