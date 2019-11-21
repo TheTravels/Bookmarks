@@ -52,6 +52,8 @@
 ====
 [C 库函数 - fgets()](https://www.runoob.com/cprogramming/c-function-fgets.html) : C 库函数 - fgets() 
 
+[itoa](https://baike.baidu.com/item/itoa/4747365?fr=aladdin) : itoa 
+
 
 ### Epoll
 ====
@@ -96,6 +98,17 @@
 [Multithreading-epoll](https://github.com/TheTravels/Multithreading-epoll) : 基于多线程与epoll的高并发TCP服务器  
 
 [cs_threadpool_epoll_mq](https://github.com/TheTravels/cs_threadpool_epoll_mq) : 基于线程池、消息队列和epoll模型实现并发服务器架构  
+
+
+### TCP
+====
+[ubuntu linux 修改socket最大连接数，同时也是文件最大打开数](https://blog.csdn.net/zm_21/article/details/27208811) : ubuntu linux 修改socket最大连接数，同时也是文件最大打开数 
+
+[无法增加超过4096的打开文件限制（Ubuntu）](http://kbase101.com/question/49341.html) : 无法增加超过4096的打开文件限制（Ubuntu） 
+
+[Debian/Ubuntu修改最大文件连接数ulimit -SHn的坑](https://blog.csdn.net/bbbbbbbbo/article/details/95589953) : Debian/Ubuntu修改最大文件连接数ulimit -SHn的坑 
+
+[教你修改Linux下高并发socket最大连接数所受的各种限制](https://www.cnblogs.com/zhaofeng555/p/5873147.html) : 教你修改Linux下高并发socket最大连接数所受的各种限制 
 
 
 ### pthread
