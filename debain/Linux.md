@@ -51,3 +51,7 @@
 
 [TTY PLUS. Home of MTPuTTY](http://www.ttyplus.com/downloads.html) : TTY PLUS. Home of MTPuTTY 
 
+### 加密
+====
+[TEA、XTEA、XXTEA加密解密算法](https://blog.csdn.net/gsls200808/article/details/48243019) : TEA、XTEA、XXTEA加密解密算法 
+
