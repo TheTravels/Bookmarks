@@ -45,5 +45,9 @@
 
 [error: ignoring return value of 编译错误处理](https://blog.csdn.net/weixin_34315485/article/details/85514245) : error: ignoring return value of 编译错误处理 
 
+## Tools
+====
+[如何让putty像secureCRT一样支持多标签](https://blog.csdn.net/hzhsan/article/details/17218371) : 如何让putty像secureCRT一样支持多标签 
 
+[TTY PLUS. Home of MTPuTTY](http://www.ttyplus.com/downloads.html) : TTY PLUS. Home of MTPuTTY 
 
