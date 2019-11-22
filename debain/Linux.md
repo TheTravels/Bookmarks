@@ -26,6 +26,9 @@
 
 [连接Mysql提示Can’t connect to local MySQL server through socket的解决方法 ](http://aiezu.com/article/mysql_php_connect_through_socket.html) : 连接Mysql提示Can’t connect to local MySQL server through socket的解决方法  
 
+[查看linux中的TCP连接数](https://my.oschina.net/u/2391658/blog/894682) : 查看linux中的TCP连接数 
+
+[查看linux中的TCP连接数](https://www.cnblogs.com/kabi/p/8204792.html) : 查看linux中的TCP连接数 
 
 ## C
 ====
@@ -44,6 +47,8 @@
 [MySQL 1065：Query was empty 解决方法](https://blog.csdn.net/HY845638534/article/details/89296500) : MySQL 1065：Query was empty 解决方法 
 
 [error: ignoring return value of 编译错误处理](https://blog.csdn.net/weixin_34315485/article/details/85514245) : error: ignoring return value of 编译错误处理 
+
+[stm32duino-eventloop](https://github.com/ag88/stm32duino-eventloop) : stm32duino-eventloop 
 
 ## Tools
 ====
