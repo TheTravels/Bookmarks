@@ -20,6 +20,10 @@
 
 [ubuntu安装Beyond Compare 4 并破解](https://blog.csdn.net/qq_26012495/article/details/86514147) : ubuntu安装Beyond Compare 4 并破解 
 
+[ubuntu 破解Beyond compare 4](https://blog.csdn.net/cailand/article/details/89330053) : ubuntu 破解Beyond compare 4 
+
+[ubuntu 安装 Beyond Compare 安装，永久破解方法](https://www.jianshu.com/p/93303b9fb21a) : ubuntu 安装 Beyond Compare 安装，永久破解方法 
+
 [9款最佳的Linux文件比较工具](https://www.cnblogs.com/logsharing/p/7986825.html) : 9款最佳的Linux文件比较工具 
 
 [linux 比较两个文件夹不同 (diff命令, md5列表)](https://www.cnblogs.com/xudong-bupt/p/6493903.html) : linux 比较两个文件夹不同 (diff命令, md5列表) 
@@ -49,6 +53,16 @@
 [error: ignoring return value of 编译错误处理](https://blog.csdn.net/weixin_34315485/article/details/85514245) : error: ignoring return value of 编译错误处理 
 
 [stm32duino-eventloop](https://github.com/ag88/stm32duino-eventloop) : stm32duino-eventloop 
+
+[LInux下几种定时器的比较和使用](https://www.cnblogs.com/feixiao5566/p/6720573.html) : LInux下几种定时器的比较和使用 
+
+[Linux定时器的使用](https://blog.csdn.net/lile777/article/details/79654292) : Linux定时器的使用 
+
+[Linux修改进程名称(setproctitle())](https://www.cnblogs.com/lisuyun/articles/6549894.html) : Linux修改进程名称(setproctitle()) 
+
+[使用linux c 语言修改进程名字](https://www.cnblogs.com/dgllele/articles/4867672.html) : 使用linux c 语言修改进程名字 
+
+[Linux 进程--父进程查询子进程的退出状态](https://www.cnblogs.com/gwyy/p/8611398.html) : Linux 进程--父进程查询子进程的退出状态 
 
 ## Tools
 ====
