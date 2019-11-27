@@ -71,6 +71,7 @@ Shell
 
 [mindline](http://www.mindline.cn):http://www.mindline.cn
 
+[免费思维导图软件 (MindMaster)](https://www.edrawsoft.cn/mindmaster-free/) : 免费思维导图软件 (MindMaster) 
 
 # VMWARE
 
