@@ -56,8 +56,12 @@
   
 [scons](https://github.com/SCons/scons) : SCons - a software construction tool http://scons.org 
 
+[cpu使用率分析](https://www.rt-thread.org/qa/thread-2903-1-1.html) : cpu使用率分析 
 
 
+### 第三方资料
+====
+[RT-Thread的CPU使用率计算](https://www.cnblogs.com/yygsj/p/5500943.html) : RT-Thread的CPU使用率计算 
 
 
 
