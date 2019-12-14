@@ -9,3 +9,5 @@
 
 [IAR 下 printf输出调试信息 Terminal I/O](https://blog.csdn.net/billy145533/article/details/42711181) : IAR 下 printf输出调试信息 Terminal I/O 
 
+
+[1-STM32嵌入式开发环境的搭建](https://blog.csdn.net/yh3608/article/details/83684971):1-STM32嵌入式开发环境的搭建——IAR FOR ARM环境的搭建及破解教程
