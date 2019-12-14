@@ -76,6 +76,8 @@
 
 [Pocket Git](http://pocketgit.com/):A git client for Android.
 
+[TortoiseGit 使用教程](https://www.cnblogs.com/anayigeren/p/10177027.html):TortoiseGit 使用教程
+
 ## Android
 [FastHub](https://github.com/k0shk0sh/FastHub) : FastHub the ultimate GitHub client for Android. 
 
@@ -89,9 +91,11 @@
 
 
 
+# GitHub Apps
 
+[GitHub Apps](https://segmentfault.com/a/1190000019343851):GitHub Apps
 
-
+[在您的应用中使用GitHub API](https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/):在您的应用中使用GitHub API
 
 
 
