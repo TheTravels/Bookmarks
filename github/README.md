@@ -68,13 +68,21 @@
 
 [GitUp](https://gitforwindows.org/):GitUp
 
+[gitup 教程](https://www.jianshu.com/p/e3d644a656d0):gitup 教程
+
+[Github 简明教程](https://www.runoob.com/w3cnote/git-guide.html):Github 简明教程
+
+[Fork](https://git-fork.com/):Fork
+
+[Pocket Git](http://pocketgit.com/):A git client for Android.
+
 ## Android
 [FastHub](https://github.com/k0shk0sh/FastHub) : FastHub the ultimate GitHub client for Android. 
 
 [Lerist/FastHub](https://github.com/Lerist/FastHub) : FastHub the ultimate GitHub client for Android. 
 
 
-### github
+# github
 
 [github上如何下载单个文件](https://blog.csdn.net/u010801439/article/details/81478592):github上如何下载单个文件 
 
