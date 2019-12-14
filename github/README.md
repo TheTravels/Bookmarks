@@ -88,6 +88,7 @@
 
 [github上如何下载单个文件](https://blog.csdn.net/u010801439/article/details/81478592):github上如何下载单个文件 
 
+[设置git用户名和email](https://blog.csdn.net/web_note/article/details/80337440):设置git用户名和email
 
 
 
