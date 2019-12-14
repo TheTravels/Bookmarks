@@ -50,11 +50,11 @@
 
 [Markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed):https://www.jianshu.com/p/191d1e21f7ed
 
-##Bitbucket
+## Bitbucket
 [Bitbucket版本控制入门](https://www.jianshu.com/p/15d8f9c1fdf8):https://www.jianshu.com/p/15d8f9c1fdf8
 
 
-##GitLab
+## GitLab
 [GitLab Installation](https://about.gitlab.com/install/) : GitLab Installation 
 
 [GitLab搭建-使用清华大学开源软件镜像站](https://blog.csdn.net/qq_25116591/article/details/61916634) : GitLab搭建-使用清华大学开源软件镜像站 
@@ -63,7 +63,10 @@
 
 [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit) : GitLab Development Kit 
 
+### GUI Clients
+[GUI Clients](https://git-scm.com/downloads/guis):GUI Clients
 
+[GitUp](https://gitforwindows.org/):GitUp
 
 ## Android
 [FastHub](https://github.com/k0shk0sh/FastHub) : FastHub the ultimate GitHub client for Android. 
