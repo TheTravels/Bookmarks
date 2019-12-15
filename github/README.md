@@ -37,6 +37,8 @@
 
 [Git - .gitignore怎么忽略已经被版本控制的文件](https://www.cnblogs.com/yulinlewis/p/10236563.html) : Git - .gitignore怎么忽略已经被版本控制的文件 
 
+[git submodule 删除及修改](https://www.cnblogs.com/qiyuexin/p/11266325.html):git submodule 删除及修改
+
 ## markdown
 [markdown ](https://baike.baidu.com/item/markdown/3245829?fr=aladdin):https://baike.baidu.com/item/markdown/3245829?fr=aladdin
 
@@ -100,15 +102,17 @@
 
 
 
+# ssh
 
+[ssh下known_hosts的作用](https://www.cnblogs.com/liuyanerfly/p/9668426.html):ssh下known_hosts的作用
 
+[使用ssh-keygen生成密钥对](https://www.cnblogs.com/gaoBlog/p/11619917.html):使用ssh-keygen生成密钥对
 
+[如何为 Git 指定 SSH 密钥文件](https://zhangnew.com/how-to-specify-an-ssh-key-file-with-the-git-command.html):如何为 Git 指定 SSH 密钥文件
 
+[GIT如何指定使用某个SSH进行clone操作](https://www.jianshu.com/p/ea50640ff704):GIT如何指定使用某个SSH进行clone操作
 
-
-
-
-
+[git本地管理多个密钥/账户(原创)](https://www.jianshu.com/p/301afa16f471):git本地管理多个密钥/账户(原创)
 
 
 
