@@ -39,6 +39,8 @@
 
 [git submodule 删除及修改](https://www.cnblogs.com/qiyuexin/p/11266325.html):git submodule 删除及修改
 
+[组件化模块(五): 关联subModule和移除subModule详解（结合sourcetree讲解）](https://www.jianshu.com/p/76edc3f26cfd):组件化模块(五): 关联subModule和移除subModule详解（结合sourcetree讲解）
+
 ## markdown
 [markdown ](https://baike.baidu.com/item/markdown/3245829?fr=aladdin):https://baike.baidu.com/item/markdown/3245829?fr=aladdin
 
