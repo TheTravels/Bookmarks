@@ -41,6 +41,9 @@
 
 [组件化模块(五): 关联subModule和移除subModule详解（结合sourcetree讲解）](https://www.jianshu.com/p/76edc3f26cfd):组件化模块(五): 关联subModule和移除subModule详解（结合sourcetree讲解）
 
+# GitHub Desktop
+[desktop](https://github.com/desktop/desktop) : desktop 
+
 ## markdown
 [markdown ](https://baike.baidu.com/item/markdown/3245829?fr=aladdin):https://baike.baidu.com/item/markdown/3245829?fr=aladdin
 

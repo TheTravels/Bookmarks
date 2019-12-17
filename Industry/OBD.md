@@ -15,3 +15,15 @@
 
 [EC20 R2.1](https://www.quectel.com/cn/product/ec20r21.htm) : EC20 R2.1是移远通信最近推出的LTE Cat 4无线通信模块 
 
+# GitHub
+[USB_CAN_SIMU](https://github.com/liu20082004/USB_CAN_SIMU) : 基于STM32开发板的ECU模拟器
+
+[STM32_RTT_F107](https://github.com/crawler-john/STM32_RTT_F107) : 昱能STM32F107RC+RT-Thread+ECU-R版本
+
+[stm32-firmware](https://github.com/openecu/stm32-firmware) : STM32 ECU firmware
+
+[汽车动力系统ECU固件逆向工程初探](https://bbs.pediy.com/thread-214113.htm) : 汽车动力系统ECU固件逆向工程初探
+
+# OPEN ECU
+[OPEN ECU](http://openlunchbox.com/open-ecu/) : Open Lunchbox 
+
