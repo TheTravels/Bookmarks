@@ -99,7 +99,7 @@ Shell
 
 [分区助手](https://www.disktool.cn/) : 分区助手是一款免费、专业级的无损分区工具 
 
-
+[DiskGenius破解版 v4.7.2](http://www.opdown.com/soft/147684.html) : DiskGenius破解版 v4.7.2 
 
 
 
