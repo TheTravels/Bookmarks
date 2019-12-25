@@ -405,8 +405,17 @@
 
 [ERP系统](https://baike.baidu.com/item/ERP%E7%B3%BB%E7%BB%9F/1569198?fr=aladdin) : ERP系统 
 
+# Server
+[车载OBD-4G](http://factory.zodtool.com/index.php/factory/api/position) : web端查看数据 
+
+[Server](http://39.108.72.130/pma_d069ab98/sql.php?db=xcwy&table=tbl_obd_4g&server=1&target=&token=2e536eaed1de82e4d8029475f09797ae#PMAURL-0:sql.php?db=xcwy&table=tbl_obd_4g&server=1&target=&token=65acbb3b3c9911f1cbc47c145aee18be) : Server
+
+[AEP](https://www.ctwing.cn/) : 天翼物联，物联网使能服务
+
+[OBD](http://factory.zodtool.com/Obd) : 生产测试
+
 ## 书签
-===
+
 [我的个人博客之旅：从jekyll到hexo](https://blog.csdn.net/u011475210/article/details/79023429) : Hexo Hugo Jekyll 
 
 [快速、简洁且高效的博客框架](https://hexo.io/zh-cn/) : Hexo Hugo Jekyll 
