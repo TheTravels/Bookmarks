@@ -17,4 +17,6 @@
 
 [SM2算法和RSA算法简介](http://www.mamicode.com/info-detail-2706094.html) : SM2算法和RSA算法简介 
 
+[ECC加密算法入门介绍](https://www.pediy.com/kssd/pediy06/pediy6014.htm) : ECC加密算法入门介绍 
+
 

@@ -1,7 +1,7 @@
 # Bookmarks
 
 ## 条码
-===
+
 [打印机二次开发包](http://www.argox.com.cn/Pages/serviceDownload.aspx?classid=7&key=&proclassid=&proid=1087) : 打印机二次开发包 
 
 [批量打印标签](http://www.argox.com.cn/serviceqa/71) : Bartender Argox UL版本调用excel表格批量打印标签   
@@ -21,7 +21,7 @@
 [LabelShop](https://eyun.baidu.com/s/3hty7Cw8) : LabelShop  
 
 ## 二次开发
-===
+
 [vs 打包的安装端,强制必须管理员启动](https://bbs.csdn.net/topics/390627874) : vs 打包的安装端,强制必须管理员启动 
 
 [c#解析json字符串处理（最清晰易懂的方法）](https://blog.csdn.net/sajiazaici/article/details/77647625) : c#解析json字符串处理（最清晰易懂的方法） 
@@ -34,7 +34,7 @@
 
 
 ## 4G 模块
-===
+
 [EC25](https://www.quectel.com/product/ec25.htm) : LTE Standard EC25 产品选型 
 
 [EC20 R2.1](https://www.quectel.com/cn/product/ec20r21.htm) : EC20 R2.1 
@@ -52,7 +52,7 @@
 [M2M卡产品介绍](https://wenku.baidu.com/view/29124477effdc8d376eeaeaad1f34693daef1028.html?rec_flag=default&sxts=1571013726976) : M2M卡产品介绍 
 
 ## Nginx
-===
+
 [nginx.org](http://nginx.org/) : nginx news 
 
 [TheTravels/nginx](https://gitee.com/TheTravels/nginx) : TheTravels/nginx 
@@ -74,7 +74,7 @@
 [nginx子请求并发处理](https://blog.csdn.net/liu0808/article/details/82900823) : nginx子请求并发处理 
 
 ## Qt
-===
+
 [限制QLineEdit的数值输入范围](https://blog.csdn.net/giselite/article/details/12708031) : 限制QLineEdit的数值输入范围
 
 [QLineEdit输入限制（整数、浮点数）](https://www.cnblogs.com/loki1412/p/7799781.html) : QLineEdit输入限制（整数、浮点数） 
@@ -90,7 +90,7 @@
 [Qt Creator管理多个项目，创建子项目](https://blog.csdn.net/aaa123524457/article/details/80607163) : Qt Creator管理多个项目，创建子项目 
 
 ## Linux 
-===
+
 [linux下杀死进程（kill）的N种方法](https://blog.csdn.net/andy572633/article/details/7211546) : linux下杀死进程（kill）的N种方法 
 
 [Install CMake on Ubuntu 12.04](https://blog.csdn.net/arackethis/article/details/42130761) : Install CMake on Ubuntu 12.04 
@@ -165,7 +165,7 @@
 
 
 ### Makefile
-====
+
 [Makefile所有内嵌函数](https://www.cnblogs.com/fengliu-/p/10129649.html) : Makefile 自定义函数 
 
 [makefile--函数定义 函数调用](https://www.jianshu.com/p/e2c78c8fb4a5) : Makefile 自定义函数 
@@ -174,13 +174,13 @@
 
 
 ### CMake
-====
+
 [CMake 入门/加入编译选项](https://zh.wikibooks.org/wiki/CMake_%E5%85%A5%E9%96%80/%E5%8A%A0%E5%85%A5%E7%B7%A8%E8%AD%AF%E9%81%B8%E9%A0%85) : CMake 入门/加入编译选项 
 
 [02-cmake语法-if、条件表达](https://www.cnblogs.com/alexYuin/p/8874386.html) : 02-cmake语法-if、条件表达 
 
 ### CentOS
-====
+
 [CentOS添加用户并加入sudo权限](https://www.cnblogs.com/stream886/p/11123837.html) : CentOS添加用户并加入sudo权限 
 
 [Centos7 安装mysqlclient小记](https://www.jianshu.com/p/460ad8908453) : Centos7 安装mysqlclient小记 
@@ -188,7 +188,7 @@
 [linux（centos）下安装boost库及使用](https://blog.csdn.net/qiana_/article/details/79919686) : linux（centos）下安装boost库及使用 
 
 ## VS
-====
+
 [VS2017 远程调试linux（centos）.net core](https://www.cnblogs.com/duanweishi/p/9710889.html) : VS2017 远程调试linux（centos）.net core 
 
 [VS2017 编译调试 Linux 程序](https://blog.csdn.net/u013272009/article/details/81023594) : VS2017 编译调试 Linux 程序 
@@ -208,7 +208,7 @@
 [Visual Studio 2017修改编码UTF-8](https://blog.csdn.net/qq_36848370/article/details/82597157) : Visual Studio 设置 UTF-8编码 
 
 ## TEA加密算法
-===
+
 [TEA加密算法Demo](https://blog.csdn.net/yunjie167/article/details/84553509) : TEA加密算法 
 
 [TEA加密算法与密钥管理](https://blog.csdn.net/xys430381_1/article/details/86243989) : TEA加密算法与密钥管理 
@@ -217,7 +217,7 @@
 
 
 ## C语言
-===
+
 [C 库函数 - fseek()](https://www.runoob.com/cprogramming/c-function-fseek.html) : C 库函数 - fseek() 
 
 [C语言字符串处理函数之字符串转换、查询函数](https://baijiahao.baidu.com/s?id=1605595448917218974&wfr=spider&for=pc) : C语言字符串处理函数之字符串转换、查询函数 
@@ -245,7 +245,7 @@
 [Linux C 字符串函数 strlen()、strcat()、strncat()、strcmp()、strncmp()、strcpy()、strncpy() 详解](https://www.cnblogs.com/52php/p/5724382.html) : Linux C 字符串函数 strlen()、strcat()、strncat()、strcmp()、strncmp()、strcpy()、strncpy() 详解 
 
 ## C++
-===
+
 [c++ 智能指针、函数指针和指针函数](https://www.bbsmax.com/A/xl56pQVrzr/) : c++ 智能指针、函数指针和指针函数 
 
 [C++共享指针的父类和子类转化](https://blog.csdn.net/anthonystark/article/details/92787734) : C++共享指针的父类和子类转化 
@@ -259,11 +259,11 @@
 [C++： warning "will be initialized after [-Wreorder]](https://blog.csdn.net/u012348774/article/details/82354436) : C++： warning "will be initialized after [-Wreorder] 
 
 ## Git
-===
+
 [GIT 强制更新](https://blog.csdn.net/m0_37983376/article/details/89489363) : GIT 强制更新 
 
 ## JSON 
-===
+
 [JSON](http://www.json.org/) : JSON  
 
 [nlohmann/json](https://github.com/nlohmann/json) : nlohmann/json 
@@ -281,7 +281,7 @@
 [JSON for Modern C++](https://www.jianshu.com/p/69e57f2af904?tdsourcetag=s_pctim_aiomsg) : JSON for Modern C++ 
 
 ## Obd
-===
+
 [Obd](http://factory.zodtool.com/Obd) : Obd
 
 [position](http://factory.zodtool.com/index.php/factory/api/position) : position 
@@ -292,7 +292,7 @@
 
 
 ## 编码
-===
+
 [GB2312-80](https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E4%BA%A4%E6%8D%A2%E7%94%A8%E6%B1%89%E5%AD%97%E7%BC%96%E7%A0%81%E5%AD%97%E7%AC%A6%E9%9B%86/8074272?fromtitle=GB2312-80&fromid=4781245) : GB2312-80 
 
 [细说：Unicode, UTF-8, UTF-16, UTF-32, UCS-2, UCS-4](https://www.cnblogs.com/malecrab/p/5300503.html) : 细说：Unicode, UTF-8, UTF-16, UTF-32, UCS-2, UCS-4 
@@ -310,7 +310,7 @@
 [MFC中字符集](https://blog.csdn.net/luoyouren/article/details/46389411) : MFC中字符集（3）——Unicode字符串的MFC支持及其在Visual Studio中的设置 
 
 ## MFC
-===
+
 [MFC多语言实现的两种方法](https://blog.csdn.net/u012102000/article/details/57079328/) : MFC多语言实现的两种方法 
 
 [MFC 多语言环境的实现](https://blog.csdn.net/weixinhum/article/details/51202263) : MFC 多语言环境的实现 
@@ -352,13 +352,39 @@
 [Windows7 64位系统下载](https://windows.kanghuan2.cn/course.html) : Windows7 64位系统下载 
 
 ## RSA
-===
+
 [非对称加密算法RSA公钥私钥的模数和指数提取方法](https://blog.csdn.net/fengbingchun/article/details/84973431) : 非对称加密算法RSA公钥私钥的模数和指数提取方法 
 
 [windows 下OPENSSL 生成秘钥和公钥的方法](https://www.cnblogs.com/cfas/p/8544087.html) : windows 下OPENSSL 生成秘钥和公钥的方法 
 
+## NXP
+
+[MCUXpresso](https://www.nxp.com.cn/design/software/development-software/mcuxpresso-software-and-tools:MCUXPRESSO) : 面向Arm® Cortex®-M内核的开发软件与工具 
+
+[微控制器开发资源](https://www.nxp.com.cn/design/microcontrollers-developer-resources:MCUDEV) : 微控制器开发资源
+
+[CAN收发器](https://www.nxp.com.cn/products/interfaces/can-transceivers:MC_53485) : CAN收发器 
+
+[TJA1046TK Dual CAN Transceiver](https://www.nxp.com.cn/products/interfaces/can-transceivers/can-with-flexible-data-rate/dual-high-speed-can-transceiver-with-standby-mode:TJA1046TK) : TJA1046TK: Dual high-speed CAN transceiver with Standby mode 
+
+[TJA1046](https://www.nxp.com.cn/docs/en/data-sheet/TJA1046.pdf) : CAN收发器芯片
+
+[恩智浦半导体](https://list.szlcsc.com/brand/89.html) : 嘉立创商城
+
+## ON(安森美)
+
+[ON(安森美)](www.onsemi.cn) : 官网 
+
+[ON(安森美)](https://list.szlcsc.com/brand_page/94.html?queryProductTypeCode=575) : 嘉立创商城 
+
+[NCV7342D10R2G](https://so.szlcsc.com/global.html?k=NCV7342) : CAN收发器芯片 
+
+[NCV7446](https://www.onsemi.cn/products/connectivity/wired-transceivers-modems/ncv7446#tab=tabSpecifications) : CAN收发器芯片NCV7446, DFNW-14
+
+[NCV7446](https://www.onsemi.cn/pub/Collateral/NCV7446-D.PDF) : pdf
+
 ## VIN
-===
+
 [中国汽车网-VIN车辆识别代码查询](http://www.chinacar.com.cn/vin_index.html) : 中国汽车网-VIN车辆识别代码查询 
 
 [车架号查询](http://www.17vin.com/vin/LFWSRXRJ8K1E26266) : 车架号查询 
@@ -370,7 +396,7 @@
 [汽车国别代码有哪些？](https://zhidao.baidu.com/question/380858100.html) : 生产国别代码 
 
 ## PPT
-===
+
 [述职报告PPT](http://www.1ppt.com/xiazai/shuzhi/) : PPT模板 
 
 [朦胧玻璃质感的述职报告PPT模板](http://www.1ppt.com/article/52896.html) : 商务PPT模板 
@@ -385,8 +411,24 @@
 
 [PPT模板](http://sc.chinaz.com/tag_ppt/ShuZhiBaoGao.html) : PPT模板 
 
+[夜空星空繁星点点PPT背景图片](http://www.ypppt.com/article/2018/4698.html) : 优品 PPT 
+
+[公路道路在路上PPT背景图片](http://www.ypppt.com/article/2018/5075.html) : 优品 PPT 
+
+[恢弘壮阔的云海PPT背景图片](http://www.ypppt.com/article/2015/1138.html) : 优品 PPT 
+
+[沙滩脚印足迹PPT背景图片](http://www.ypppt.com/article/2015/1126.html) : 优品 PPT 
+
+[宇宙地球光线PPT背景图片](http://www.ypppt.com/article/2018/4990.html) : 优品 PPT 
+
+[水滴中的彩虹PPT背景图片](http://www.ypppt.com/article/2014/377.html) : 优品 PPT 
+
+[古典文化精美中国风PPT模板](http://www.ypppt.com/article/2019/5722.html) : 优品 PPT 
+
+[ppt指定使用母版](https://zhidao.baidu.com/question/1964505823648798300.html) : ppt指定使用母版 
+
 ## Tools
-===
+
 [VMware Workstation Pro v15.5.0 官方版+激活密钥](https://www.nocmd.com/740.html) : VMware Workstation Pro v15.5.0 官方版+激活密钥 
 
 [VMware Workstation 15永久激活密匙](https://blog.csdn.net/make__It/article/details/84440251) : VMware Workstation 15永久激活密匙 
@@ -394,7 +436,7 @@
 [流程图](https://app.liuchengtu.com/#) : 流程图 
 
 ## Other
-===
+
 [Edraw破解注册机（亲测可用）](https://blog.csdn.net/qq_32670879/article/details/84142478) : Edraw破解注册机（亲测可用） 
 
 [Microsoft Visio 2016](http://www.zdfans.com/html/18399.html) : Microsoft Visio 2016 
