@@ -27,3 +27,8 @@
 # OPEN ECU
 [OPEN ECU](http://openlunchbox.com/open-ecu/) : Open Lunchbox 
 
+# CAN
+
+[一文读懂CAN收发器各项参数](http://mp.ofweek.com/ee/a345673921646) : 一文读懂CAN收发器各项参数 
+
+
