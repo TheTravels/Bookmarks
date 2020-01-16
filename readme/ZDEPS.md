@@ -435,6 +435,8 @@
 
 [流程图](https://app.liuchengtu.com/#) : 流程图 
 
+[CH340](http://wch.cn/search?t=all&q=CH340) : CH340 资料下载 
+
 ## Other
 
 [Edraw破解注册机（亲测可用）](https://blog.csdn.net/qq_32670879/article/details/84142478) : Edraw破解注册机（亲测可用） 
