@@ -1,5 +1,4 @@
-# Music
-音乐收录
+# Music 音乐收录
 
 [后来](https://music.163.com/#/song?id=254574&market=baiduqk) : 歌手：刘若英 
 
@@ -16,3 +15,5 @@
 [秋日恋歌](http://music.163.com/song?id=376204&userid=1879804271) : 水木年华
 
 [别哭，我最爱的人](http://music.163.com/song?id=376173&userid=1879804271) : 水木年华
+
+[莫失莫忘简谱](http://www.cnscore.com/Jianpu/XianJianQiXiaZhuanChaQuMoShiMoWang_Jianpu.html) : 仙剑奇侠传插曲：莫失莫忘简谱 
