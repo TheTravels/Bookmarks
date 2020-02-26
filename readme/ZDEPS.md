@@ -449,6 +449,19 @@
 
 [ERP系统](https://baike.baidu.com/item/ERP%E7%B3%BB%E7%BB%9F/1569198?fr=aladdin) : ERP系统 
 
+# SHA
+[SHA1算法原理【转】](https://www.cnblogs.com/sky-heaven/p/10138539.html) : SHA1算法原理【转】
+
+[SHA算法描述及实现](https://www.jianshu.com/p/4e3de35a0fbe) : SHA算法描述及实现
+
+[SHA256](https://github.com/ilvn/SHA256) : ilvn/SHA256
+
+[sha1](https://github.com/vog/sha1) : SHA-1 implementation in C++
+
+[clibs /sha1](https://github.com/clibs/sha1) : sha1 hash alogrithm 
+
+[jasinb /sha1](https://github.com/jasinb/sha1) : Simple implementation of SHA1 in C  
+
 # Server
 [车载OBD-4G](http://factory.zodtool.com/index.php/factory/api/position) : web端查看数据 
 
