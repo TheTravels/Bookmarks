@@ -3,7 +3,7 @@
 
 
 # C
-
+[C语言随机数生成教程，C语言rand和srand用法详解](http://c.biancheng.net/view/2043.html) : C语言随机数生成教程，C语言rand和srand用法详解 
 
 
 
