@@ -55,7 +55,14 @@
 [openssl](https://github.com/openssl/openssl) : openssl 
 
 
+# TEA
+[TEA加密/解密算法](https://www.cnblogs.com/chevin/p/5681228.html) : TEA加密/解密算法
 
+[TEA加密算法的C/C++实现](https://www.cnblogs.com/huhu0013/p/3334890.html) : TEA加密算法的C/C++实现
+
+[Tea加密算法](https://blog.csdn.net/weixin_43360152/article/details/100603860) : Tea加密算法
+
+[TEA加密算法](https://baike.baidu.com/item/TEA加密算法/9383067?fr=aladdin) : TEA加密算法
 
 
 
