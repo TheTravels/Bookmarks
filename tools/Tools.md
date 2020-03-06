@@ -13,6 +13,10 @@
 # Qt
 [Qt creator安装](https://blog.csdn.net/qingyunshizi2014/article/details/80618044) : Qt creator安装 
 
+[Qt Documentation](https://doc.qt.io/) : Qt Documentation
+
+[Qt wiki](https://wiki.qt.io/Main) : Qt wiki
+
 # Poedit
 
 [Poedit](https://baike.baidu.com/item/Poedit/8966731?fr=aladdin) : PoEdit是一款.po文件编辑器，PO即Portable Object，可跨平台对象的意思，PoEdit常用来汉化各种程序
