@@ -6,6 +6,10 @@
 
 [手把手教你启用Win10的Linux子系统（超详细）](https://blog.csdn.net/zhangdongren/article/details/82663977) : 手把手教你启用Win10的Linux子系统（超详细） 
 
+[启用Windows10的Linux子系统并安装图形界面](https://www.linuxidc.com/Linux/2019-05/158676.htm) : 启用Windows10的Linux子系统并安装图形界面
+
+[Win10子系统安装图形化界面的两种方法](https://baijiahao.baidu.com/s?id=1596652006568524478&wfr=spider&for=pc) : Win10子系统安装图形化界面的两种方法
+
 ## Windows
 ==
 
