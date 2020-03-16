@@ -35,6 +35,12 @@
 [MySQL数据库使用——MySQL在C/C++的API接口](https://blog.csdn.net/zxng_work/article/details/78926413) : MySQL数据库使用——MySQL在C/C++的API接口 
 
 
+# TCP
+
+[如何关闭和启用Nagle算法](https://blog.csdn.net/weixin_42066185/article/details/89183654) : 如何关闭和启用Nagle算法 
+
+[windows下关闭TCP的Nagle纳格算法](http://blog.sina.com.cn/s/blog_9fc4ac510102wpc2.html) : windows下关闭TCP的Nagle纳格算法 
+
 
 ## putty
 ==
