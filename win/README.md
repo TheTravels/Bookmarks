@@ -41,6 +41,8 @@
 
 [windows下关闭TCP的Nagle纳格算法](http://blog.sina.com.cn/s/blog_9fc4ac510102wpc2.html) : windows下关闭TCP的Nagle纳格算法 
 
+[Windows10怎么关闭nagle算法 如何解决网游卡顿问题](https://baijiahao.baidu.com/s?id=1633231984496418261&wfr=spider&for=pc) : Windows10怎么关闭nagle算法 如何解决网游卡顿问题 
+
 
 ## putty
 ==
