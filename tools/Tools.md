@@ -26,6 +26,18 @@
 [编辑 .mo .po 的语言翻译文件的方法](https://www.jianshu.com/p/7579bc4dff45) : 编辑 .mo .po 的语言翻译文件的方法 
 
 
+# Notepad++
+
+[NppAStyle](https://github.com/ywx/NppAStyle/releases) : 代码格式化插件
+
+[Notepad++实现代码格式化](https://blog.csdn.net/iefenghao/article/details/88817683) : Notepad++实现代码格式化 
+
+[Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus) : Notepad++ official repository https://notepad-plus-plus.org/
+
+[Notepad++ 代码格式化](https://blog.csdn.net/vv1025/article/details/93321269) : Notepad++ 代码格式化 
+
+
+
 # ST
 
 [STM32CubeIDE](https://my.st.com/content/my_st_com/zh/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-ides/stm32cubeide.html#) : STM32CubeIDE
