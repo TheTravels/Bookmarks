@@ -55,6 +55,8 @@ F4
 
 [一个关于使用STM32F4芯片CCM RAM时的异常分析](https://www.eefocus.com/digiic/blog/17-01/402973_e00e8.html) : 一个关于使用STM32F4芯片CCM RAM时的异常分析  
 
+[STM32F4 随机数发生器RNG【使用库函数】](https://www.cnblogs.com/zyqgold/archive/2013/05/29/3106284.html) : STM32F4 随机数发生器RNG【使用库函数】
+
 
 
 doc
