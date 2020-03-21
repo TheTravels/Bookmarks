@@ -44,6 +44,8 @@ Qt
 
 [Qt工程使用第三方库——Qt下使用glut库](https://www.cnblogs.com/foundkey/p/5960851.html) : Qt工程使用第三方库——Qt下使用glut库 
 
+[Qt中的模态对话框（Modal Dialog）与非模态对话框（Modeless Dialog）用法](https://www.xuebuyuan.com/3195970.html) : Qt中的模态对话框（Modal Dialog）与非模态对话框（Modeless Dialog）用法 
+
 Other
 ==
 [Ti实验室](http://www.dianyuan.com/class/album_209.html) : 几个ti实验内容
