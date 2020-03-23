@@ -2,8 +2,8 @@
 该项目用于存放 STM32 书签
 
 
-### C++
-====
+## C++
+
 [用C++开发STM32程序](https://blog.csdn.net/qq_39276007/article/details/79245299) :  用C++开发STM32程序 
 
 [使用C++开发stm32程序之GPIO篇](https://blog.csdn.net/oyoung_2012/article/details/79624077) : 使用C++开发stm32程序之GPIO篇 
@@ -35,9 +35,15 @@
 [不知有没有人对C++开发STM32感兴趣的，来讨论些问题](http://www.openedv.com/forum.php?mod=viewthread&tid=3144&page=2) : 不知有没有人对C++开发STM32感兴趣的，来讨论些问题 
 
 
-### C 函数库
-====
+## C 函数库
+
 [C 函数库 ——libc,glibc,eglibc,uClibc,newlib](https://blog.csdn.net/u014470361/article/details/87933242) : C 函数库 ——libc,glibc,eglibc,uClibc,newlib 
 
 [newlib](http://www.sourceware.org/newlib/) : What is it? 
+
+## miniLZO
+
+[基于STM32的无损压缩算法miniLZO移植，压缩率很高，20KB随机数压缩到638字节，耗时275us](https://www.cnblogs.com/armfly/p/11356843.html) : STM32跑压缩算法
+
+[发一个单片机可用的无损数据压缩算法（miniLZO）源码及测试工程](http://www.embed-net.com/thread-192-1-1.html) : STM32跑压缩算法
 
