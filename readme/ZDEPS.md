@@ -431,7 +431,7 @@
 
 [VMware Workstation Pro v15.5.0 官方版+激活密钥](https://www.nocmd.com/740.html) : VMware Workstation Pro v15.5.0 官方版+激活密钥 
 
-[VMware Workstation 15永久激活密匙](https://blog.csdn.net/make__It/article/details/84440251) : VMware Workstation 15永久激活密匙 
+[VMware Workstation 15永久激活密匙](https://blog.csdn.net/make__It/article/details/84440251) : VMware Workstation 15永久激活密匙 <UG5J2-0ME12-M89WY-NPWXX-WQH88> <GA590-86Y05-4806Y-X4PEE-ZV8E0> <YA18K-0WY8P-H85DY-L4NZG-X7RAD> <UA5DR-2ZD4H-089FY-6YQ5T-YPRX6> <UA5DR-2ZD4H-089FY-6YQ5T-YPRX6> <GA590-86Y05-4806Y-X4PEE-ZV8E0 > <ZF582-0NW5N-H8D2P-0XZEE-Z22VA >
 
 [流程图](https://app.liuchengtu.com/#) : 流程图 
 
