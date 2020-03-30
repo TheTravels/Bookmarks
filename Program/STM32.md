@@ -1,6 +1,13 @@
 # STM32
 该项目用于存放 STM32 书签
 
+## ST
+
+[使用 U 盘更新 STM32F4DISCOVERY 板固件](https://www.st.com/resource/zh/application_note/dm00039672-upgrading-stm32f4discovery-board-firmware-using-a-usb-key-stmicroelectronics.pdf) : 使用 U 盘更新 STM32F4DISCOVERY 板固件 
+
+[RM0008 - STM32F10x参考手册](https://www.stmcu.org.cn/document/detail/index/id-200272) : RM0008 - STM32F10x参考手册 
+
+[UM2576](https://www.stmcu.org.cn/document/detail/index/id-219300) : STM32CubeIDE stlink GDB服务器 
 
 ## C++
 
