@@ -9,6 +9,10 @@
 
 [UM2576](https://www.stmcu.org.cn/document/detail/index/id-219300) : STM32CubeIDE stlink GDB服务器 
 
+## STM32CubeMX
+
+[stm32-利用cubemx创建多路adc采集并开启DMA进行搬运，基于HAL库](https://blog.csdn.net/apple_2333/article/details/96962574) : stm32-利用cubemx创建多路adc采集并开启DMA进行搬运，基于HAL库 
+
 ## C++
 
 [用C++开发STM32程序](https://blog.csdn.net/qq_39276007/article/details/79245299) :  用C++开发STM32程序 
