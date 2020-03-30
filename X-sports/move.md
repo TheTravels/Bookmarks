@@ -8,6 +8,8 @@
 
 [2019年剧情传记《托尔金》BD中英双字幕](https://www.dytt8.net/html/gndy/dyzz/20190728/58910.html) : 2019年剧情传记《托尔金》BD中英双字幕
 
+[打败《复联4》，超越《阿凡达》，它凭什么成为影史第一神作？ ](https://movie.xunlei.com/reviews/148733?entrypage=xlx_startup_page&entry=xlx_banner) : 打败《复联4》，超越《阿凡达》，它凭什么成为影史第一神作？  
+
 ## 纪录片
 
 [在世界尽头相遇](https://www.btmao.cc/v/8841.html) : 世界尽头的奇遇,冰旅记事
