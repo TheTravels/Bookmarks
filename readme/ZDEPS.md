@@ -1,5 +1,34 @@
 # Bookmarks
 
+## ST
+
+### 经验
+
+[STM32 ADC 规则多通道转换](https://blog.csdn.net/zhangzhibin160410132/article/details/38406483) : STM32 ADC 规则多通道转换 
+
+[485通信详解](https://blog.csdn.net/lin_duo/article/details/78490718) : 485通信详解 
+
+[stm32之定时器运用———呼吸灯](https://blog.csdn.net/zouxu634866/article/details/78735253) : stm32之定时器运用———呼吸灯 
+
+[单片机程序构架](https://blog.csdn.net/yyz_1987/article/details/17961375) : 单片机程序构架 
+
+[C语言中mktime函数功能及用法](https://blog.csdn.net/xuefu2008/article/details/4645899) : C语言中mktime函数功能及用法 
+
+## Qt
+
+[QT中的线程与事件循环理解（2）](https://www.cnblogs.com/icmzn/p/7348264.html) : QT中的线程与事件循环理解（2） 
+
+[QEventLoop 的使用两例](https://www.jianshu.com/p/53574af15724?utm_campaign=maleskine&utm_content=note&utm_medium=seo_notes&utm_source=recommendation) : QEventLoop 的使用两例 
+
+
+## aec-q100
+
+[AEC-Q100认证！流程、难点、试验、分类](http://blog.sina.com.cn/s/blog_183030af80102zo73.html) : AEC-Q100认证！流程、难点、试验、分类 
+
+[了解车用 IC 规范 AEC-Q100 验证流程，看汽车级芯片有什么不同？](https://www.eefocus.com/automobile-electronics/423712) : 了解车用 IC 规范 AEC-Q100 验证流程，看汽车级芯片有什么不同？ 
+
+[车规电阻器为何如此重视AEC－Q100标准认证](http://www.microhm.com/resistor/987.html) : 车规电阻器为何如此重视AEC－Q100标准认证 
+
 ## 条码
 
 [打印机二次开发包](http://www.argox.com.cn/Pages/serviceDownload.aspx?classid=7&key=&proclassid=&proid=1087) : 打印机二次开发包 
