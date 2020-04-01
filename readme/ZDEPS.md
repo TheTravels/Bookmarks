@@ -192,6 +192,8 @@
 
 [linux文件远程传输](https://blog.csdn.net/fighting_s/article/details/83106053) : linux文件远程传输 
 
+[centos7中文语言包的安装](https://blog.csdn.net/qq_39027198/article/details/100014321) : centos7中文语言包的安装 
+
 
 ### Makefile
 
