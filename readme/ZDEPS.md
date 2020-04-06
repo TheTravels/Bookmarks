@@ -194,6 +194,16 @@
 
 [centos7中文语言包的安装](https://blog.csdn.net/qq_39027198/article/details/100014321) : centos7中文语言包的安装 
 
+[linux top命令看到的实存(RES)与虚存(VIRT)分析](https://www.cnblogs.com/xudong-bupt/p/8643094.html) : linux top命令看到的实存(RES)与虚存(VIRT)分析 
+
+[linux查看某一个进程的socket连接数](https://blog.csdn.net/xiaomucgwlmx/article/details/96979200) : linux查看某一个进程的socket连接数 
+
+[linux查看并发连接数](https://www.cnblogs.com/it-davidchen/p/11015495.html) : linux查看并发连接数 
+
+
+## Windows
+
+[启用Windows10的Linux子系统并安装图形界面](https://www.linuxidc.com/Linux/2019-05/158676.htm) : 启用Windows10的Linux子系统并安装图形界面 
 
 ### Makefile
 
