@@ -13,6 +13,12 @@
 
 [stm32-利用cubemx创建多路adc采集并开启DMA进行搬运，基于HAL库](https://blog.csdn.net/apple_2333/article/details/96962574) : stm32-利用cubemx创建多路adc采集并开启DMA进行搬运，基于HAL库 
 
+[SPI信号时序分析和使用STM32CubeMX工具配置SPI的详细教程](https://www.eefocus.com/communication/427339) : SPI信号时序分析和使用STM32CubeMX工具配置SPI的详细教程 
+
+[STM32—cubeMX+HAL库的SPI接口使用](https://blog.csdn.net/u014470361/article/details/79015712) : STM32—cubeMX+HAL库的SPI接口使用 
+
+[stm32基于CUBEMX使用LL库操作spi](https://blog.csdn.net/gongyuan073/article/details/87096805) : stm32基于CUBEMX使用LL库操作spi 
+
 ## GitHub
 
 [WeAct_HID_Bootloader_F4x1](https://github.com/WeActTC/WeAct_HID_Bootloader_F4x1) : WeActTC/WeAct_HID_Bootloader_F4x1 
