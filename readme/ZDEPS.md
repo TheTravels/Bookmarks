@@ -14,6 +14,15 @@
 
 [C语言中mktime函数功能及用法](https://blog.csdn.net/xuefu2008/article/details/4645899) : C语言中mktime函数功能及用法 
 
+## Linux
+[nginx 的启动、停止与重启](https://www.cnblogs.com/waynechou/p/7760251.html) : nginx 的启动、停止与重启 
+
+[linux安装nginx并配置负载均衡](https://www.cnblogs.com/xjh713/p/9965831.html) : linux安装nginx并配置负载均衡 
+
+[linux查看并发连接数](https://www.cnblogs.com/it-davidchen/p/11015495.html) : linux查看并发连接数 
+
+[linux后台执行命令：&和nohup]() : linux后台执行命令：&和nohup
+
 ## Qt
 
 [QT中的线程与事件循环理解（2）](https://www.cnblogs.com/icmzn/p/7348264.html) : QT中的线程与事件循环理解（2） 
