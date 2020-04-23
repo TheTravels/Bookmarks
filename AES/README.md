@@ -49,6 +49,7 @@
 # SM2
 [nano-sm2](https://github.com/Aries-orz/nano-sm2) : 这是一个8位处理器上的SM2实现，未使用openssl等第三方库，目前仅支持256位SM2 
 
+[SM2算法](http://i.goto327.top:85/CryptTools/SM2.aspx) : SM2算法在线测试
 
 
 # openssl
