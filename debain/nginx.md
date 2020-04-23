@@ -107,6 +107,11 @@
 
 [Nginx+负载均衡](https://www.jianshu.com/p/d479d79f825f) : Nginx+负载均衡 
 
+[nginx负载均衡的5种策略及原理](https://blog.csdn.net/qq_35119422/article/details/81505732) : nginx负载均衡的5种策略及原理 
+
+[Nginx负载均衡配置策略](https://www.iteye.com/blog/kavy-2142889) : Nginx负载均衡配置策略 
+
+
 ## tengine
 ==
 
