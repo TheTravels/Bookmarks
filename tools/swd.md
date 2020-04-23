@@ -41,3 +41,16 @@
 
 [DFU](http://wiki.paparazziuav.org/wiki/DFU) : DFU 
 
+[blackmagic](https://github.com/molnarkares/blackmagic/tree/master/hardware/contrib/lyorak) : lyorak 
+
+[STLink](http://wiki.paparazziuav.org/wiki/STLink#Update_the_ST-Link_to_blackmagic_probe) : STLink 
+
+[stlink clone support](https://github.com/blacksphere/blackmagic/issues/62) : stlink clone support 
+
+[Reference/bootloader](http://wiki.paparazziuav.org/wiki/Reference/bootloader) : Reference/bootloader 
+
+[Developer Guide](http://wiki.paparazziuav.org/wiki/Developer_Guide) : paparazziuav Developer Guide 
+
+[Debug Probes](http://wiki.paparazziuav.org/wiki/Debug_Probes) : Debug Probes 
+
+
