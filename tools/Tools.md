@@ -3,8 +3,11 @@
 
 ## Tools
 
-
 [GuiLite](https://gitee.com/mirrors/GuiLite) : GuiLite 
+
+[Source Insight 4.0.0085/4.0.0086 注册机序列号Patched 特别版(附替换文件+授权文件)](https://www.jb51.net/softs/548809.html) : Source Insight 4.0.0085/4.0.0086 注册机序列号Patched 特别版(附替换文件+授权文件) 
+
+[Source Insight 3.5 含注册码下载](http://www.121down.com/soft/softview-24033.html) : Source Insight 3.5 含注册码下载 
 
 
 # Linux
