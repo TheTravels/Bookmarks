@@ -89,6 +89,8 @@
 
 [M2M卡产品介绍](https://wenku.baidu.com/view/29124477effdc8d376eeaeaad1f34693daef1028.html?rec_flag=default&sxts=1571013726976) : M2M卡产品介绍 
 
+[LTE Standard EC200S-CN](https://www.quectel.com/cn/product/ec200s.htm) : LTE Standard EC200S-CN 
+
 ## Nginx
 
 [nginx.org](http://nginx.org/) : nginx news 
@@ -486,6 +488,8 @@
 [流程图](https://app.liuchengtu.com/#) : 流程图 
 
 [CH340](http://wch.cn/search?t=all&q=CH340) : CH340 资料下载 
+
+[xchange viewer](https://www.tracker-software.com/product/downloads/discontinued) : Downloads 
 
 ## Other
 
