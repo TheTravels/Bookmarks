@@ -5,6 +5,8 @@ STM32CubeMX
 ==
 [STM32CubeMX](https://www.stmcu.org.cn/document/detail/index/id-214984) : STM32CubeMX是基于eclipse 的一个插件，用来对STM32产品的配置及初始化代码的生成。(UM1718)
 
+[使用STM32CubeMX编写USB复合设备](https://www.taterli.com/2355/) : stm32cubemx USB 如何作为多个设备  
+
 
 Tools
 ==
