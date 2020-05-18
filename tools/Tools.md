@@ -13,6 +13,8 @@
 # Linux
 [Rufus](http://rufus.ie/) : Create bootable USB drives the easy way 
 
+[Linux添加用户（user）到用户组（group）](https://www.cnblogs.com/linuxde/p/8719487.html) : Linux添加用户（user）到用户组（group）
+
 # Qt
 [Qt creator安装](https://blog.csdn.net/qingyunshizi2014/article/details/80618044) : Qt creator安装 
 
@@ -46,4 +48,29 @@
 [STM32CubeIDE](https://my.st.com/content/my_st_com/zh/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-ides/stm32cubeide.html#) : STM32CubeIDE
 
 [STM32Cube Ecosystem](https://my.st.com/content/my_st_com/zh/stm32cube-ecosystem.html) : STM32Cube Ecosystem 
+
+
+# Keil
+
+[keil5 点击build 每次都全编译](https://blog.csdn.net/sq2013317/article/details/78264673) ： keil5 点击build 每次都全编译 
+
+[keil里面create batch file是干什么用的](https://zhidao.baidu.com/question/327719318230861445.html) : keil里面create batch file是干什么用的 
+
+
+# DSLogic
+
+[DSLogic-hdl](https://github.com/DreamSourceLab/DSLogic-hdl) : DSLogic-hdl 
+
+[DSLogic-fw-keil](https://github.com/DreamSourceLab/DSLogic-fw-keil) : DSLogic-fw-keil 
+
+[DSView](https://github.com/DreamSourceLab/DSView/tree/master/DSView) : DSView 
+
+[DSLogic](https://dreamsourcelab.cn/) : DSLogic 
+
+[sigrok](https://github.com/sigrokproject) : sigrok, DSLogic基于该项目
+
+[开源逻辑分析仪（DSLogic）](https://blog.csdn.net/hxkrrzq/article/details/89418968) : 开源逻辑分析仪（DSLogic） 
+
+
+
 
