@@ -57,6 +57,28 @@
 [keil里面create batch file是干什么用的](https://zhidao.baidu.com/question/327719318230861445.html) : keil里面create batch file是干什么用的 
 
 
+# STC 51
+
+[Keil C51](http://www.keil.com/fid/kxszevwlgtwj1w1gw3w1a6s31rxysy2wiicqd1/files/eval/c51v960a.exe) : Keil C51 
+
+[STC89C52 | Keil_C51官方下载、安装、破解](http://www.luyixian.cn/news_show_10109.aspx) : STC89C52 | Keil_C51官方下载、安装、破解
+
+[搭建Keil C51开发环境](https://www.cnblogs.com/lulipro/p/10685032.html) : 搭建Keil C51开发环境 
+
+[宏晶STC单片机使用STC-ISP串口烧录失败的解决方法及实例汇总 (Ver0.99.15)](https://blog.csdn.net/opshres169/article/details/51792473?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-2) : 宏晶STC单片机使用STC-ISP串口烧录失败的解决方法及实例汇总 (Ver0.99.15) 
+
+[STC-ISP下载失败的原因与解决汇总](https://blog.csdn.net/dcx1205/article/details/9986011?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase) : STC-ISP下载失败的原因与解决汇总 
+
+[STC-ISP下载失败的原因与解决汇总](https://blog.csdn.net/dcx1205/article/details/9986011?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase) : STC-ISP下载失败的原因与解决汇总 
+
+[STC15W408AS单片机使用CH340下载工具下载程序一直停留在检测单片机型号](https://blog.csdn.net/m0_38012497/article/details/96871293) : STC15W408AS单片机使用CH340下载工具下载程序一直停留在检测单片机型号 
+
+[KEIL C51程序中如何嵌入汇编](https://www.cnblogs.com/shirishiqi/p/5566424.html) : KEIL C51程序中如何嵌入汇编 
+
+[51单片机汇编延时分析](https://blog.csdn.net/xinzhiya001/article/details/55001751) : 51单片机汇编延时分析
+
+
+
 # DSLogic
 
 [DSLogic-hdl](https://github.com/DreamSourceLab/DSLogic-hdl) : DSLogic-hdl 
@@ -70,6 +92,15 @@
 [sigrok](https://github.com/sigrokproject) : sigrok, DSLogic基于该项目
 
 [开源逻辑分析仪（DSLogic）](https://blog.csdn.net/hxkrrzq/article/details/89418968) : 开源逻辑分析仪（DSLogic） 
+
+
+# Android 模拟器
+
+[雷电模拟器](http://www.ldmnq.com/ldy/baidu.html?bd_vid=8233275465790963057) : 雷电模拟器
+
+[逍遥模拟器](http://www.xyaz.cn/index2.html) : 逍遥模拟器 
+
+
 
 
 
