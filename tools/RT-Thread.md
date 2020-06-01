@@ -1,8 +1,8 @@
 # RT-Thread
-该项目用于存放 RT-Thread书签
+###该项目用于存放 RT-Thread书签
 
-官方资料
-==
+# 官方资料
+
 
 [官网](https://www.rt-thread.org/):https://www.rt-thread.org/
 
@@ -59,8 +59,12 @@
 [cpu使用率分析](https://www.rt-thread.org/qa/thread-2903-1-1.html) : cpu使用率分析 
 
 
+# 系统API
+
+[rt-thread调度锁与关闭中断深度探究](https://www.cnblogs.com/bigmagic/p/12980754.html) : RT-Thread 停止系统调度 
+
 ### 第三方资料
-====
+
 [RT-Thread的CPU使用率计算](https://www.cnblogs.com/yygsj/p/5500943.html) : RT-Thread的CPU使用率计算 
 
 
