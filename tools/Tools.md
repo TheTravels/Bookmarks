@@ -101,7 +101,9 @@
 [逍遥模拟器](http://www.xyaz.cn/index2.html) : 逍遥模拟器 
 
 
+# 单片机开发
 
+[CommMonitor串口监控 v10.0破解版](http://www.ddooo.com/softdown/133440.htm) : CommMonitor串口监控 v10.0破解版 
 
 
 
