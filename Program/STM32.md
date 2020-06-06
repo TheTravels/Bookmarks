@@ -26,6 +26,7 @@
 [MiniF4-STM32F4x1](https://github.com/WeActTC/MiniF4-STM32F4x1) : WeActTC/MiniF4-STM32F4x1 
 
 ## C++
+====
 
 [用C++开发STM32程序](https://blog.csdn.net/qq_39276007/article/details/79245299) :  用C++开发STM32程序 
 
@@ -57,6 +58,15 @@
 
 [不知有没有人对C++开发STM32感兴趣的，来讨论些问题](http://www.openedv.com/forum.php?mod=viewthread&tid=3144&page=2) : 不知有没有人对C++开发STM32感兴趣的，来讨论些问题 
 
+[Keil5 STM32 C++开发 ARM V6编译器的使用教程](https://www.cnblogs.com/yeshuimaowei/p/11396883.html) : Keil5 STM32 C++开发 ARM V6编译器的使用教程 
+
+[将 STM32的官方工程模板 修改为我们这套教材的：STM32 C++工程模板](https://www.cnblogs.com/aobosir/p/5928577.html) : 将 STM32的官方工程模板 修改为我们这套教材的：STM32 C++工程模板 
+
+[stm32mpu](https://wiki.st.com/stm32mpu) : stm32mpu 
+
+[STM32duino-bootloader](https://github.com/rogerclarkmelbourne/STM32duino-bootloader) : Bootloader for STM32F103 boards, for use with the Arduino_STM32 repo and the Arduino IDE 
+
+[Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) : STM32 core support for Arduino https://github.com/stm32duino/wiki/wiki
 
 ## C 函数库
 
