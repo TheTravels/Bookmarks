@@ -25,6 +25,10 @@
 
 [MiniF4-STM32F4x1](https://github.com/WeActTC/MiniF4-STM32F4x1) : WeActTC/MiniF4-STM32F4x1 
 
+[CANBootloader](https://github.com/aibots-sam/CANBootloader) : 自举程序 
+
+[stm32f103c8](https://github.com/MagicPrince666/stm32f103c8) : c and c++ Makefile version/拿人家代码不star不fork的都是耍流氓
+
 ## C++
 ====
 
@@ -71,6 +75,8 @@
 [Arduino_STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32) : Arduino STM32. Hardware files to support STM32 boards, on Arduino IDE 1.8.x including LeafLabs Maple and other generic STM32F103 boards 
 
 [STM32_Arduino_Cores](https://github.com/MakerLabMe/STM32_Arduino_Cores) : STM M3 ARM Cores for Arduino IDE.Makes Arduino IDE supports stm32f103. 
+
+[libmaple_F4](https://github.com/bubulindo/libmaple_F4) : libmaple_F4 
 
 ## C 函数库
 
