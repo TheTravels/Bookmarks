@@ -9,8 +9,14 @@
 
 
 
+## NMEA
+====
 
+[NMEA](https://baike.baidu.com/item/NMEA/9812575?fr=aladdin) : NMEA 
 
+[GPS的NMEA码的详细解释定义](https://blog.csdn.net/jickjiang/article/details/79086202) : GPS的NMEA码的详细解释定义 
+
+[NMEA data](http://www.gpsinformation.org/dale/nmea.htm) : NMEA data 
 
 
 
