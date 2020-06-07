@@ -2,7 +2,7 @@
 ###该项目用于存放 RT-Thread书签
 
 # 官方资料
-
+====
 
 [官网](https://www.rt-thread.org/):https://www.rt-thread.org/
 
@@ -58,6 +58,18 @@
 
 [cpu使用率分析](https://www.rt-thread.org/qa/thread-2903-1-1.html) : cpu使用率分析 
 
+[如何选择合适的 RT-Thread 版本进行开发/学习？](https://mp.weixin.qq.com/s/d1YKCW5lR95cA3ZSyb2tBw) : 如何选择合适的 RT-Thread 版本进行开发/学习？ 
+
+[tcpclient.c](https://github.com/RT-Thread/rt-thread/blob/master/examples/network/tcpclient.c) : rt-thread/examples/network/tcpclient.c 
+
+[rtthread-manual-doc](https://github.com/RT-Thread/rtthread-manual-doc/blob/master/env/env.md) : User Manual of Env 
+
+# RT-Thread Studio
+====
+
+[RT-Thread Studio](https://www.bilibili.com/video/BV1aJ411t7qo?p=3) : RT-Thread Studio 
+
+[RT-Thread Studio](https://www.rt-thread.io/studio.html) : RT-Thread Studio是一站式开发工具，它具有易于使用的图形配置系统以及丰富的软件包和组件资源，从而使IoT开发变得简单而高效。 
 
 # 系统API
 
