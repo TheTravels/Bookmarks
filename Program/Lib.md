@@ -80,3 +80,16 @@ C++
 [tinyhttpd源码详解](https://blog.csdn.net/zx714311728/article/details/52946152) : tinyhttpd源码详解 
 
 
+# Github
+====
+
+[hex2bin](https://github.com/Keidan/hex2bin) : (GPL) Hex to binary converter. 
+
+[hex2bin](https://github.com/E3V3A/hex2bin) : An old CLI tool to parse Intel/Motorola formatted HEX ASCII firmware files into binary blobs 
+
+[bin2hex](https://github.com/krupski/bin2hex) : Convert raw binary files to Intel "IHEX" type files (used for loading large chunks of data into an Arduino board) 
+
+
+
+
+
