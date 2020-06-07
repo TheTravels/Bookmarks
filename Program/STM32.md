@@ -68,6 +68,10 @@
 
 [Arduino_Core_STM32](https://github.com/stm32duino/Arduino_Core_STM32) : STM32 core support for Arduino https://github.com/stm32duino/wiki/wiki
 
+[Arduino_STM32](https://github.com/rogerclarkmelbourne/Arduino_STM32) : Arduino STM32. Hardware files to support STM32 boards, on Arduino IDE 1.8.x including LeafLabs Maple and other generic STM32F103 boards 
+
+[STM32_Arduino_Cores](https://github.com/MakerLabMe/STM32_Arduino_Cores) : STM M3 ARM Cores for Arduino IDE.Makes Arduino IDE supports stm32f103. 
+
 ## C 函数库
 
 [C 函数库 ——libc,glibc,eglibc,uClibc,newlib](https://blog.csdn.net/u014470361/article/details/87933242) : C 函数库 ——libc,glibc,eglibc,uClibc,newlib 
