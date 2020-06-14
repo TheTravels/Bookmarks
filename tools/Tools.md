@@ -56,6 +56,9 @@
 
 [keil里面create batch file是干什么用的](https://zhidao.baidu.com/question/327719318230861445.html) : keil里面create batch file是干什么用的 
 
+[[经验] 2020年KEIL最新破解注册机来了](http://bbs.elecfans.com/jishu_1897394_1_1.html) : [经验] 2020年KEIL最新破解注册机来了 
+
+[keil-2032](https://pan.baidu.com/s/1KAkNV1KyqUOKVozx2YZsSw) : cshb
 
 # STC 51
 
