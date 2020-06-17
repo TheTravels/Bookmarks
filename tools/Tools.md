@@ -9,6 +9,10 @@
 
 [Source Insight 3.5 含注册码下载](http://www.121down.com/soft/softview-24033.html) : Source Insight 3.5 含注册码下载 
 
+[FreeCAD](https://www.freecadweb.org/) : FreeCAD 
+
+[EAGLE](https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) : EAGLE 
+
 
 # Linux
 [Rufus](http://rufus.ie/) : Create bootable USB drives the easy way 
@@ -80,6 +84,13 @@
 
 [51单片机汇编延时分析](https://blog.csdn.net/xinzhiya001/article/details/55001751) : 51单片机汇编延时分析
 
+
+# KiCAD
+====
+
+[KiCad](https://kicad-pcb.org/download/windows/) : 官网 
+
+[我为什么选择KiCad？](https://www.jianshu.com/p/ce07ec80d170) : 我为什么选择KiCad？ 
 
 
 # DSLogic
