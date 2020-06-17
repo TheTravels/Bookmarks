@@ -34,6 +34,8 @@
 
 [查看linux中的TCP连接数](https://www.cnblogs.com/kabi/p/8204792.html) : 查看linux中的TCP连接数 
 
+[[CentOS]添加删除用户](https://www.cnblogs.com/wolf-sun/p/CnetOs7-user.html) : [CentOS]添加删除用户 
+
 ## C
 ====
 [C语言中chdir（）使用](https://blog.csdn.net/Gease_lcj/article/details/79347440) : C语言中chdir（）使用 
