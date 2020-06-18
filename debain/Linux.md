@@ -72,6 +72,8 @@
 
 [TTY PLUS. Home of MTPuTTY](http://www.ttyplus.com/downloads.html) : TTY PLUS. Home of MTPuTTY 
 
+[linux scp远程拷贝文件及文件夹](https://www.cnblogs.com/Anidot/articles/8810411.html): linux scp远程拷贝文件及文件夹 
+
 ### 加密
 ====
 [TEA、XTEA、XXTEA加密解密算法](https://blog.csdn.net/gsls200808/article/details/48243019) : TEA、XTEA、XXTEA加密解密算法 

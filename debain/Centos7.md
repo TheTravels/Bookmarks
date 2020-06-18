@@ -41,13 +41,17 @@
 [linux中安装软件，查看、卸载已安装软件方法](https://www.cnblogs.com/tangtangde12580/p/8027631.html) : linux中安装软件，查看、卸载已安装软件方法 
 
 
+## VSFTP
+====
+[Linux查看系统中所有用户、查看用户信息、用户组信息](https://www.cnblogs.com/will-wu/p/12937015.html) : Linux查看系统中所有用户、查看用户信息、用户组信息 
 
+[vsftp黑白名单设置及问题](https://www.cnblogs.com/bwteacher/p/4769349.html) : vsftp黑白名单设置及问题 
 
+[vsftp限制FTP用户只能访问自己的目录](https://blog.csdn.net/weixin_34335458/article/details/85920143) : vsftp限制FTP用户只能访问自己的目录 
 
+[CentOS7下安装FTP服务](https://www.cnblogs.com/zhi-leaf/p/5983550.html) : CentOS7下安装FTP服务 
 
-
-
-
+[Centos7 安装配置FTP服务器](https://www.jianshu.com/p/4409cb0d4f73) : Centos7 安装配置FTP服务器 
 
 
 
