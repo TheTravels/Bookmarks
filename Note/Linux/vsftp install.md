@@ -277,7 +277,7 @@ ftp>
 ```
 这样我们就不能再使用匿名的方式进行登录了。
 
-## 附录：
+## 附录： 
 
 [vsftpd被动模式下端口映射外网无法访问的问题](https://www.cnblogs.com/huangweimin/articles/10468637.html)
 [Linux vsftpd 内网服务器 被动模式配置外网访问 部分填坑](https://blog.csdn.net/hajistark/article/details/82954777)
