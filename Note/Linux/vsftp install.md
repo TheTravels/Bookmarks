@@ -27,7 +27,7 @@
 ##### 2.1 安装 vsftp： 
 	sudo yum install -y vsftpd
 ##### 2.2 本地测试
-	[merafour@centos7_test_server ~]$ ftp localhost
+	[admin@centos7_test_server ~]$ ftp localhost
 	Trying 127.0.0.1...
 	ftp: connect to address 127.0.0.1拒绝连接
 	Trying ::1...
@@ -35,12 +35,12 @@
 	ftp>
 在测试之前我们需要先启动服务器：
 ```
-	[merafour@centos7_test_server ~]$ sudo systemctl start vsftpd.service
-	[merafour@centos7_test_server ~]$ ftp localhost
+	[admin@centos7_test_server ~]$ sudo systemctl start vsftpd.service
+	[admin@centos7_test_server ~]$ ftp localhost
 	Trying 127.0.0.1...
 	Connected to localhost (127.0.0.1).
 	220 (vsFTPd 3.0.2)
-	Name (localhost:merafour): anonymous
+	Name (localhost:admin): anonymous
 	331 Please specify the password.
 	Password:
 	230 Login successful.
@@ -91,12 +91,12 @@ pasv_max_port=15500
 ```
 更改配置之后一定要重启vsftp：
 ```
-[merafour@centos7_test_server ~]$ sudo systemctl stop vsftpd.service
-[merafour@centos7_test_server ~]$ sudo systemctl start vsftpd.service
-[merafour@centos7_test_server ~]$ ftp 39.108.51.xx
+[admin@centos7_test_server ~]$ sudo systemctl stop vsftpd.service
+[admin@centos7_test_server ~]$ sudo systemctl start vsftpd.service
+[admin@centos7_test_server ~]$ ftp 39.108.51.xx
 Connected to 39.108.51.xx (39.108.51.xx).
 220 (vsFTPd 3.0.2)
-Name (39.108.51.xx:merafour): anonymous
+Name (39.108.51.xx:admin): anonymous
 331 Please specify the password.
 Password:
 230 Login successful.
@@ -137,9 +137,9 @@ userlist_enable=YES
 userlist_deny=NO
 ```
 这里把 /etc/vsftpd/user_list配置成了一个白名单，下面我们要在白名单中添加我们需要的系统用户：
-[merafour@centos7_test_server ~]$ sudo vim /etc/vsftpd/user_list
+[admin@centos7_test_server ~]$ sudo vim /etc/vsftpd/user_list
 ```
-[merafour@centos7_test_server ~]$ sudo cat /etc/vsftpd/user_list
+[admin@centos7_test_server ~]$ sudo cat /etc/vsftpd/user_list
 # vsftpd userlist
 # If userlist_deny=NO, only allow users in this file
 # If userlist_deny=YES (default), never allow users in this file, and
@@ -161,16 +161,16 @@ operator
 games
 nobody
 obd4g
-[merafour@centos7_test_server ~]$
+[admin@centos7_test_server ~]$
 ```
 obd4g便是我们 FTP登录的系统用户，需要创建(sudo useradd obd4g)。然后重启服务器登录测试：
 ```
-[merafour@centos7_test_server ~]$ sudo systemctl stop vsftpd.service
-[merafour@centos7_test_server ~]$ sudo systemctl start vsftpd.service
-[merafour@centos7_test_server ~]$ ftp 39.108.51.xx
+[admin@centos7_test_server ~]$ sudo systemctl stop vsftpd.service
+[admin@centos7_test_server ~]$ sudo systemctl start vsftpd.service
+[admin@centos7_test_server ~]$ ftp 39.108.51.xx
 Connected to 39.108.51.xx (39.108.51.xx).
 220 (vsFTPd 3.0.2)
-Name (39.108.51.xx:merafour): obd4g
+Name (39.108.51.xx:admin): obd4g
 331 Please specify the password.
 Password:
 230 Login successful.
@@ -198,12 +198,12 @@ allow_writeable_chroot=YES
 ```
 接着测试：
 ```
-[merafour@centos7_test_server ~]$ sudo systemctl stop vsftpd.service
-[merafour@centos7_test_server ~]$ sudo systemctl start vsftpd.service
-[merafour@centos7_test_server ~]$ ftp 39.108.51.99
-Connected to 39.108.51.99 (39.108.51.99).
+[admin@centos7_test_server ~]$ sudo systemctl stop vsftpd.service
+[admin@centos7_test_server ~]$ sudo systemctl start vsftpd.service
+[admin@centos7_test_server ~]$ ftp 39.108.51.xx
+Connected to 39.108.51.xx (39.108.51.xx).
 220 (vsFTPd 3.0.2)
-Name (39.108.51.99:merafour): obd4g
+Name (39.108.51.xx:admin): obd4g
 331 Please specify the password.
 Password:
 500 OOPS: could not read chroot() list file:/etc/vsftpd/chroot_list
@@ -216,13 +216,13 @@ ftp>
 出错了！！！原因在于没有 /etc/vsftpd/chroot_list文件，直接"sudo touch /etc/vsftpd/chroot_list"创建一个空文件即可。
 我们再次测试
 ```
-[merafour@centos7_test_server ~]$ sudo touch /etc/vsftpd/chroot_list
-[merafour@centos7_test_server ~]$ sudo systemctl stop vsftpd.service
-[merafour@centos7_test_server ~]$ sudo systemctl start vsftpd.service
-[merafour@centos7_test_server ~]$ ftp 39.108.51.99
-Connected to 39.108.51.99 (39.108.51.99).
+[admin@centos7_test_server ~]$ sudo touch /etc/vsftpd/chroot_list
+[admin@centos7_test_server ~]$ sudo systemctl stop vsftpd.service
+[admin@centos7_test_server ~]$ sudo systemctl start vsftpd.service
+[admin@centos7_test_server ~]$ ftp 39.108.51.xx
+Connected to 39.108.51.xx (39.108.51.xx).
 220 (vsFTPd 3.0.2)
-Name (39.108.51.99:merafour): obd4g
+Name (39.108.51.xx:admin): obd4g
 331 Please specify the password.
 Password:
 230 Login successful.
@@ -264,13 +264,13 @@ ftpd_banner=Welcome to blah FTP service.
 ```
 测试：
 ```
-[merafour@centos7_test_server ~]$ sudo vim /etc/vsftpd/vsftpd.conf
-[merafour@centos7_test_server ~]$ sudo systemctl stop vsftpd.service
-[merafour@centos7_test_server ~]$ sudo systemctl start vsftpd.service
-[merafour@centos7_test_server ~]$ ftp 39.108.51.99
-Connected to 39.108.51.99 (39.108.51.99).
+[admin@centos7_test_server ~]$ sudo vim /etc/vsftpd/vsftpd.conf
+[admin@centos7_test_server ~]$ sudo systemctl stop vsftpd.service
+[admin@centos7_test_server ~]$ sudo systemctl start vsftpd.service
+[admin@centos7_test_server ~]$ ftp 39.108.51.xx
+Connected to 39.108.51.xx (39.108.51.xx).
 220 (vsFTPd 3.0.2)
-Name (39.108.51.99:merafour): anonymous
+Name (39.108.51.xx:admin): anonymous
 530 Permission denied.
 Login failed.
 ftp>
