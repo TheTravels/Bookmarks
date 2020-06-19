@@ -1,5 +1,17 @@
 # vsftp 服务器安装
-
+```
+/************************ (C) COPYLEFT 2018 Merafour *************************
+* File Name          : vsftp install.md
+* Author             : Merafour
+* Last Modified Date : June 19, 2020 
+* Description        : vsftp 服务器安装.
+********************************************************************************
+* https://merafour.blog.163.com
+* merafour@163.com
+* https://github.com/merafour
+* https://github.com/TheTravels/Bookmarks/tree/master/Note/Linux
+******************************************************************************/
+```
 
 ## 1.基础命令
 这里以Centos为例，在线安装软件的命令为 yum，管理员权限 sudo。
