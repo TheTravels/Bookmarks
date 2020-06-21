@@ -10,6 +10,16 @@
 
 [打败《复联4》，超越《阿凡达》，它凭什么成为影史第一神作？ ](https://movie.xunlei.com/reviews/148733?entrypage=xlx_startup_page&entry=xlx_banner) : 打败《复联4》，超越《阿凡达》，它凭什么成为影史第一神作？  
 
+[一集一个恐怖故事，各种反转贼刺激！-《血色旅程》](https://movie.xunlei.com/reviews/209652?entrypage=filmlib_dailybest&entry=filmlib_dailybest_card)
+
+[《珍品》](https://movie.xunlei.com/reviews/198820?entrypage=filmlib_dailybest&entry=filmlib_dailybest_card)
+
+[《 隐形人 》](https://movie.xunlei.com/reviews/204077?entrypage=filmlib_dailybest&entry=filmlib_dailybest_card)
+
+[泰坦尼克号删减片段+另一个结局 ](https://movie.xunlei.com/reviews/105473?entrypage=filmlib_detailpage&entry=filmlib_detailpage_other_recommend)
+
+[8部跟《流浪地球》一样硬核的末日科幻片，你看过几部？ ](https://movie.xunlei.com/circles/34/posts/1081446?entrypage=xlx_startup_page&entry=xlx_banner)
+
 ## 纪录片
 
 [在世界尽头相遇](https://www.btmao.cc/v/8841.html) : 世界尽头的奇遇,冰旅记事
@@ -35,7 +45,7 @@
 
 [2000[一脚定江山]](http://www.xiepp.com/guochantv/35315.html) : BT下载/迅雷下载 
 
-[8部跟《流浪地球》一样硬核的末日科幻片，你看过几部？ ](https://movie.xunlei.com/circles/34/posts/1081446?entrypage=xlx_startup_page&entry=xlx_banner) : 8部跟《流浪地球》一样硬核的末日科幻片，你看过几部？  
+
 
 
 

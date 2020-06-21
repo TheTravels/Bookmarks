@@ -36,6 +36,12 @@
 
 [[CentOS]添加删除用户](https://www.cnblogs.com/wolf-sun/p/CnetOs7-user.html) : [CentOS]添加删除用户 
 
+[Ubuntu命令卸载软件](https://blog.csdn.net/luckydog612/article/details/80877179) : Ubuntu命令卸载软件 
+
+[Ubuntu install mysql-server](https://www.cnblogs.com/xyyhcn/p/11928603.html)
+
+[Ubuntu18.04安装MySQL(未设置密码或忘记密码)](https://www.cnblogs.com/WXGC-yang/p/10562203.html)
+
 ## C
 ====
 [C语言中chdir（）使用](https://blog.csdn.net/Gease_lcj/article/details/79347440) : C语言中chdir（）使用 
