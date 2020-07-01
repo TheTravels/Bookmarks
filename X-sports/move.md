@@ -20,6 +20,8 @@
 
 [8部跟《流浪地球》一样硬核的末日科幻片，你看过几部？ ](https://movie.xunlei.com/circles/34/posts/1081446?entrypage=xlx_startup_page&entry=xlx_banner)
 
+[评《 红雀 》](https://movie.xunlei.com/reviews/212768?entrypage=xlx_startup_page&entry=xlx_banner) 
+
 ## 纪录片
 
 [在世界尽头相遇](https://www.btmao.cc/v/8841.html) : 世界尽头的奇遇,冰旅记事

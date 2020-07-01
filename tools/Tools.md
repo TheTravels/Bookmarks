@@ -13,6 +13,20 @@
 
 [EAGLE](https://www.autodesk.com/products/eagle/overview?plc=F360&term=1-YEAR&support=ADVANCED&quantity=1) : EAGLE 
 
+[WinRAR个人版](http://www.winrar.com.cn/download.htm)
+
+[win10 KMS激活工具目前为止最好的激活工具](http://www.tudoupe.com/win10/win10jihuo/2015/0610/3529.html)
+
+[冰点还原精灵](https://www.zdfans.com/html/23868.html)
+
+[Deep Freeze冰点还原标准版](https://www.bingdianhuanyuan.cn/product_standard.html) : 官网 
+
+[冰点还原精灵免费版 V8.30 永久激活版](http://www.downxia.com/downinfo/275934.html) : 冰点还原精灵免费版 V8.30 永久激活版 
+
+[VirtualBox虚拟机内的系统时间无法调整的解决方法（禁止virtualbox时间同步的方法）...](https://blog.csdn.net/iteye_10018/article/details/82510079) : virtualbox更改时间不生效 
+
+[keil注册机，2032年的，](https://blog.csdn.net/zhizhoukeji/article/details/104674227?utm_medium=distribute.pc_relevant_bbs_down.none-task-blog-BlogCommendFromBaidu-1.nonecase&depth_1-utm_source=distribute.pc_relevant_bbs_down.none-task-blog-BlogCommendFromBaidu-1.nonecase)
+
 
 # Linux
 [Rufus](http://rufus.ie/) : Create bootable USB drives the easy way 

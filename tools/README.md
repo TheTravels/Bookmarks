@@ -11,6 +11,8 @@ Shell
 
 [在 Windows 上通过 SSH 协议挂载远程文件系统](https://blog.csdn.net/chen3feng/article/details/5929883) : 在 Windows 上通过 SSH 协议挂载远程文件系统 
 
+[16进制转换文本](https://www.sojson.com/hexadecimal.html) : 字符串转十六进制在线转换
+
 ### Compiler tool
 [ARM 编译工具keil 和 IAR 命令行编译和下载](https://www.cnblogs.com/memorypro/p/9562919.html):https://www.cnblogs.com/memorypro/p/9562919.html
 

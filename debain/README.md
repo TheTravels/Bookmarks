@@ -20,14 +20,18 @@
 
 [ubuntu安装mysqlclient](https://www.cnblogs.com/lajiao/p/9176060.html) : ubuntu安装mysqlclient 
 
+## FTP
+
+[FTP传输模式binary和ASCII的区别](https://wenku.baidu.com/view/e1f268b2bb4cf7ec4bfed03d.html) : 百度文库 
+
 ## putty
-==
+
 
 [PuTTY免用户名和密码登录](https://jingyan.baidu.com/article/e3c78d64883e313c4c85f5ea.html) : PuTTY免用户名和密码登录 
 
 
-## Androif
-==
+## Android
+
 [使用UserLAnd在没有root的Android上安装和运行Linux发行版](https://ywnz.com/linuxsj/3854.html) : 使用UserLAnd在没有root的Android上安装和运行Linux发行版 
 
 [CypherpunkArmory/UserLAnd](https://github.com/CypherpunkArmory/UserLAnd/releases) : CypherpunkArmory/UserLAnd 
