@@ -7,6 +7,7 @@ STM32CubeMX
 
 [使用STM32CubeMX编写USB复合设备](https://www.taterli.com/2355/) : stm32cubemx USB 如何作为多个设备  
 
+[FatFs](http://elm-chan.org/fsw/ff/00index_e.html) : FatFs - Generic FAT Filesystem Module 
 
 Tools
 ==
@@ -32,7 +33,7 @@ Tools
 
 [GNU Arm Embedded Toolchain Downloads](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads) : gnu tools arm embedded 
 
-
+[fatfs移植和使用（在SPI_FLASH上建立文件系统）](https://blog.csdn.net/qq_21475601/article/details/78032854) : FATFS移植 
 
 
 F1

@@ -42,6 +42,20 @@
 
 [组件化模块(五): 关联subModule和移除subModule详解（结合sourcetree讲解）](https://www.jianshu.com/p/76edc3f26cfd):组件化模块(五): 关联subModule和移除subModule详解（结合sourcetree讲解）
 
+[2.6 Git 基础 - 打标签](https://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-%E6%89%93%E6%A0%87%E7%AD%BE) : git tag 
+
+[git打tag](https://www.jianshu.com/p/cdd80dd15593) : git tag 
+
+## GitHub上下载单个文件
+
+[如何从 GitHub 上下载指定项目的单个文件或文件夹 ](https://www.sohu.com/a/325898829_760387)
+
+[如何在github上下载单个文件夹?](https://www.cnblogs.com/jing-tian/p/11142189.html) 
+
+[从github下载单独文件的两种方式](https://www.jianshu.com/p/fd6343838366) : SVN 已测试
+
+[如何从 GitHub 上下载单个文件夹？](https://www.zhihu.com/question/25369412/answer/615715786) : SVN 已测试
+
 # GitHub Desktop
 [desktop](https://github.com/desktop/desktop) : desktop 
 
