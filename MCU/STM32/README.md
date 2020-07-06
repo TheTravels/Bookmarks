@@ -9,6 +9,8 @@ STM32CubeMX
 
 [FatFs](http://elm-chan.org/fsw/ff/00index_e.html) : FatFs - Generic FAT Filesystem Module 
 
+[FatFs模块功能配置选项](https://blog.csdn.net/carlsun80/article/details/77017733/) : FATFS  USE_TRIM 
+
 Tools
 ==
 [CoIDE](https://www.st.com/content/st_com/zh/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-ides/coide.html) : CooCox CoIDE，一个面向ARM Cortex MCU的免费且高度集成的软件开发环境
