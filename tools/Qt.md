@@ -7,8 +7,28 @@
 
 [QT：QDial设置刻度的问题](https://blog.csdn.net/clhjswe/article/details/81448723) : QT：QDial设置刻度的问题 
 
+[宁静的天空](https://www.cnblogs.com/ribavnu/p/4820279.html): 宁静的天空 
+
+
+
 
 ## 系统类
+
+[QLineEdit 获得焦点后全选文本](https://blog.csdn.net/shaoyiju/article/details/97941735) : QLineEdit 获得焦点后全选文本 
+
+[QT LineEdit 全选文本](https://blog.csdn.net/qq_33652784/article/details/104967320) : QT LineEdit 全选文本 
+
+[Qt lineEdit按下回车键获取信息](https://blog.csdn.net/bluekrystal/article/details/73863748) : Qt lineEdit按下回车键获取信息 
+
+[Qt通过拖放方式在界面中打开文件](https://blog.csdn.net/qq_39987383/article/details/90706010) : Qt通过拖放方式在界面中打开文件 
+
+[7-干货！ QT -实现使用拖放打开文件，以及打开可拖动的图片](https://blog.csdn.net/a3631568/article/details/53819972) : 7-干货！ QT -实现使用拖放打开文件，以及打开可拖动的图片 
+
+[QByteArray与QString的互相转换](https://www.cnblogs.com/xpylovely/p/11246331.html) : QByteArray与QString的互相转换 
+
+[QT常用的类型转换（QByteArray/QString/char*/uint8等）](https://blog.csdn.net/qq_31073871/article/details/79881354) : QT常用的类型转换（QByteArray/QString/char*/uint8等） 
+
+[QString与char*的相互转换](https://blog.csdn.net/qq_33485434/article/details/78790285) : QString与char*的相互转换 
 
 
 

@@ -1,8 +1,8 @@
 # STM32
 该目录用于记录STM32相关的书签
 
-STM32CubeMX
-==
+##STM32CubeMX
+
 [STM32CubeMX](https://www.stmcu.org.cn/document/detail/index/id-214984) : STM32CubeMX是基于eclipse 的一个插件，用来对STM32产品的配置及初始化代码的生成。(UM1718)
 
 [使用STM32CubeMX编写USB复合设备](https://www.taterli.com/2355/) : stm32cubemx USB 如何作为多个设备  
@@ -11,8 +11,14 @@ STM32CubeMX
 
 [FatFs模块功能配置选项](https://blog.csdn.net/carlsun80/article/details/77017733/) : FATFS  USE_TRIM 
 
-Tools
-==
+[分享STM32 读保护和写保护](http://www.stmcu.org.cn/module/forum/thread-608728-1-1.html) : 分享STM32 读保护和写保护 
+
+[STM32F103VBT6 HAL库设置FLASH读保护](https://bbs.21ic.com/icview-2543706-1-1.html) : STM32F103VBT6 HAL库设置FLASH读保护 
+
+[STM32写选项字节（option bytes）的正确姿势](https://www.cnblogs.com/cp42/p/4653950.html) : STM32写选项字节（option bytes）的正确姿势 
+
+##Tools
+
 [CoIDE](https://www.st.com/content/st_com/zh/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-ides/coide.html) : CooCox CoIDE，一个面向ARM Cortex MCU的免费且高度集成的软件开发环境
 
 [Linux下STM32开发环境的搭建](https://www.cnblogs.com/amanlikethis/p/3803736.html) : Linux下STM32开发环境的搭建 

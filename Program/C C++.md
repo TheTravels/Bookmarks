@@ -13,6 +13,9 @@
 
 [vsscanf用法解析](https://blog.csdn.net/swif_n_f/article/details/78722481) : vsscanf用法解析 
 
+[【C程序】从路径中截取文件名的方法×2](https://blog.csdn.net/sinat_36184075/article/details/80425682) : 【C程序】从路径中截取文件名的方法×2 
+
+[C/C++ 字符、字符串转十六进制(支持中文字符串转换)](https://www.cnblogs.com/YZFHKMS-X/p/11829021.html) : C/C++ 字符、字符串转十六进制(支持中文字符串转换) 
 
 # C++
 [C++强制类型转换操作符 dynamic_cast](https://www.cnblogs.com/xiangtingshen/p/10851851.html) : C++强制类型转换操作符 dynamic_cast 
