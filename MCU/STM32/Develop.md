@@ -24,6 +24,16 @@
 
 [AN3376](https://www.stmcu.org.cn/document/detail/index/id-200493) : AN3376 
 
+[STSW-STM32065](https://www.st.com/content/st_com/zh/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32-standard-peripheral-libraries/stsw-stm32065.html) : STM32F4 DSP和标准外设库 
+
+[SPL2LL_Converter](https://www.stmcu.org.cn/document/detail/index/id-218166) : STM32标准外设库到STM32Cube低层API迁移工具 
+
+[AN5044](https://www.stmcu.org.cn/document/detail/index/id-218105) : STM32标准外设库为STM32Cube低层迁移 
+
+[STSW-STM32067](https://www.stmcu.org.cn/document/detail/index/id-213644) : 通过USART对STM32F4进行在线升级 
+
+[NUCLEO-F401RE](https://www.st.com/content/st_com/zh/products/evaluation-tools/product-evaluation-tools/mcu-mpu-eval-tools/stm32-mcu-mpu-eval-tools/stm32-nucleo-boards/nucleo-f401re.html#resource) : 采用STM32F401RE MCU的STM32 Nucleo-64开发板，支持Arduino和ST morpho连接 
+
 
 
 
