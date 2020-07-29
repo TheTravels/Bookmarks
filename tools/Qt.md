@@ -31,6 +31,7 @@
 [QString与char*的相互转换](https://blog.csdn.net/qq_33485434/article/details/78790285) : QString与char*的相互转换 
 [Qt获取CPU编号和硬盘序列号](https://www.cnblogs.com/feiyangqingyun/p/10443149.html) : qt 获取 CPU信息
 [Qt-序列号生成器](https://blog.csdn.net/z609932088/article/details/78736383) : qt 生成机器码
+[QT设置控件颜色](https://blog.csdn.net/peapon/article/details/29881639) : Qt 设置控件颜色
 
 
 ## 环境
