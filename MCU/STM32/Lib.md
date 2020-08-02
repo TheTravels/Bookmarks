@@ -10,6 +10,37 @@
 [关于STM32中CAN1_RX0_IRQn和CAN1_RX1_IRQn的使用](https://www.cnblogs.com/liushuhe1990/articles/12766935.html) : STM32 CAN RX1 RX0中断
 [stm32CubeMx CAN 发送数据](https://www.cnblogs.com/birdBull/p/10905067.html) : STM32Cube CAN
 
+## STD
+[stm32f4xx标准外设固件库](https://www.cnblogs.com/King-Gentleman/p/4369381.html) : STM32 gcc 库
+[arm-none-eabi-gcc,makefile,stm官方库构建stm32f4xx工程](https://www.cnblogs.com/zzmv/p/5893267.html)
+
+## IDE
+[STM-STUDIO-STM32](https://www.st.com/zh/development-tools/stm-studio-stm32.html) : STM32微控制器的STM Studio运行时间变量监控和可视化工具
+[SW4STM32](https://www.st.com/zh/development-tools/sw4stm32.html#overview) : System Workbench for STM32：Windows、Linux和OS X上的免费IDE
+[最新！为STM32开发者而打造的开发软件-TrueStudio](https://baijiahao.baidu.com/s?id=1595005483050421937&wfr=spider&for=pc)
+[TrueStudio](https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-ides/truestudio.html) : A powerful eclipse based C/C++ integrated development tool for your STM32 projects
+[如何使用Eclipse和GCC搭建STM32环境](https://www.stmcu.org.cn/document/detail/index/id-217628)
+[STM32免费开发环境该用谁](https://www.stmcu.org.cn/document/detail/index/id-218328)
+[USB CDC类入门培训](https://www.stmcu.org.cn/document/detail/index/id-218029)
+[从STM32Cube库向标准外设库移植FatFs文件系统](https://www.stmcu.org.cn/document/detail/index/id-217844)
+[如何建立一个基于GIT的STM32库](https://www.stmcu.org.cn/document/detail/index/id-217646)
+[KEIL中如何程序在RAM 中运行](https://www.stmcu.org.cn/document/detail/index/id-216743)
+[一种从用户代码调用系统存储器中Bootloader 的方法](https://www.stmcu.org.cn/document/detail/index/id-217309)
+[STM32F091空片使用System Bootloader下载代码](https://www.stmcu.org.cn/document/detail/index/id-216553)
+[STM32F09x不使用BOOT脚实现System Bootloader升级代码](https://www.stmcu.org.cn/document/detail/index/id-216363)
+[STM32F091从自举程序向应用程序跳转的问题与解决](https://www.stmcu.org.cn/document/detail/index/id-216218)
+[Boot Loader与上位机通信不稳定](https://www.stmcu.org.cn/document/detail/index/id-214834)
+[使用STM32F427的CCM RAM时遇到的问题](https://www.stmcu.org.cn/document/detail/index/id-217840)
+[STM8 CAN总线的IdMask模式的讲解](https://www.stmcu.org.cn/document/detail/index/id-217136)
+[基于Cube库无法检测CAN2的接收中断](https://www.stmcu.org.cn/document/detail/index/id-217498)
+[SWIM协议的GPIO模拟](https://www.stmcu.org.cn/document/detail/index/id-217839)
+[(Eclipse)(STM32) STM32在Eclipse編程](https://www.cnblogs.com/ollie-lin/p/10918343.html)
+
+
+
+
+
+
 
 
 ## FATFS
