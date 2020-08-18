@@ -29,6 +29,12 @@
 [UDSDemo](https://github.com/ukign/UDSDemo) : UDS协议栈源码
 [canfd_tp](https://github.com/ukign/canfd_tp) : can tranport layer demo based on iso 15765-2 2016,canfd support in this version
 
+## J1939
+[J1939](https://github.com/XeiTongXueFlyMe/J1939) : 基于SAE J1939协议，开源可移植的J1939驱动。 
+[J1939_stack](https://github.com/mikebailey61/J1939_stack) : J1939 stack 
+[j1939](https://github.com/yougukepp/j1939) : j1939协议库 
+[TruckKernel](https://github.com/TruckHacking/TruckKernel) : BB kernel with J1939 and TruckDuck DTS 
+
 ## UDS
 
 [基于CANoe的UDS Bootloader刷写软件](https://blog.csdn.net/farmer00/article/details/105587545/)
@@ -71,7 +77,7 @@
 [UDS协议帧结构](https://a9school.com/uds-frame_structure/) : !!!
 [上传/下载功能单元](https://a9school.com/uds-upload_and_download/)
 [19ECU_Code](https://github.com/ShieldQiQi/19ECU_Code) : 哈工大无人车19ECU代码
-
+[基于CAN总线的汽车诊断协议UDS (网络层 ISO 15765)](https://blog.csdn.net/qq_28086637/article/details/73699677)
 
 ## UDSonCAN
 [UdsOnCan](https://github.com/HouiLei/UdsOnCan) : No description, website, or topics provided.

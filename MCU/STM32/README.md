@@ -17,6 +17,9 @@
 
 [STM32写选项字节（option bytes）的正确姿势](https://www.cnblogs.com/cp42/p/4653950.html) : STM32写选项字节（option bytes）的正确姿势 
 
+## USB 
+[STM32 USB虚拟串口](https://www.cnblogs.com/hiker-blogs/p/stm32_usb.html)
+[STM32 软件复位并模拟USB拔插](https://www.cnblogs.com/xingboy/p/9872381.html)
 
 ##Tools
 
@@ -45,12 +48,11 @@
 [fatfs移植和使用（在SPI_FLASH上建立文件系统）](https://blog.csdn.net/qq_21475601/article/details/78032854) : FATFS移植 
 
 
-F1
-==
+##F1
 
 
-F4
-==
+##F4
+
 [STM32CubeF4](https://my.st.com/content/my_st_com/zh/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32cube-mcu-mpu-packages/stm32cubef4.license=1557128035033.product=STM32CubeF4.version=1.24.0.html) : ST官方例程
 
 [STM32CubeF4|固件库](https://www.stmcu.org.cn/document/detail/index/id-214993) : 针对STM32F4系列的STM32Cube软件包（HAL驱动，USB，以太网，文件系统）
@@ -75,8 +77,8 @@ F4
 
 
 
-doc
-==
+##doc
+
 [阿波罗STM32F429开发板光盘资料](https://pan.baidu.com/s/1qYWqGA4?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=&#list/path=%2Fsharelink3993209745-45761792156446%2F%E3%80%90%E6%AD%A3%E7%82%B9%E5%8E%9F%E5%AD%90%E3%80%91%E9%98%BF%E6%B3%A2%E7%BD%97STM32F429%E5%BC%80%E5%8F%91%E6%9D%BF%E5%85%89%E7%9B%98%E8%B5%84%E6%96%99&parentPath=%2Fsharelink3993209745-45761792156446) : 阿波罗STM32F429开发板光盘资料
 
 

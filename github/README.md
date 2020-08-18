@@ -112,6 +112,10 @@
 
 [设置git用户名和email](https://blog.csdn.net/web_note/article/details/80337440):设置git用户名和email
 
+[gitignore](https://github.com/github/gitignore)
+
+[git](https://github.com/git/git) : Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+
 
 
 # GitHub Apps

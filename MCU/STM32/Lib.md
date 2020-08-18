@@ -13,6 +13,16 @@
 ## STD
 [stm32f4xx标准外设固件库](https://www.cnblogs.com/King-Gentleman/p/4369381.html) : STM32 gcc 库
 [arm-none-eabi-gcc,makefile,stm官方库构建stm32f4xx工程](https://www.cnblogs.com/zzmv/p/5893267.html)
+[STM32F4(Flash读保护)](https://blog.csdn.net/u012325601/article/details/56298404)
+[第51章 设置FLASH的读写保护及解除—零死角玩转STM32-F429系列](https://www.cnblogs.com/firege/p/5806164.html)
+[STM32 Standard Peripheral Libraries](https://www.st.com/en/embedded-software/stm32-standard-peripheral-libraries.html)
+[STSW-STM32065](https://www.st.com/content/st_com/en/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32-standard-peripheral-libraries/stsw-stm32065.html) : STM32F4 DSP and standard peripherals library
+[STSW-STM32065](https://www.stmcu.org.cn/document/detail/index/id-213641) : STM32F4 DSP和标准外设例程库
+[STSW-STM32129](https://www.stmcu.org.cn/document/detail/index/id-214716) : 使用NIST统计测试套件进行STM32F2xx，STM32F4xx随机数生成验证 
+[STSW-STM32067](https://www.stmcu.org.cn/document/detail/index/id-213644) : 通过USART对STM32F4进行在线升级
+[STSW-STM32156](https://www.stmcu.org.cn/document/detail/index/id-216153) : 在STM32F4系列实现模拟的通用异步收发器
+[STSW-STM32046](https://www.stmcu.org.cn/document/detail/index/id-213182) : STM32F105/7,STM32F2和STM32F4 USB OTG主机和设备库 
+
 
 ## IDE
 [STM-STUDIO-STM32](https://www.st.com/zh/development-tools/stm-studio-stm32.html) : STM32微控制器的STM Studio运行时间变量监控和可视化工具
@@ -50,5 +60,11 @@
 [FatFS文件系统 （每条指令讲的都很细）](https://blog.csdn.net/limanjihe/article/details/52302711) : FatFS文件系统 （每条指令讲的都很细） 
 
 
+
+## OPIX
+
+[stm32 RTC实现 time函数<time.h>](https://www.jianshu.com/p/36c827123efb)
+
+[STM32使用C标准库time.h里面的时间时钟函数](https://blog.csdn.net/makeworks/article/details/78244671)
 
 

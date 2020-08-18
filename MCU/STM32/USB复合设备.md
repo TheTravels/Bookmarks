@@ -8,13 +8,10 @@
 
 [CDC_MSC](https://github.com/uwyciw/CDC_MSC) : github 
 
-[使用STM32CubeMX编写USB复合设备](https://www.taterli.com/2355/) : 使用STM32CubeMX编写USB复合设备 
-
 [stm32cubemx生成U盘+CDC复合设备，问题请教！](https://www.xiaopingtou.cn/q-158506.html) : stm32cubemx生成U盘+CDC复合设备，问题请教！
 
 [STM32 USB复合设备编写](https://blog.csdn.net/u012841414/article/details/105454094/) : STM32 USB复合设备编写
 
-[使用STM32CubeMX编写USB复合设备](https://www.taterli.com/2355/) : 使用STM32CubeMX编写USB复合设备
 
 
 ## USB 

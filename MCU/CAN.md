@@ -19,5 +19,15 @@
 
 [STM32 CAN总线工作原理](https://blog.csdn.net/baidu_37366055/article/details/98070376)
 
+[CAN通讯详解](https://blog.csdn.net/CSDN_Yoa/article/details/81384924)
+
+[stm32CubeMx CAN 发送数据](https://www.cnblogs.com/birdBull/p/10905067.html) : 实现 CAN 的发送
+
+[stm32-can](https://github.com/itachi1121/stm32-can) : No description, website, or topics provided.
+
+[STM32F4 CubeMX HAL CAN 使用步骤](https://blog.csdn.net/u012308586/article/details/81001102)
+
+[STM32CubeMX系列教程12:控制器局域网络(CAN)](https://www.waveshare.net/study/article-651-1.html)
+
 
 

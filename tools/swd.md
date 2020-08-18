@@ -43,7 +43,7 @@
 
 [blackmagic](https://github.com/molnarkares/blackmagic/tree/master/hardware/contrib/lyorak) : lyorak 
 
-[STLink](http://wiki.paparazziuav.org/wiki/STLink#Update_the_ST-Link_to_blackmagic_probe) : STLink 
+[STLink](http://wiki.paparazziuav.org/wiki/STLink#Update_the_ST-Link_to_blackmagic_probe) : wiki.paparazziuav.org 
 
 [stlink clone support](https://github.com/blacksphere/blackmagic/issues/62) : stlink clone support 
 

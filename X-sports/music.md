@@ -17,3 +17,7 @@
 [别哭，我最爱的人](http://music.163.com/song?id=376173&userid=1879804271) : 水木年华
 
 [莫失莫忘简谱](http://www.cnscore.com/Jianpu/XianJianQiXiaZhuanChaQuMoShiMoWang_Jianpu.html) : 仙剑奇侠传插曲：莫失莫忘简谱 
+
+[类似爱情](http://www.jdlg.net/jingdianlaoge500shou/A820.html) : 萧亚轩 
+
+[孤星独吟](https://music.163.com/#/song?id=28665884) : 电视剧《风云雄霸天下》插曲 

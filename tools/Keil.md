@@ -23,4 +23,8 @@
 
 [MDK 连接 JLINK SWO 调试STM32 输出串口信息到Debug (printf) Viewer](http://blog.sina.com.cn/s/blog_b5e6d3de0102vjmz.html)
 
+[keil注册机：让你的keil“续命”到2032年](https://www.bilibili.com/read/cv5055735)
 
+[准备下载：keil注册机2032年.zip](https://72k.us/file804/10165491-428107594)
+
+[keil注册机，2032年的](https://blog.csdn.net/zhizhoukeji/article/details/104674227)

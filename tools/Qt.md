@@ -51,4 +51,7 @@
 [QT5打包发布程序的方法](https://blog.csdn.net/dongqing27/article/details/51668622) : QT5打包发布程序的方法 
 
 
+## USB
+[QT USB通信--方案选择](https://blog.csdn.net/peixiuhui/article/details/76723443)
+[hidapi](https://github.com/signal11/hidapi) : A Simple library for communicating with USB and Bluetooth HID devices on Linux, Mac, and Windows.
 
