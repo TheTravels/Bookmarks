@@ -43,6 +43,8 @@ Shell
 
 [Beyond Compare](https://www.scootersoftware.com/download.php) : 文件比较工具，收费软件
 
+[如何解决Beyond Compare中文乱码问题](https://www.beyondcompare.cc/wenti/zhongwen-luanma.html)
+
 
 ##仿真
 [TINA-TI](http://www.ti.com.cn/tool/cn/tina-ti) : 基于 SPICE 的模拟仿真程序

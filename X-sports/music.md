@@ -21,3 +21,11 @@
 [类似爱情](http://www.jdlg.net/jingdianlaoge500shou/A820.html) : 萧亚轩 
 
 [孤星独吟](https://music.163.com/#/song?id=28665884) : 电视剧《风云雄霸天下》插曲 
+
+[渴望](http://www.jianpu.cn/pu/24/242721.htm)渴望（电视连续剧《渴望》主题歌）,简谱
+
+[渴望](https://music.163.com/#/song?id=276362) : 电视剧《渴望》主题曲 
+
+[莫失莫忘](https://music.163.com/#/song?id=29999506&autoplay=true&market=baiduhd) : 麦振鸿
+
+[爱的代价](https://music.163.com/#/song?id=327345) : 张艾嘉 
