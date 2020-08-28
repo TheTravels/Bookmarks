@@ -32,6 +32,16 @@
 
 [CAN-Bus-ECU-reading-with-STM32F429-STM32Fxxx-](https://github.com/AbdullahJalloul/CAN-Bus-ECU-reading-with-STM32F429-STM32Fxxx-) : CAN-Bus-ECU-reading-with-STM32F429-STM32Fxxx- 
 
+## 逻辑分析仪
+
+[开源逻辑分析仪](https://www.muselab-tech.com/zi-ji-dong-shou-zuo-kai-yuan-luo-ji-fen-xi-yi/) : nanoDLA是实验室推出的开源逻辑分析仪，使用Cypress CY7C68013A（以下简称FX2LP）芯片方案实现 
+
+[nanoDLA](https://github.com/wuxx/nanoDLA) : nanoDLA 是MuseLab推出硬件软件以及上位机均开源的逻辑分析仪，外观精致小巧，功能丰富，价格低廉，最高可支持24Mhz采样率，同时支持百余种协议解析。 
+
+[fx2lafw](https://github.com/oxyum/fx2lafw) : fx2lafw is a free/libre/open-source firmware for logic analyzers based on the Cypress EZ-USB FX2(LP) chip. 
+
+[fx2lafw](https://github.com/jhol/fx2lafw) : No description, website, or topics provided. 
+
 
 ## BIN TO HEX
 
