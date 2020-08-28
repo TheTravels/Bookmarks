@@ -28,3 +28,19 @@
 [准备下载：keil注册机2032年.zip](https://72k.us/file804/10165491-428107594)
 
 [keil注册机，2032年的](https://blog.csdn.net/zhizhoukeji/article/details/104674227)
+
+[MDK 编译器优化](https://blog.csdn.net/zuixin369/article/details/85346085)
+
+[MDK编译优化笔记](https://www.cnblogs.com/w-smile/p/10012749.html)
+
+[STM32开发 -- Keil使用](https://blog.csdn.net/zhouxinlin2009/article/details/88415408)
+
+[KEIL5中C/C++优化等级问题](https://blog.csdn.net/liuqi3256797/article/details/90137350)
+
+[Keil里面直接包含二进制文件](https://www.jianshu.com/p/64a475aa018f)
+
+[INCBIN](https://www.keil.com/support/man/docs/armasm/armasm_dom1361290017052.htm)
+
+[INCBIN and bootloader](https://community.arm.com/developer/tools-software/tools/f/keil-forum/29476/incbin-and-bootloader)
+
+
