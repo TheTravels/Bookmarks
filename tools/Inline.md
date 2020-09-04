@@ -4,6 +4,8 @@
 
 [在线解析](https://www.sojson.com/hexadecimal.html) : 16进制转换文本 / 文本转16进制
 
+[BCC校验(异或校验)在线计算](http://www.ip33.com/bcc.html)
+
 ## 地图
 [Make an HTML Map (Google/Leaflet) from a GPS file](https://www.gpsvisualizer.com/map_input) : GPS数据在线画轨迹
 
