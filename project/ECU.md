@@ -78,6 +78,8 @@
 [上传/下载功能单元](https://a9school.com/uds-upload_and_download/)
 [19ECU_Code](https://github.com/ShieldQiQi/19ECU_Code) : 哈工大无人车19ECU代码
 [基于CAN总线的汽车诊断协议UDS (网络层 ISO 15765)](https://blog.csdn.net/qq_28086637/article/details/73699677)
+[UDS协议（车辆控制单元诊断系统开发架构及DID读取数据流程）](https://blog.csdn.net/u012252959/article/details/83154392)
+
 
 ## UDSonCAN
 [UdsOnCan](https://github.com/HouiLei/UdsOnCan) : No description, website, or topics provided.
