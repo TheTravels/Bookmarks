@@ -22,6 +22,13 @@
 
 [评《 红雀 》](https://movie.xunlei.com/reviews/212768?entrypage=xlx_startup_page&entry=xlx_banner) 
 
+## 登山
+[这十二部必看经典攀登电影,户外爱好者一定不能错过! ](https://www.sohu.com/a/303925313_416654) : K2攀登电影
+
+[垂直极限HD](https://www.cmcm5.com/dongzuopian/chuizhijixian.html) : K2攀登电影 
+
+[10部经典登山电影](http://movie.mtime.com/list/1319.html) : K2攀登电影 
+
 ## 纪录片
 
 [在世界尽头相遇](https://www.btmao.cc/v/8841.html) : 世界尽头的奇遇,冰旅记事
