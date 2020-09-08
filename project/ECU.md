@@ -35,6 +35,19 @@
 [j1939](https://github.com/yougukepp/j1939) : j1939协议库 
 [TruckKernel](https://github.com/TruckHacking/TruckKernel) : BB kernel with J1939 and TruckDuck DTS 
 
+[J1939 SAE J1939 protocol stack](https://www.stmicroelectronics.com.cn/content/st_com/zh/products/embedded-software/mcu-mpu-embedded-software/stm32-embedded-software/stm32-3rd-party-embedded-software/j1939.html) :  STM32第三方嵌入式软件  J1939 
+
+[CAN ID 中的J1939-PGN](https://blog.csdn.net/huan447882949/article/details/79944298)
+[康明斯发动机J1939（CAN）总线解析-论文](http://www.doc88.com/p-3847774849418.html)
+[解析CAN的J1939协议PDU报文](https://blog.csdn.net/lx2385623371/article/details/78810877)
+[J1939协议与CAN2.0对应关系图表](https://blog.csdn.net/langshi_2011/article/details/81560079)
+[sae-j1939](https://github.com/cpperrr/sae-j1939)
+[j1939decode](https://github.com/jackm/j1939decode)
+[J1939](https://github.com/JackZhao2017/J1939/blob/develop/Apps/src/JzJ1939.c) : J1939/Apps/src/JzJ1939.c
+[MDK-OBD-1939](https://github.com/Sampkia/MDK-OBD-1939) : J1939和JTT808协议 
+[CANBUS_J1939_CANopen](https://github.com/MinMengbin/CANBUS_J1939_CANopen) : CANBUS_CANopen_J1939_ABB_PLC_ROS_can-utils 
+
+
 ## UDS
 
 [基于CANoe的UDS Bootloader刷写软件](https://blog.csdn.net/farmer00/article/details/105587545/)

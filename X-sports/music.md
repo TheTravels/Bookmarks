@@ -29,3 +29,7 @@
 [莫失莫忘](https://music.163.com/#/song?id=29999506&autoplay=true&market=baiduhd) : 麦振鸿
 
 [爱的代价](https://music.163.com/#/song?id=327345) : 张艾嘉 
+
+[为爱停留](http://www.yymp3.com/Play/5076/62906.htm) : 郑源
+
+[为爱停留](https://i.xiami.com/song/1771010704) : 郑源
