@@ -55,7 +55,7 @@
   
 [scons](https://github.com/SCons/scons) : SCons - a software construction tool http://scons.org 
 
-[cpu使用率分析](https://www.rt-thread.org/qa/thread-2903-1-1.html) : cpu使用率分析 
+[cpu使用率分析](https://www.rt-thread.org/qa/thread-2903-1-1.html) : cpu使用率分析 n
 
 [如何选择合适的 RT-Thread 版本进行开发/学习？](https://mp.weixin.qq.com/s/d1YKCW5lR95cA3ZSyb2tBw) : 如何选择合适的 RT-Thread 版本进行开发/学习？ 
 
