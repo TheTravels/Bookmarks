@@ -40,7 +40,10 @@
 [UDSDemo](https://github.com/jiangjie87481/UDSDemo) : Demo code of UDS
 [my_uds](https://github.com/geekyes/my_uds) : src/python_auto_test : 测试脚步来自
 [mcu_uds](https://github.com/miaozhendaoren/mcu_uds) : No description, website, or topics provided.
-[mcu_uds_protol](https://github.com/jiangjie87481/mcu_uds_protol) : 小型MCU实现网络诊断功能源代码
+[mcu_uds_protol](https://github.com/jiangjie87481/mcu_uds_protol) : 小型MCU实现网络诊断功能源代码 
+
+## 15765
+[汽车UDS诊断教程 ISO15765（八）](https://blog.csdn.net/weixin_42019584/article/details/103757810)
 
 ## J1939
 [J1939](https://github.com/XeiTongXueFlyMe/J1939) : 基于SAE J1939协议，开源可移植的J1939驱动。 
@@ -53,7 +56,11 @@
 [BMW-GS-CAN-Sniffer](https://github.com/Joezhang1980/BMW-GS-CAN-Sniffer) : No description, website, or topics provided. 
 [J1939-proto-stack](https://github.com/pengnianchun/J1939-proto-stack)
 [J1939sun](https://github.com/wllis/J1939sun) : 一个开源的J1939协议总线分析调试器源代码（开发中。。。。。） 
-
+[J1939协议之通俗易懂----简介](https://blog.csdn.net/langshi_2011/article/details/90209298)
+[[实践]利用J1939传输8字节以上的数据（TP长帧传输](http://www.voidcn.com/article/p-tmysgkeh-bqp.html)
+[SAE-J1939-application](http://www.pudn.com/Download/item/id/1476267.html) 
+[J1939_Decode](https://github.com/Truck-OBD-Development/J1939_Decode)
+[CAN总线多帧即连续帧数据发送 拆包与重装](https://blog.csdn.net/mengqingbin5219/article/details/77970774)
 
 [CAN ID 中的J1939-PGN](https://blog.csdn.net/huan447882949/article/details/79944298)
 [康明斯发动机J1939（CAN）总线解析-论文](http://www.doc88.com/p-3847774849418.html)
@@ -69,28 +76,18 @@
 ## UDS
 
 [基于CANoe的UDS Bootloader刷写软件](https://blog.csdn.net/farmer00/article/details/105587545/)
-
 [UDS on CAN协议的Bootloader刷写](https://zhuanlan.zhihu.com/p/66140683)
-
 [图解基于UDS的Flash BootLoader](https://zhuanlan.zhihu.com/p/69819290)
-
 [基于UDS服务的BootLoader架构和刷写流程](https://zhuanlan.zhihu.com/p/148017247)
-
 [【dsPIC33E】Bootloader（一）Bootloader的介绍与Flash结构](https://blog.csdn.net/u010875635/article/details/84660611)
-
 [基于UDS的ECU软件刷写流程](https://zhuanlan.zhihu.com/p/37645386)
-
 [Bootloader升级方式一————擦、写flash在RAM中运行](https://blog.csdn.net/minyuanxiani/article/details/79913353)
-
 [ISO 14229系列（二）：诊断指令格式和相关概念](https://blog.csdn.net/tfslovexizi/article/details/88524243) : ISO 14229-2
-
 [ISO14229系列之二：诊断指令格式和相关概念](https://www.cnblogs.com/autogeek/p/4458658.html) : ISO 14229-2
-
 [ISO14229系列之一：简介](https://www.cnblogs.com/autogeek/p/4458591.html)
-
 [汽车仪表是如何计算总计里程和小计里程的？](https://www.cnblogs.com/autogeek/p/4225017.html)
-
 [ISO14229 UDS( 无水印)简体中文版](http://www.100gsoft.cn/softdown/4965.html#downaddress) : ISO14229中文版下载
+[UDS_19服务学习笔记](https://blog.csdn.net/qq628383/article/details/101150540)
 
 [如何看懂UDS诊断报文](https://www.jianshu.com/p/b5805e734ed6) : !!!
 [UDS请求和响应的数据帧格式](https://blog.csdn.net/ChenGuiGan/article/details/87777584)
