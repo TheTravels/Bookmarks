@@ -16,11 +16,16 @@
 #include <string.h>
 #include <stdint.h>
 
+#ifdef __cplusplus
+extern "C" {
+#endif
+
 //#define MQ_NINLINE   // 不使用内联
 
 //#if defined(mq_type) && defined(MQ_LEN) && defined(MQT)
 #if defined(mq_func) && defined(mq_type) && defined(MQ_LEN) && defined(MQT)
 
+/*_____________________________________________________________ 使用模板实现 C队列 ________________________________________________________________*/
 //#define mq_func(name)	  mq_##name##_temp
 
 #if 0 // 队列数据结构定义
@@ -72,24 +77,24 @@ static __inline void mq_func(init)(mq_type* const _mq)
 // 判断缓存是否为空
 static __inline uint16_t mq_func(isempty)(const mq_type* const _mq)
 {
-	uint16_t r_tmp;
-	r_tmp = _mq->Index_r+1;
-	if(r_tmp>=MQ_LEN) r_tmp=0;
-	if(r_tmp == _mq->Index_w) return 1;  /* empty */
+	uint16_t index_r;
+	index_r = _mq->Index_r+1;
+	if(index_r>=MQ_LEN) index_r=0;
+	if(index_r == _mq->Index_w) return 1;  /* empty */
 	return 0;
 }
 // 获取缓存中数据长度
 static __inline uint16_t mq_func(size)(const mq_type* const _mq)
 {
-	uint16_t r_tmp;
-	uint16_t index_w = _mq->Index_w;
-	r_tmp = _mq->Index_r+1;
-	if(r_tmp>=MQ_LEN) r_tmp=0;
-	if(index_w>=r_tmp) return (index_w-r_tmp); // 数据长度
+	uint16_t index_r;
+	uint32_t index_w = _mq->Index_w;
+	index_r = _mq->Index_r+1;
+	if(index_r>=MQ_LEN) index_r=0;
+	if(index_w>=index_r) return (index_w-index_r); // 数据长度
 	// 循环队列, index_w<r_tmp
 	else
 	{
-		return (index_w+MQ_LEN-r_tmp);
+		return (index_w+MQ_LEN-index_r);
 	}
 }
 /*_____________________________________________________________ API write ________________________________________________________________*/
@@ -280,47 +285,47 @@ extern void mq_func(safe_del)(mq_type* const _mq, const uint16_t _size) ;
 #endif  // MQ_NINLINE
 
 /*_____________________________________________________________ 宏操作 ________________________________________________________________*/
-#ifndef macro_mq_write
-#define macro_mq_write(_byte,_mq)  do{ \
-			if(_mq.index_w != _mq.index_r) memcpy(&_mq._value[_mq->Index_w++], &_byte, sizeof(MQT)); \
-			if(_mq.index_w>=(sizeof(_mq.buf)/sizeof(_mq.buf[0]))) _mq.index_w=0; \
+#ifndef macro_mqt_write
+#define macro_mqt_write(_byte,_mq)  do{ \
+			if(_mq.Index_w != _mq.Index_r) memcpy(&_mq._value[_mq.Index_w++], &_byte, sizeof(_mq._value[0])); \
+			if(_mq.Index_w>=(sizeof(_mq._value)/sizeof(_mq._value[0])) ) _mq.Index_w=0; \
 }while(0);
 #endif
 
-#ifndef macro_mq_write_cover
-#define macro_mq_write_cover(_byte,_mq)  do{ \
-			if(_mq.index_w != _mq.index_r) memcpy(&_mq._value[_mq->Index_w++], &_byte, sizeof(MQT)); \
-			else {_mq.index_r++; if(_mq.index_r>=(sizeof(_mq.buf)/sizeof(_mq.buf[0]))) _mq.index_r=0; memcpy(&_mq._value[_mq->Index_w++], &_byte, sizeof(MQT));} \
-			if(_mq.index_w>=MQ_LEN) _mq.index_w=0; \
+#ifndef macro_mqt_write_cover
+#define macro_mqt_write_cover(_byte,_mq)  do{ \
+			if(_mq.Index_w != _mq.Index_r) memcpy(&_mq._value[_mq.Index_w++], &_byte, sizeof(_mq._value[0])); \
+			else {_mq.Index_r++; if(_mq.Index_r>=(sizeof(_mq._value)/sizeof(_mq._value[0])) ) _mq.Index_r=0; memcpy(&_mq._value[_mq.Index_w++], &_byte, sizeof(_mq._value[0]));} \
+			if(_mq.Index_w>=(sizeof(_mq._value)/sizeof(_mq._value[0])) ) _mq.Index_w=0; \
 }while(0);
 #endif
 
-#ifndef macro_mq_read
-#define macro_mq_read(index,buf,_size,_mq)  do{ \
+#ifndef macro_mqt_reads
+#define macro_mqt_reads(index,buf,_size,_mq)  do{ \
 			/*memset(buf, 0, _size);*/ \
 			for(index=0; index<_size; index++) \
 			{ \
-				    uint16_t r_tmp; \
-					r_tmp = _mq.index_r+1; \
-					if(r_tmp>=(sizeof(_mq.buf)/sizeof(_mq.buf[0]))) r_tmp=0; \
-					if(r_tmp == _mq.index_w) break;  /* empty */ \
-					buf[index] = _mq.buf[r_tmp]; \
-					_mq.index_r = r_tmp; \
+				    uint16_t index_r; \
+					index_r = _mq.Index_r+1; \
+					if(index_r>=(sizeof(_mq._value)/sizeof(_mq._value[0])) ) index_r=0; \
+					if(index_r == _mq.index_w) break;  /* empty */ \
+					memcpy(buf[index], &_mq._value[index_r], sizeof(_mq._value[0])); \
+					_mq.Index_r = index_r; \
 			} \
 }while(0);
 #endif
 
-#ifndef macro_mq_read_safe
-#define macro_mq_read_safe(index,buf,_size,_mq)  do{ \
-			memset(buf, 0, _size); \
+#ifndef macro_mqt_reads_safe
+#define macro_mqt_reads_safe(index,buf,_size,_mq)  do{ \
+			/*memset(buf, 0, _size);*/ \
 			for(index=0; index<_size; index++) \
 			{ \
-				    uint16_t r_tmp; \
-					r_tmp = _mq.index_safe+1; \
-					if(r_tmp>=(sizeof(_mq.buf)/sizeof(_mq.buf[0]))) r_tmp=0; \
-					if(r_tmp == _mq.index_w) break;  /* empty */ \
-					buf[index] = _mq.buf[r_tmp]; \
-					_mq.index_safe = r_tmp; \
+				    uint16_t index_r; \
+					index_r = _mq.Index_safe+1; \
+					if(index_r>=(sizeof(_mq._value)/sizeof(_mq._value[0]))) index_r=0; \
+					if(index_r == _mq.index_w) break;  /* empty */ \
+					memcpy(buf[index], &_mq._value[index_r], sizeof(_mq._value[0])); \
+					_mq.Index_safe = index_r; \
 			} \
 }while(0);
 #endif
@@ -330,4 +335,9 @@ extern void mq_func(safe_del)(mq_type* const _mq, const uint16_t _size) ;
 #undef mq_type
 #undef MQ_LEN
 #undef MQT
+
+#ifdef __cplusplus
+}
+#endif
+
 #endif // __MERA_QUEUE_H__

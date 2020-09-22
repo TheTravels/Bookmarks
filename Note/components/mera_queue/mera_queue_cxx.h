@@ -21,6 +21,7 @@
 #ifndef __MERA_QUEUE_CXX_H__
 #define __MERA_QUEUE_CXX_H__
 
+/*_____________________________________________________________ 使用模板实现 C++队列 ________________________________________________________________*/
 /// Template class for array variables.
 ///
 /// Objects created using this template behave like arrays of the type T,
@@ -34,17 +35,20 @@ template<typename MQT, uint16_t MQ_LEN>
 class mera_queue_cxx
 {
 protected:
-		uint16_t Index_r;
-		uint16_t Index_w;
-		uint16_t Index_safe;
-		MQT _value[MQ_LEN];
+		struct {
+			uint16_t Index_r;
+			uint16_t Index_w;
+			uint16_t Index_safe;
+			MQT _value[MQ_LEN];
+		}_mq;
 public:
 /*_____________________________________________________________ API ________________________________________________________________*/
 void init(void)
 { 
-		memset(_value, 0, sizeof(_value));
-		Index_w = 0; 
-		Index_r = MQ_LEN-1;
+		memset(_mq._value, 0, sizeof(_mq._value)); 
+		_mq.Index_safe = 0; 
+		_mq.Index_w = 0;
+		_mq.Index_r = MQ_LEN-1;
 }
 /*
  * mera_queue1: size = index_w - index_r - 1;
@@ -75,106 +79,106 @@ void init(void)
 // 判断缓存是否为空
 uint16_t isempty(void)
 {
-	uint16_t r_tmp;
-	r_tmp = Index_r+1;
-	if(r_tmp>=MQ_LEN) r_tmp=0;
-	if(r_tmp == Index_w) return 1;  /* empty */
+	uint16_t index_r;
+	index_r = _mq.Index_r+1;
+	if(index_r>=MQ_LEN) index_r=0;
+	if(index_r == _mq.Index_w) return 1;  /* empty */
 	return 0;
 }
 // 获取缓存中数据长度
 uint16_t size(void)
 {
-	uint16_t r_tmp;
-	uint16_t index_w = Index_w;
-	r_tmp = Index_r+1;
-	if(r_tmp>=MQ_LEN) r_tmp=0;
-	if(index_w>=r_tmp) return (index_w-r_tmp); // 数据长度
+	uint16_t index_r;
+	uint32_t index_w = _mq.Index_w;
+	index_r = _mq.Index_r+1;
+	if(index_r>=MQ_LEN) index_r=0;
+	if(index_w>=index_r) return (index_w-index_r); // 数据长度
 	// 循环队列, index_w<r_tmp
 	else
 	{
-		return (index_w+MQ_LEN-r_tmp);
+		return (index_w+MQ_LEN-index_r);
 	}
 }
 /*_____________________________________________________________ API write ________________________________________________________________*/
 int write(const MQT _byte)  
 { 
-			if(Index_w != Index_r) memcpy(&_value[Index_w++], &_byte, sizeof(MQT)); 
-			if(Index_w>=MQ_LEN) Index_w=0; 
+			if(_mq.Index_w != _mq.Index_r) memcpy(&_mq._value[_mq.Index_w++], &_byte, sizeof(MQT)); 
+			if(_mq.Index_w>=MQ_LEN) _mq.Index_w=0; 
 			return 1;
 }
 int write(const MQT* const _byte)  
 { 
-			if(Index_w != Index_r) memcpy(&_value[Index_w++], _byte, sizeof(MQT)); 
-			if(Index_w>=MQ_LEN) Index_w=0; 
+			if(_mq.Index_w != _mq.Index_r) memcpy(&_mq._value[_mq.Index_w++], _byte, sizeof(MQT)); 
+			if(_mq.Index_w>=MQ_LEN) _mq.Index_w=0; 
 			return 1;
 }
 int write_cover(const MQT _byte) 
 { 
-		uint16_t index_w = Index_w;
-		uint16_t index_r = Index_r;
-		if(index_w != index_r) memcpy(&_value[index_w++], &_byte, sizeof(MQT)); 
+		uint16_t index_w = _mq.Index_w;
+		uint16_t index_r = _mq.Index_r;
+		if(index_w != index_r) memcpy(&_mq._value[index_w++], &_byte, sizeof(MQT)); 
 		else 
 		{
 				index_r++; 
 				if(index_r>=MQ_LEN) index_r=0; 
-				memcpy(&_value[index_w++], &_byte, sizeof(MQT)); 
+				memcpy(&_mq._value[index_w++], &_byte, sizeof(MQT)); 
 		} 
 		if(index_w>=MQ_LEN) index_w=0;
-		Index_r = index_r;		
-		Index_w = index_w; 
+		_mq.Index_r = index_r;		
+		_mq.Index_w = index_w; 
 		return 1;
 } 
 int write_cover(const MQT* const _byte) 
 { 
-		uint16_t index_w = Index_w;
-		uint16_t index_r = Index_r;
-		if(index_w != index_r) memcpy(&_value[index_w++], _byte, sizeof(MQT)); 
+		uint16_t index_w = _mq.Index_w;
+		uint16_t index_r = _mq.Index_r;
+		if(index_w != index_r) memcpy(&_mq._value[index_w++], _byte, sizeof(MQT)); 
 		else 
 		{
 				index_r++; 
 				if(index_r>=MQ_LEN) index_r=0; 
-				memcpy(&_value[index_w++], _byte, sizeof(MQT)); 
+				memcpy(&_mq._value[index_w++], _byte, sizeof(MQT)); 
 		} 
 		if(index_w>=MQ_LEN) index_w=0;
-		Index_r = index_r;		
-		Index_w = index_w; 
+		_mq.Index_r = index_r;		
+		_mq.Index_w = index_w; 
 		return 1;
 } 
 
 int writes(const MQT _byte[], const uint16_t _size)  
 { 
 		uint16_t len;
-		uint16_t index_w = Index_w;
-		/*volatile*/ const uint16_t index_r = Index_r;
+		uint16_t index_w = _mq.Index_w;
+		/*volatile*/ const uint16_t index_r = _mq.Index_r;
 		//index_w = Index_w;
 		for(len=0; len<_size; len++)
 		{
 				if(index_r == index_w) break;
-				memcpy(&_value[index_w++], &_byte[len], sizeof(MQT)); 
+				memcpy(&_mq._value[index_w++], &_byte[len], sizeof(MQT)); 
 				if(index_w>=MQ_LEN) index_w=0; 
 		}		
-		Index_w = index_w;
+		_mq.Index_w = index_w;
 		return len;
 }
 int writes_cover(const MQT _byte[], const uint16_t _size)  
 { 
 		uint16_t len;
-		uint16_t index_w = Index_w;
-		uint16_t index_r = Index_r;
+		uint16_t index_w = _mq.Index_w;
+		uint16_t index_r = _mq.Index_r;
 		//index_w = Index_w;
 		for(len=0; len<_size; len++)
 		{
-				if(index_r != index_w) memcpy(&_value[index_w++], &_byte[len], sizeof(MQT)); 
+				if(index_r != index_w) memcpy(&_mq._value[index_w++], &_byte[len], sizeof(MQT)); 
 				else 
 				{
 					index_r++; 
 					if(index_r>=MQ_LEN) index_r=0; 
-					memcpy(&_value[index_w++], &_byte[len], sizeof(MQT)); 
+					memcpy(&_mq._value[index_w++], &_byte[len], sizeof(MQT)); 
 				}
 				if(index_w>=MQ_LEN) index_w=0; 
 		}
-		Index_r = index_r;		
-		Index_w = index_w;
+		_mq.Index_r = index_r;		
+		_mq.Index_w = index_w;
 		return len;
 }
 /*_____________________________________________________________ API read ________________________________________________________________*/
@@ -183,12 +187,12 @@ int read(MQT* const _byte)
 		int ret=-1;
 	  uint16_t r_tmp;
 		//__asm("CPSID  I");
-		r_tmp = Index_r+1;
+		r_tmp = _mq.Index_r+1;
 		if(r_tmp>=MQ_LEN) r_tmp=0;
-		if(r_tmp != Index_w)
+		if(r_tmp != _mq.Index_w)
 		{
-				memcpy(_byte, &_value[r_tmp], sizeof(MQT)); //*_byte = _queue->buf[r_tmp];
-				Index_r = r_tmp;
+				memcpy(_byte, &_mq._value[r_tmp], sizeof(MQT)); //*_byte = _queue->buf[r_tmp];
+				_mq.Index_r = r_tmp;
 				ret = 0;
 		}
 		//__asm("CPSIE  I");
@@ -197,39 +201,39 @@ int read(MQT* const _byte)
 uint16_t reads(MQT buf[], const uint16_t buf_size)
 {
 		uint16_t index=0;
-	  uint16_t index_r = Index_r;
-		const uint16_t index_w = Index_w;
+	  uint16_t index_r = _mq.Index_r;
+		const uint16_t index_w = _mq.Index_w;
 		memset(buf, 0, buf_size*sizeof(MQT));
 		for(index=0; index<buf_size; index++)
 		{
 				index_r++;
 				if(index_r>=MQ_LEN) index_r=0;
 				if(index_w == index_r) break;  // empty
-				Index_r = index_r;
-				memcpy(&buf[index], &_value[index_r], sizeof(MQT));//buf[index] = _queue->buf[index_r++];
+				_mq.Index_r = index_r;
+				memcpy(&buf[index], &_mq._value[index_r], sizeof(MQT));//buf[index] = _queue->buf[index_r++];
 		}
 		return index;
 }
 /*_____________________________________________________________ API safe ________________________________________________________________*/
 void init_safe(void)
 { 
-	Index_safe = Index_r;
+	_mq.Index_safe = _mq.Index_r;
 }
 uint16_t read_safe(MQT* const _byte)
 { 
 	uint16_t index_r; 
-	index_r = Index_safe+1; 
+	index_r = _mq.Index_safe+1; 
 	if(index_r>=MQ_LEN) index_r=0; 
 	if(index_r == Index_w) return 0;  /* empty */
-	memcpy(_byte, &_value[index_r], sizeof(MQT)); 
-	Index_safe = index_r; 
+	memcpy(_byte, &_mq._value[index_r], sizeof(MQT)); 
+	_mq.Index_safe = index_r; 
 	return 1;
 }
 uint16_t reads_safe(MQT buf[], const uint16_t _size)  
 {
 		uint16_t index;
-		uint16_t index_r = Index_safe;
-		const uint16_t index_w = Index_w;
+		uint16_t index_r = _mq.Index_safe;
+		const uint16_t index_w = _mq.Index_w;
 		//index_r = Index_safe;
 		//memset(buf, 0, buf_size*sizeof(T)); 
 		for(index=0; index<_size; index++) 
@@ -237,8 +241,8 @@ uint16_t reads_safe(MQT buf[], const uint16_t _size)
 				index_r++;
 				if(index_r>=MQ_LEN) index_r=0; 
 				if(index_w == index_r) break;  /* empty */ 
-				Index_safe = index_r;
-				memcpy(&buf[index], &_value[index_r], sizeof(MQT));//buf[index] = _queue->buf[index_r];  
+				_mq.Index_safe = index_r;
+				memcpy(&buf[index], &_mq._value[index_r], sizeof(MQT));//buf[index] = _queue->buf[index_r];  
 		}
 		return index;
 }
@@ -246,14 +250,14 @@ uint16_t reads_safe(MQT buf[], const uint16_t _size)
 void safe_del(const uint16_t _size)
 {
 	uint16_t index;
-	uint16_t index_r = Index_r;
-	const uint16_t index_w = Index_w;
+	uint16_t index_r = _mq.Index_r;
+	const uint16_t index_w = _mq.Index_w;
 	for(index=0; index<_size; index++)
 	{
 		index_r++;
 		if(index_r>=MQ_LEN) index_r=0;
 		if(index_w == index_r) break;  /* empty */
-		Index_r = index_r;
+		_mq.Index_r = index_r;
 	}
 }
     //static const uint16_t MQ_LEN = N;
@@ -263,11 +267,11 @@ void safe_del(const uint16_t _size)
     /// @note It would be nice to range-check i here, but then what would we return?
     ///
     const MQT & operator[](uint16_t i) {
-        return _value[i];
+        return _mq._value[i];
     }
 
     const MQT & operator[](int16_t i) {
-        return _value[(uint16_t)i];
+        return _mq._value[(uint16_t)i];
     }
 
     /// Value getter
@@ -276,7 +280,7 @@ void safe_del(const uint16_t _size)
     ///
     MQT get(uint16_t i) const {
         if (i < MQ_LEN) {
-            return _value[i];
+            return _mq._value[i];
         } else {
             return (T)0;
         }
@@ -288,7 +292,7 @@ void safe_del(const uint16_t _size)
     ///
     void  set(uint8_t i, const MQT &v) {
         if (i < MQ_LEN) {
-            _value[i] = v;
+            _mq._value[i] = v;
         }
     }
 
@@ -309,7 +313,7 @@ protected:
 //AP_PARAMDEF(int16_t, Int16, AP_PARAM_INT16);  // defines AP_Int16
 //AP_PARAMDEF(int32_t, Int32, AP_PARAM_INT32);  // defines AP_Int32
 
-typedef mera_queue_cxx<uint8_t, 1024*24> MQ_24K;
+typedef mera_queue_cxx<uint8_t, 1024*24-6> MQ_24K;
 typedef mera_queue_cxx<uint8_t, 4096+128> MQ_4096;
 typedef mera_queue_cxx<uint8_t, 512+128> MQ_512;
 

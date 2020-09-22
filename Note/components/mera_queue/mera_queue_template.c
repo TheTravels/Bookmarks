@@ -5,6 +5,7 @@
 * Last Modified Date : 09/18/2020
 * Description        : 循环队列,C实现,仿 C++ 模板写法,此处为模板通过宏展开生成具体的操作代码.
 * Reference          : https://blog.csdn.net/zoomdy/article/details/79242528.
+* Reference          : https://blog.csdn.net/qq_38329839/article/details/83003980.
 ********************************************************************************
 * https://merafour.blog.163.com
 * merafour@163.com
@@ -18,6 +19,7 @@
 //#if defined(mq_type) && defined(MQ_LEN) && defined(MQT)
 #if defined(mq_func) && defined(mq_type) && defined(MQ_LEN) && defined(MQT) && defined(MQ_NINLINE)
 
+/*_____________________________________________________________ 使用模板实现 C队列 ________________________________________________________________*/
 //#define mq_func(name)	  mq_##name##_temp
 
 #if 0 // 队列数据结构定义
@@ -68,27 +70,26 @@ void mq_func(init)(mq_type* const _mq)
 // 判断缓存是否为空
 uint16_t mq_func(isempty)(const mq_type* const _mq)
 {
-	uint16_t r_tmp;
-	r_tmp = _mq->Index_r+1;
-	if(r_tmp>=MQ_LEN) r_tmp=0;
-	if(r_tmp == _mq->Index_w) return 1;  /* empty */
+	uint16_t index_r;
+	index_r = _mq->Index_r+1;
+	if(index_r>=MQ_LEN) index_r=0;
+	if(index_r == _mq->Index_w) return 1;  /* empty */
 	return 0;
 }
 // 获取缓存中数据长度
 uint16_t mq_func(size)(const mq_type* const _mq)
 {
-	uint16_t r_tmp;
-	uint16_t index_w = _mq->Index_w;
-	r_tmp = _mq->Index_r+1;
-	if(r_tmp>=MQ_LEN) r_tmp=0;
-	if(index_w>=r_tmp) return (index_w-r_tmp); // 数据长度
+	uint16_t index_r;
+	uint32_t index_w = _mq->Index_w;
+	index_r = _mq->Index_r+1;
+	if(index_r>=MQ_LEN) index_r=0;
+	if(index_w>=index_r) return (index_w-index_r); // 数据长度
 	// 循环队列, index_w<r_tmp
 	else
 	{
-		return (index_w+MQ_LEN-r_tmp);
+		return (index_w+MQ_LEN-index_r);
 	}
 }
-
 /*_____________________________________________________________ API write ________________________________________________________________*/
 
 int mq_func(write)(mq_type* const _mq, const MQT _byte)  
