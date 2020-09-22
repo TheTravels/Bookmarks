@@ -1,6 +1,11 @@
 # Qt
 ### 该项目用于存放 ECU 书签
 
+## DOC
+[UDS](https://github.com/taoynkkx/UDS) : UDS协议翻译 
+[J1939-proto-stack](https://github.com/pengnianchun/J1939-proto-stack) : J1939协议栈 
+
+
 ## ECU
 
 [博世(BOSCH) ECU BootLoader设计思路](https://blog.csdn.net/Allen_Spring/article/details/107145344) : 德国博世bosch ECU 刷写 
@@ -72,6 +77,8 @@
 [MDK-OBD-1939](https://github.com/Sampkia/MDK-OBD-1939) : J1939和JTT808协议 
 [CANBUS_J1939_CANopen](https://github.com/MinMengbin/CANBUS_J1939_CANopen) : CANBUS_CANopen_J1939_ABB_PLC_ROS_can-utils 
 
+[J1939 入门教程](https://blog.whatsroot.xyz/2019/03/31/J1939-introduction/)
+[SAE J1939学习笔记(一)](https://www.pianshen.com/article/2945588280/)
 
 ## UDS
 
