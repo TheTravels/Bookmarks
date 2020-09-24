@@ -5,6 +5,11 @@
 [UDS](https://github.com/taoynkkx/UDS) : UDS协议翻译 
 [J1939-proto-stack](https://github.com/pengnianchun/J1939-proto-stack) : J1939协议栈 
 
+## OpenXC
+[OpenXC](https://shop.openxcplatform.com/)
+[vi-firmware](https://github.com/openxc/vi-firmware) : OpenXC-compatible firmware for PIC32 and LPC1768 
+[openxc-message-format](https://github.com/openxc/openxc-message-format)
+[openxc-c](https://github.com/openxc/openxc-c) : C library to access data from an OpenXC vehicle interface 
 
 ## ECU
 
@@ -39,6 +44,7 @@
 [obdii](https://github.com/gooseberrypi/obdii) : C API for OBD-II vehicle diagnostics 
 [ELM327-OBDII-STM32](https://github.com/ARoozitalab/ELM327-OBDII-STM32) : this src using stm32f103 as data converter for OBD . support 9141-2 ,15765 
 [UCCBEmbedded](https://github.com/iwasz/UCCBEmbedded) : Embedded Software for UCCB STM32 microcontroller. 
+[ISO14230和SAEJ1939以及ISO15765协议的比较](https://blog.csdn.net/huan447882949/article/details/80278865)
 
 
 ## 参考代码
@@ -66,6 +72,7 @@
 [SAE-J1939-application](http://www.pudn.com/Download/item/id/1476267.html) 
 [J1939_Decode](https://github.com/Truck-OBD-Development/J1939_Decode)
 [CAN总线多帧即连续帧数据发送 拆包与重装](https://blog.csdn.net/mengqingbin5219/article/details/77970774)
+[SAEJ1939,第一波](https://blog.csdn.net/new_eggs/article/details/9046031)
 
 [CAN ID 中的J1939-PGN](https://blog.csdn.net/huan447882949/article/details/79944298)
 [康明斯发动机J1939（CAN）总线解析-论文](http://www.doc88.com/p-3847774849418.html)
