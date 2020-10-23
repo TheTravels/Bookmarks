@@ -5,8 +5,8 @@
 
 [码云Pages](https://gitee.com/help/articles/4136#article-header0) : 码云帮助中心 
 
-##Hexo
-==
+## Hexo
+
 [Hexo](https://hexo.io/zh-cn/docs/) : 欢迎使用 Hexo，本文档将帮助您快速上手 
 
 [从Hugo到Hexo](https://www.jianshu.com/p/3d250d516716) : 从Hugo到Hexo 
@@ -27,9 +27,16 @@
 
 [主题](https://hexo.io/zh-cn/docs/themes) : 主题 
 
-##主题
-==
+
+## 教程
+[HEXO+ 码云 Pages,构建轻量简约博客](https://learnku.com/articles/5550/hexo-ma-yun-gou-jian-zi-ji-de-mian-fei-bo-ke)
+
+
+## 主题
+
 [NexT ](http://theme-next.iissnan.com/) : NexT 主题
+
+[开始使用](http://theme-next.iissnan.com/getting-started.html)
 
 [安装 NexT](http://theme-next.iissnan.com/getting-started.html) : NexT 主题
 

@@ -4,6 +4,9 @@
 ## DOC
 [UDS](https://github.com/taoynkkx/UDS) : UDS协议翻译 
 [J1939-proto-stack](https://github.com/pengnianchun/J1939-proto-stack) : J1939协议栈 
+[J1939简介](https://www.kvaser.cn/about-can/higher-layer-protocols/j1939-introduction/)
+[J1939标准概述](https://www.kvaser.cn/about-can/higher-layer-protocols/j1939-standards-overview/)
+[ISO14229 UDS( 无水印)简体中文版](http://www.100gsoft.cn/softdown/4965.html#downaddress)
 
 ## OpenXC
 [OpenXC](https://shop.openxcplatform.com/)
@@ -119,7 +122,13 @@
 [19ECU_Code](https://github.com/ShieldQiQi/19ECU_Code) : 哈工大无人车19ECU代码
 [基于CAN总线的汽车诊断协议UDS (网络层 ISO 15765)](https://blog.csdn.net/qq_28086637/article/details/73699677)
 [UDS协议（车辆控制单元诊断系统开发架构及DID读取数据流程）](https://blog.csdn.net/u012252959/article/details/83154392)
-
+[统一诊断服务 (Unified diagnostic services ， UDS) （七）](https://zhuanlan.zhihu.com/p/35143680)
+[统一诊断服务 (Unified diagnostic services ， UDS) （六）](https://zhuanlan.zhihu.com/p/34886986)
+[统一诊断服务 (Unified diagnostic services ， UDS) （一）](https://zhuanlan.zhihu.com/p/33583593)
+[统一诊断服务 (Unified diagnostic services ， UDS) （二）](https://zhuanlan.zhihu.com/p/33742492)
+[统一诊断服务 (Unified diagnostic services ， UDS) （三）](https://zhuanlan.zhihu.com/p/33852614)
+[统一诊断服务 (Unified diagnostic services ， UDS) （四）](https://zhuanlan.zhihu.com/p/33995635)
+[统一诊断服务 (Unified diagnostic services ， UDS) （五）](https://zhuanlan.zhihu.com/p/34425737)
 
 ## UDSonCAN
 [UdsOnCan](https://github.com/HouiLei/UdsOnCan) : No description, website, or topics provided.

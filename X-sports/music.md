@@ -20,9 +20,14 @@
 [孤星独吟](https://music.163.com/#/song?id=28665884) : 电视剧《风云雄霸天下》插曲 
 [只要你过得比我好](https://music.163.com/#/song?id=194526) : 钟镇涛 
 [相思](https://m.ximalaya.com/yinyue/7253738/33217219) : 叶凡 
-[相思 (纯音乐)](http://www.kuwo.cn/play_detail/60575201) : 叶凡 
 [相思](https://www.kugou.com/song/1elg1e.html?frombaidu?frombaidu#hash=BB2D7E5854826284FA6ECAB4D45DE332&album_id=1598854) : 叶凡 
+[叶凡《相思》](https://www.hifini.com/thread-35190.htm)
+[摇太阳](https://www.xiami.com/song/1795267506)
+[醉千年](https://www.xiami.com/album/2104761487)
+[顾小洁/李袁杰《醉千年》](https://www.hifini.com/thread-12005.htm)
 
+## 纯音乐
+[相思 (纯音乐)](http://www.kuwo.cn/play_detail/60575201) : 叶凡 
 
 ## 简谱
 [莫失莫忘简谱](http://www.cnscore.com/Jianpu/XianJianQiXiaZhuanChaQuMoShiMoWang_Jianpu.html) : 仙剑奇侠传插曲：莫失莫忘简谱 
